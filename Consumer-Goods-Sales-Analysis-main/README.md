@@ -75,6 +75,6 @@ As shown in the above workflow; we are first performing necessary cleaning and t
 Finally; we leverage the clean & analysis-ready dataset for exploratory data analysis (EDA) using Jupyter Notebook and creating an insightful report using Power BI.
 
 
-Demo![dashboard]([https://github.com/MohamedNufais5891/SalesInsights_projects/blob/main/Consumer-Goods-Sales-Analysis-main/DASHBOARD/market_research_report_dashboard_of_fmcg_industry_slide01.jpg]
+Demo![dashboard](https://github.com/MohamedNufais5891/SalesInsights_projects/blob/main/Consumer-Goods-Sales-Analysis-main/DASHBOARD/market_research_report_dashboard_of_fmcg_industry_slide01.jpg)
 
 The interactive Power BI dashboard can be viewed here:
