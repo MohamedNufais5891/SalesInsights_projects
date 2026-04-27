@@ -1,8 +1,8 @@
-## Sales Insights Data Analysis Project
+## Sales Insights Data Analysis Project(4month)
 
-### Instructions to setup mysql on your local computer
+### Instructions to setup PostgreSQL on your local computer
 
-1. Follow step in this video to install mysql on your local computer
+1. Follow step in this video to install PostgreSQL on your local computer
 https://youtu.be/4qH-7w5LZsA?si=LrutKiWn7Cvodakd
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
