@@ -18,7 +18,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![Project_Process](Capture.JPG)
 
-## 🛠️ How to Use This Project
+## 🛠️ How to did this Project
 
 1. Clone the repository
    git clone https://github.com/MohamedNufais5891/SalesInsights_projects.git cd Customer_Insights_Data_Analysis
@@ -34,10 +34,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
                      (iii).Open Sales_insights_sql_queries.sql
                       (iv).Answer Business Questions using SQL Queries
 4.Connect the SQL Database to Power BI
-                       (i).Open customer_behavior_dashboard.pbix
-
-Create interactive dashboard in Power BI
-   
+                       (i). Open Sales_insight_data.pbix
+                       (ii).Create interactive dashboard in Power BI
+5.Create Project Report and Presentation
+                         
 
 
 
