@@ -22,7 +22,21 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. Clone the repository
    git clone https://github.com/MohamedNufais5891/SalesInsights_projects.git cd Customer_Insights_Data_Analysis
-2. 
+2. Open Sales_Insights_Analysis.ipynb Notebook
+              this file contains:
+                               (i).Data Import
+                               (ii).Data exploration
+                               (iii).Data cleaning
+                                (iv).Connection to SQL Database
+3.Load the data from Jupyter Notebook into PostgreSQL Server
+                     (i).Create a new database in SQL
+                     (ii).Run Python code to load data into SQL database
+                     (iii).Open Sales_insights_sql_queries.sql
+                      (iv).Answer Business Questions using SQL Queries
+4.Connect the SQL Database to Power BI
+                       (i).Open customer_behavior_dashboard.pbix
+
+Create interactive dashboard in Power BI
    
 
 
