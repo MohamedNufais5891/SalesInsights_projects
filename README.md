@@ -19,7 +19,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ![Project_Process](Capture.JPG)
 
 ## 🛠️ How to Use This Project
-
+1. Clone the repository
+   
 
 
 
