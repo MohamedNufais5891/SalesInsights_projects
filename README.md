@@ -21,7 +21,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. Clone the repository
-   git clone https://github.com/MohamedNufais5891/SalesInsights_projects.git cd customer-trends-data-analysis-SQL-Python-PowerBI
+   git clone https://github.com/MohamedNufais5891/SalesInsights_projects.git cd Customer_Insights_Data_Analysis
+2. 
    
 
 
