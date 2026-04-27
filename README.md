@@ -5,7 +5,18 @@
 1. Follow step in this video to install PostgreSQL on your local computer
 https://youtu.be/4qH-7w5LZsA?si=LrutKiWn7Cvodakd
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+## 📌 Project Overview
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+
 
 ### Data Analysis Using SQL
 
@@ -47,10 +58,7 @@ https://youtu.be/4qH-7w5LZsA?si=LrutKiWn7Cvodakd
 and transactions.market_code="Mark001";`
 
 
-Data Analysis Using Power BI
-============================
 
-1. Formula to create norm_amount column
 
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
