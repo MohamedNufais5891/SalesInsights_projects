@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Sales,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+750-67-8428,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,22407,7,7842.45,164691.45,1/5/2019,1:08:00 PM,Mobile Payment,156849,4.761904762,7842.45,9.1
+226-31-3081,Kandy,Kandy,Normal,Female,Mobile & Accessories,4584,5,1146,24066,3/8/2019,10:29:00 AM,Cash,22920,4.761904762,1146,9.6
+631-41-3108,Colombo,Colombo,Normal,Female,Household Essentials,13899,7,4864.65,102157.65,3/3/2019,1:23:00 PM,Credit Card,97293,4.761904762,4864.65,7.4
+123-19-1176,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,17466,8,6986.4,146714.4,1/27/2019,8:33:00 PM,Mobile Payment,139728,4.761904762,6986.4,8.4
+373-73-7910,Colombo,Colombo,Member,Female,Travel Packs & Gear,25893,7,9062.55,190313.55,2/8/2019,10:37:00 AM,Mobile Payment,181251,4.761904762,9062.55,5.3
+699-14-3026,Kandy,Kandy,Member,Female,Mobile & Accessories,25617,7,8965.95,188284.95,3/25/2019,6:30:00 PM,Mobile Payment,179319,4.761904762,8965.95,4.1
+355-53-5943,Colombo,Colombo,Member,Female,Mobile & Accessories,20652,6,6195.6,130107.6,2/25/2019,2:36:00 PM,Mobile Payment,123912,4.761904762,6195.6,5.8
+315-22-5665,Kandy,Kandy,Member,Female,Household Essentials,22068,10,11034,231714,2/24/2019,11:38:00 AM,Mobile Payment,220680,4.761904762,11034,8
+665-32-9167,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,10878,2,1087.8,22843.8,1/10/2019,5:15:00 PM,Credit Card,21756,4.761904762,1087.8,7.2
+692-92-5582,Galle,Galle,Member,Female,Grocery & Snacks,16452,3,2467.8,51823.8,2/20/2019,1:27:00 PM,Credit Card,49356,4.761904762,2467.8,5.9
+351-62-0822,Galle,Galle,Member,Female,Apparel & Footwear,4344,4,868.8,18244.8,2/6/2019,6:07:00 PM,Mobile Payment,17376,4.761904762,868.8,4.5
+529-56-3974,Galle,Galle,Member,Female,Mobile & Accessories,7653,4,1530.6,32142.6,3/9/2019,5:03:00 PM,Cash,30612,4.761904762,1530.6,6.8
+365-64-0515,Colombo,Colombo,Member,Female,Mobile & Accessories,14085,5,3521.25,73946.25,2/12/2019,10:25:00 AM,Mobile Payment,70425,4.761904762,3521.25,7.1
+252-56-2699,Colombo,Colombo,Member,Female,Grocery & Snacks,12957,10,6478.5,136048.5,2/7/2019,4:48:00 PM,Mobile Payment,129570,4.761904762,6478.5,8.2
+829-34-3910,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,21414,10,10707,224847,3/29/2019,7:21:00 PM,Cash,214140,4.761904762,10707,5.7
+299-46-1805,Galle,Galle,Member,Female,Travel Packs & Gear,28116,6,8434.8,177130.8,1/15/2019,4:19:00 PM,Cash,168696,4.761904762,8434.8,4.5
+656-95-9349,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,20679,7,7237.65,151990.65,3/11/2019,11:03:00 AM,Credit Card,144753,4.761904762,7237.65,4.6
+765-26-6951,Colombo,Colombo,Member,Female,Travel Packs & Gear,21783,6,6534.9,137232.9,1/1/2019,10:39:00 AM,Credit Card,130698,4.761904762,6534.9,6.9
+329-62-1586,Colombo,Colombo,Member,Female,Grocery & Snacks,16401,3,2460.15,51663.15,1/21/2019,6:00:00 PM,Credit Card,49203,4.761904762,2460.15,8.6
+319-50-3348,Galle,Galle,Member,Female,Household Essentials,12090,2,1209,25389,3/11/2019,3:30:00 PM,Mobile Payment,24180,4.761904762,1209,4.4
+300-71-4605,Kandy,Kandy,Member,Female,Mobile & Accessories,25812,5,6453,135513,2/25/2019,11:24:00 AM,Mobile Payment,129060,4.761904762,6453,4.8
+371-85-5789,Galle,Galle,Member,Female,Ayurvedic & Personal Care,26394,3,3959.1,83141.1,3/5/2019,10:40:00 AM,Mobile Payment,79182,4.761904762,3959.1,5.1
+273-16-6619,Galle,Galle,Member,Female,Household Essentials,9960,2,996,20916,3/15/2019,12:20:00 PM,Credit Card,19920,4.761904762,996,4.4
+636-48-8204,Colombo,Colombo,Member,Female,Mobile & Accessories,10368,5,2592,54432,2/17/2019,11:15:00 AM,Mobile Payment,51840,4.761904762,2592,9.9
+549-59-1358,Colombo,Colombo,Member,Female,Travel Packs & Gear,26589,3,3988.35,83755.35,3/2/2019,5:36:00 PM,Mobile Payment,79767,4.761904762,3988.35,6
+227-03-5010,Colombo,Colombo,Member,Female,Household Essentials,15777,8,6310.8,132526.8,3/22/2019,7:20:00 PM,Credit Card,126216,4.761904762,6310.8,8.5
+649-29-6775,Galle,Galle,Member,Female,Apparel & Footwear,10056,1,502.8,10558.8,2/8/2019,3:31:00 PM,Cash,10056,4.761904762,502.8,6.7
+189-17-4241,Colombo,Colombo,Member,Female,Apparel & Footwear,26301,2,2630.1,55232.1,3/10/2019,12:17:00 PM,Credit Card,52602,4.761904762,2630.1,7.7
+145-94-9061,Galle,Galle,Member,Female,Grocery & Snacks,26508,5,6627,139167,1/25/2019,7:48:00 PM,Cash,132540,4.761904762,6627,9.6
+848-62-7243,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,7467,9,3360.15,70563.15,3/15/2019,3:36:00 PM,Cash,67203,4.761904762,3360.15,7.4
+871-79-8483,Galle,Galle,Member,Female,Apparel & Footwear,28239,5,7059.75,148254.75,2/25/2019,7:39:00 PM,Credit Card,141195,4.761904762,7059.75,4.8
+149-71-6266,Galle,Galle,Member,Female,Travel Packs & Gear,23421,9,10539.45,221328.45,1/28/2019,12:43:00 PM,Cash,210789,4.761904762,10539.45,4.5
+640-49-2076,Galle,Galle,Member,Female,Travel Packs & Gear,25134,8,10053.6,211125.6,1/10/2019,2:49:00 PM,Cash,201072,4.761904762,10053.6,5.1
+595-11-5460,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,28974,2,2897.4,60845.4,3/15/2019,10:12:00 AM,Credit Card,57948,4.761904762,2897.4,5.1
+183-56-6882,Kandy,Kandy,Member,Female,Grocery & Snacks,29826,4,5965.2,125269.2,2/6/2019,10:42:00 AM,Mobile Payment,119304,4.761904762,5965.2,7.5
+232-16-2483,Kandy,Kandy,Member,Female,Travel Packs & Gear,20436,1,1021.8,21457.8,1/7/2019,12:28:00 PM,Mobile Payment,20436,4.761904762,1021.8,6.8
+129-29-8530,Colombo,Colombo,Member,Female,Travel Packs & Gear,18786,5,4696.5,98626.5,3/10/2019,7:15:00 PM,Mobile Payment,93930,4.761904762,4696.5,7
+272-65-1806,Colombo,Colombo,Member,Female,Mobile & Accessories,18264,9,8218.8,172594.8,1/15/2019,5:17:00 PM,Mobile Payment,164376,4.761904762,8218.8,4.7
+333-73-7901,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,16476,8,6590.4,138398.4,3/23/2019,1:24:00 PM,Mobile Payment,131808,4.761904762,6590.4,7.6
+777-82-7220,Galle,Galle,Member,Female,Household Essentials,9036,8,3614.4,75902.4,3/3/2019,1:01:00 PM,Cash,72288,4.761904762,3614.4,7.7
+280-35-5823,Galle,Galle,Member,Female,Household Essentials,26016,1,1300.8,27316.8,1/17/2019,6:45:00 PM,Mobile Payment,26016,4.761904762,1300.8,7.9
+554-53-8700,Kandy,Kandy,Member,Female,Household Essentials,16833,2,1683.3,35349.3,2/2/2019,10:11:00 AM,Cash,33666,4.761904762,1683.3,6.3
+354-25-5821,Galle,Galle,Member,Female,Travel Packs & Gear,20736,6,6220.8,130636.8,2/8/2019,1:03:00 PM,Cash,124416,4.761904762,6220.8,5.6
+228-96-1411,Kandy,Kandy,Member,Female,Grocery & Snacks,29610,8,11844,248724,3/4/2019,8:39:00 PM,Cash,236880,4.761904762,11844,7.6
+617-15-4209,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,4611,2,461.1,9683.1,3/16/2019,7:47:00 PM,Cash,9222,4.761904762,461.1,7.2
+132-32-9879,Galle,Galle,Member,Female,Mobile & Accessories,28188,4,5637.6,118389.6,3/9/2019,6:00:00 PM,Cash,112752,4.761904762,5637.6,9.5
+370-41-7321,Galle,Galle,Member,Female,Ayurvedic & Personal Care,17007,9,7653.15,160716.15,2/27/2019,5:24:00 PM,Credit Card,153063,4.761904762,7653.15,8.4
+727-46-3608,Galle,Galle,Member,Female,Grocery & Snacks,6003,9,2701.35,56728.35,2/6/2019,3:47:00 PM,Mobile Payment,54027,4.761904762,2701.35,4.1
+669-54-1719,Galle,Galle,Member,Female,Mobile & Accessories,5679,6,1703.7,35777.7,2/10/2019,12:45:00 PM,Credit Card,34074,4.761904762,1703.7,8.1
+574-22-5561,Kandy,Kandy,Member,Female,Apparel & Footwear,24789,10,12394.5,260284.5,3/19/2019,5:08:00 PM,Mobile Payment,247890,4.761904762,12394.5,7.9
+326-78-5178,Kandy,Kandy,Member,Female,Grocery & Snacks,27420,7,9597,201537,2/3/2019,10:19:00 AM,Cash,191940,4.761904762,9597,9.5
+162-48-8011,Colombo,Colombo,Member,Female,Grocery & Snacks,13377,5,3344.25,70229.25,2/10/2019,3:10:00 PM,Cash,66885,4.761904762,3344.25,8.5
+616-24-2851,Galle,Galle,Member,Female,Apparel & Footwear,5361,4,1072.2,22516.2,3/22/2019,2:42:00 PM,Mobile Payment,21444,4.761904762,1072.2,6.5
+778-71-5554,Kandy,Kandy,Member,Female,Apparel & Footwear,4629,1,231.45,4860.45,1/25/2019,3:46:00 PM,Credit Card,4629,4.761904762,231.45,6.1
+242-55-6721,Galle,Galle,Member,Female,Household Essentials,4848,2,484.8,10180.8,3/7/2019,11:49:00 AM,Mobile Payment,9696,4.761904762,484.8,6.5
+399-46-5918,Kandy,Kandy,Member,Female,Mobile & Accessories,25794,8,10317.6,216669.6,2/28/2019,7:01:00 PM,Cash,206352,4.761904762,10317.6,8.2
+106-35-6779,Colombo,Colombo,Member,Female,Household Essentials,13302,2,1330.2,27934.2,3/27/2019,11:26:00 AM,Cash,26604,4.761904762,1330.2,5.8
+635-40-6220,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,26880,8,10752,225792,2/7/2019,11:28:00 AM,Mobile Payment,215040,4.761904762,10752,6.6
+817-48-8732,Colombo,Colombo,Member,Female,Household Essentials,21705,10,10852.5,227902.5,1/20/2019,3:55:00 PM,Cash,217050,4.761904762,10852.5,5.4
+120-06-4233,Kandy,Kandy,Member,Female,Mobile & Accessories,9183,6,2754.9,57852.9,3/12/2019,8:36:00 PM,Cash,55098,4.761904762,2754.9,9.3
+285-68-5083,Kandy,Kandy,Member,Female,Travel Packs & Gear,7422,3,1113.3,23379.3,2/15/2019,5:47:00 PM,Credit Card,22266,4.761904762,1113.3,10
+803-83-5989,Kandy,Kandy,Member,Female,Household Essentials,16719,6,5015.7,105329.7,2/24/2019,10:55:00 AM,Mobile Payment,100314,4.761904762,5015.7,7
+347-34-2234,Galle,Galle,Member,Female,Travel Packs & Gear,16521,9,7434.45,156123.45,2/3/2019,1:40:00 PM,Mobile Payment,148689,4.761904762,7434.45,10
+199-75-8169,Colombo,Colombo,Member,Female,Travel Packs & Gear,4743,10,2371.5,49801.5,3/6/2019,12:27:00 PM,Credit Card,47430,4.761904762,2371.5,8.6
+853-23-2453,Galle,Galle,Member,Female,Ayurvedic & Personal Care,22722,4,4544.4,95432.4,2/14/2019,2:35:00 PM,Cash,90888,4.761904762,4544.4,7.6
+877-22-3308,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,4761,10,2380.5,49990.5,3/13/2019,4:40:00 PM,Cash,47610,4.761904762,2380.5,5.8
+838-78-4295,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,10041,2,1004.1,21086.1,2/10/2019,3:43:00 PM,Mobile Payment,20082,4.761904762,1004.1,6.7
+109-28-2512,Galle,Galle,Member,Female,Apparel & Footwear,29283,6,8784.9,184482.9,1/7/2019,3:01:00 PM,Mobile Payment,175698,4.761904762,8784.9,9.9
+232-11-3025,Colombo,Colombo,Member,Female,Travel Packs & Gear,23631,10,11815.5,248125.5,1/24/2019,10:04:00 AM,Cash,236310,4.761904762,11815.5,6.4
+382-03-4532,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,5499,1,274.95,5773.95,2/2/2019,6:50:00 PM,Cash,5499,4.761904762,274.95,4.3
+393-65-2792,Kandy,Kandy,Member,Female,Grocery & Snacks,26844,10,13422,281862,1/6/2019,12:46:00 PM,Credit Card,268440,4.761904762,13422,9.6
+796-12-2025,Kandy,Kandy,Member,Female,Apparel & Footwear,18636,10,9318,195678,2/11/2019,4:19:00 PM,Cash,186360,4.761904762,9318,5.9
+510-95-6347,Galle,Galle,Member,Female,Grocery & Snacks,14556,3,2183.4,45851.4,3/5/2019,6:17:00 PM,Mobile Payment,43668,4.761904762,2183.4,4
+841-35-6630,Kandy,Kandy,Member,Female,Mobile & Accessories,22773,6,6831.9,143469.9,3/9/2019,6:21:00 PM,Cash,136638,4.761904762,6831.9,8.7
+287-21-9091,Colombo,Colombo,Member,Female,Household Essentials,22401,9,10080.45,211689.45,1/22/2019,10:55:00 AM,Mobile Payment,201609,4.761904762,10080.45,9.4
+732-94-0499,Kandy,Kandy,Member,Female,Mobile & Accessories,12495,10,6247.5,131197.5,1/13/2019,5:04:00 PM,Credit Card,124950,4.761904762,6247.5,5.4
+263-10-3913,Kandy,Kandy,Member,Female,Apparel & Footwear,14712,9,6620.4,139028.4,1/9/2019,2:20:00 PM,Credit Card,132408,4.761904762,6620.4,8.6
+381-20-0914,Colombo,Colombo,Member,Female,Apparel & Footwear,6003,9,2701.35,56728.35,1/12/2019,3:48:00 PM,Credit Card,54027,4.761904762,2701.35,5.7
+829-49-1914,Kandy,Kandy,Member,Female,Grocery & Snacks,23493,10,11746.5,246676.5,3/5/2019,4:24:00 PM,Mobile Payment,234930,4.761904762,11746.5,6.6
+756-01-7507,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,6114,5,1528.5,32098.5,1/22/2019,6:56:00 PM,Cash,30570,4.761904762,1528.5,6
+870-72-4431,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,29757,6,8927.1,187469.1,1/21/2019,2:42:00 PM,Credit Card,178542,4.761904762,8927.1,5.5
+847-38-7188,Galle,Galle,Member,Female,Grocery & Snacks,29004,3,4350.6,91362.6,1/26/2019,7:56:00 PM,Mobile Payment,87012,4.761904762,4350.6,6.4
+480-63-2856,Kandy,Kandy,Member,Female,Grocery & Snacks,5775,8,2310,48510,1/23/2019,6:37:00 PM,Mobile Payment,46200,4.761904762,2310,6.6
+787-56-0757,Kandy,Kandy,Member,Female,Grocery & Snacks,24108,4,4821.6,101253.6,2/23/2019,6:45:00 PM,Credit Card,96432,4.761904762,4821.6,8.3
+360-39-5055,Kandy,Kandy,Member,Female,Travel Packs & Gear,14673,5,3668.25,77033.25,3/9/2019,10:17:00 AM,Cash,73365,4.761904762,3668.25,6.6
+730-50-9884,Kandy,Kandy,Member,Female,Travel Packs & Gear,24918,7,8721.3,183147.3,3/5/2019,2:31:00 PM,Mobile Payment,174426,4.761904762,8721.3,4
+362-58-8315,Kandy,Kandy,Member,Female,Apparel & Footwear,22956,5,5739,120519,3/25/2019,10:23:00 AM,Cash,114780,4.761904762,5739,9.9
+633-44-8566,Colombo,Colombo,Member,Female,Grocery & Snacks,14814,7,5184.9,108882.9,3/27/2019,8:35:00 PM,Credit Card,103698,4.761904762,5184.9,7.3
+504-35-8843,Colombo,Colombo,Member,Female,Travel Packs & Gear,12741,1,637.05,13378.05,1/2/2019,4:57:00 PM,Cash,12741,4.761904762,637.05,5.7
+318-68-5053,Galle,Galle,Member,Female,Ayurvedic & Personal Care,23097,6,6929.1,145511.1,2/27/2019,5:55:00 PM,Cash,138582,4.761904762,6929.1,6.1
+565-80-5980,Kandy,Kandy,Member,Female,Household Essentials,14214,4,2842.8,59698.8,1/23/2019,10:25:00 AM,Cash,56856,4.761904762,2842.8,7.1
+225-32-0908,Kandy,Kandy,Member,Female,Travel Packs & Gear,13458,10,6729,141309,1/26/2019,7:54:00 PM,Mobile Payment,134580,4.761904762,6729,8.2
+873-51-0671,Colombo,Colombo,Member,Female,Travel Packs & Gear,6594,7,2307.9,48465.9,1/10/2019,4:42:00 PM,Mobile Payment,46158,4.761904762,2307.9,5.1
+152-08-9985,Galle,Galle,Member,Female,Ayurvedic & Personal Care,19308,9,8688.6,182460.6,3/12/2019,12:09:00 PM,Credit Card,173772,4.761904762,8688.6,8.6
+512-91-0811,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,26925,1,1346.25,28271.25,2/6/2019,8:05:00 PM,Credit Card,26925,4.761904762,1346.25,6.6
+594-34-4444,Colombo,Colombo,Member,Female,Mobile & Accessories,29148,1,1457.4,30605.4,3/8/2019,8:38:00 PM,Mobile Payment,29148,4.761904762,1457.4,7.2
+766-85-7061,Galle,Galle,Member,Female,Ayurvedic & Personal Care,26361,10,13180.5,276790.5,3/29/2019,10:25:00 AM,Mobile Payment,263610,4.761904762,13180.5,5.1
+871-39-9221,Kandy,Kandy,Member,Female,Mobile & Accessories,3735,6,1120.5,23530.5,2/9/2019,1:11:00 PM,Cash,22410,4.761904762,1120.5,4.1
+865-92-6136,Colombo,Colombo,Member,Female,Grocery & Snacks,15825,3,2373.75,49848.75,3/23/2019,10:16:00 AM,Mobile Payment,47475,4.761904762,2373.75,9.3
+733-01-9107,Galle,Galle,Member,Female,Household Essentials,24810,6,7443,156303,3/5/2019,6:14:00 PM,Cash,148860,4.761904762,7443,7.4
+163-56-7055,Kandy,Kandy,Member,Female,Apparel & Footwear,14613,1,730.65,15343.65,3/26/2019,7:20:00 PM,Cash,14613,4.761904762,730.65,4.1
+189-98-2939,Kandy,Kandy,Member,Female,Apparel & Footwear,23565,9,10604.25,222689.25,3/1/2019,1:22:00 PM,Cash,212085,4.761904762,10604.25,7.2
+551-21-3069,Kandy,Kandy,Member,Female,Mobile & Accessories,6921,9,3114.45,65403.45,2/1/2019,11:27:00 AM,Cash,62289,4.761904762,3114.45,4.9
+212-62-1842,Colombo,Colombo,Member,Female,Grocery & Snacks,17478,6,5243.4,110111.4,3/28/2019,4:44:00 PM,Cash,104868,4.761904762,5243.4,9.9
+716-39-1409,Galle,Galle,Member,Female,Ayurvedic & Personal Care,9105,7,3186.75,66921.75,3/19/2019,6:19:00 PM,Cash,63735,4.761904762,3186.75,8
+704-48-3927,Colombo,Colombo,Member,Female,Mobile & Accessories,26601,10,13300.5,279310.5,1/12/2019,2:50:00 PM,Mobile Payment,266010,4.761904762,13300.5,7.3
+628-34-3388,Kandy,Kandy,Member,Female,Apparel & Footwear,8214,6,2464.2,51748.2,1/5/2019,8:54:00 PM,Credit Card,49284,4.761904762,2464.2,7.9
+630-74-5166,Colombo,Colombo,Member,Female,Travel Packs & Gear,18639,6,5591.7,117425.7,3/22/2019,8:19:00 PM,Cash,111834,4.761904762,5591.7,7.4
+588-01-7461,Kandy,Kandy,Member,Female,Grocery & Snacks,10194,9,4587.3,96333.3,3/24/2019,10:43:00 AM,Cash,91746,4.761904762,4587.3,4.2
+861-77-0145,Kandy,Kandy,Member,Female,Mobile & Accessories,24591,10,12295.5,258205.5,3/3/2019,2:30:00 PM,Cash,245910,4.761904762,12295.5,9.2
+479-26-8945,Galle,Galle,Member,Female,Travel Packs & Gear,4947,2,494.7,10388.7,2/5/2019,11:32:00 AM,Mobile Payment,9894,4.761904762,494.7,4.6
+210-67-5886,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,29463,3,4419.45,92808.45,2/5/2019,10:41:00 AM,Credit Card,88389,4.761904762,4419.45,7.8
+227-78-1148,Galle,Galle,Member,Female,Apparel & Footwear,21852,7,7648.2,160612.2,2/15/2019,12:44:00 PM,Cash,152964,4.761904762,7648.2,8.4
+645-44-1170,Colombo,Colombo,Member,Female,Household Essentials,17421,9,7839.45,164628.45,1/19/2019,8:07:00 PM,Mobile Payment,156789,4.761904762,7839.45,4.3
+237-01-6122,Kandy,Kandy,Member,Female,Household Essentials,24237,9,10906.65,229039.65,2/1/2019,8:31:00 PM,Credit Card,218133,4.761904762,10906.65,9.5
+225-98-1496,Kandy,Kandy,Member,Female,Apparel & Footwear,8106,3,1215.9,25533.9,3/2/2019,1:01:00 PM,Credit Card,24318,4.761904762,1215.9,7.1
+291-32-1427,Galle,Galle,Member,Female,Apparel & Footwear,6582,5,1645.5,34555.5,3/5/2019,12:29:00 PM,Mobile Payment,32910,4.761904762,1645.5,5.3
+659-65-8956,Galle,Galle,Member,Female,Apparel & Footwear,15408,1,770.4,16178.4,1/16/2019,3:26:00 PM,Mobile Payment,15408,4.761904762,770.4,5.2
+642-32-2990,Colombo,Colombo,Member,Female,Grocery & Snacks,3288,10,1644,34524,2/2/2019,8:48:00 PM,Mobile Payment,32880,4.761904762,1644,6
+378-24-2715,Galle,Galle,Member,Female,Household Essentials,16032,2,1603.2,33667.2,1/20/2019,8:38:00 PM,Mobile Payment,32064,4.761904762,1603.2,4.1
+638-60-7125,Colombo,Colombo,Member,Female,Mobile & Accessories,29868,8,11947.2,250891.2,2/14/2019,5:03:00 PM,Credit Card,238944,4.761904762,11947.2,5.2
+659-36-1684,Kandy,Kandy,Member,Female,Travel Packs & Gear,17136,7,5997.6,125949.6,1/12/2019,12:02:00 PM,Credit Card,119952,4.761904762,5997.6,6.5
+219-22-9386,Galle,Galle,Member,Female,Travel Packs & Gear,29988,9,13494.6,283386.6,3/9/2019,5:26:00 PM,Credit Card,269892,4.761904762,13494.6,4.2
+336-78-2147,Kandy,Kandy,Member,Female,Household Essentials,19173,8,7669.2,161053.2,3/13/2019,7:52:00 PM,Credit Card,153384,4.761904762,7669.2,4.6
+268-27-6179,Galle,Galle,Member,Female,Apparel & Footwear,16941,8,6776.4,142304.4,3/9/2019,2:57:00 PM,Mobile Payment,135528,4.761904762,6776.4,7.3
+668-90-8900,Colombo,Colombo,Member,Female,Household Essentials,28107,7,9837.45,206586.45,3/10/2019,6:44:00 PM,Credit Card,196749,4.761904762,9837.45,4.5
+870-54-3162,Colombo,Colombo,Member,Female,Travel Packs & Gear,9675,5,2418.75,50793.75,1/27/2019,1:26:00 PM,Cash,48375,4.761904762,2418.75,9
+189-08-9157,Kandy,Kandy,Member,Female,Apparel & Footwear,9519,9,4283.55,89954.55,1/8/2019,4:17:00 PM,Credit Card,85671,4.761904762,4283.55,5.9
+663-86-9076,Kandy,Kandy,Member,Female,Grocery & Snacks,20562,8,8224.8,172720.8,1/8/2019,3:57:00 PM,Mobile Payment,164496,4.761904762,8224.8,8.5
+549-84-7482,Galle,Galle,Member,Female,Travel Packs & Gear,27084,9,12187.8,255943.8,2/8/2019,11:15:00 AM,Mobile Payment,243756,4.761904762,12187.8,7.2
+191-10-6171,Galle,Galle,Normal,Female,Apparel & Footwear,11886,7,4160.1,87362.1,1/25/2019,1:18:00 PM,Cash,83202,4.761904762,4160.1,7.5
+802-70-5316,Colombo,Colombo,Member,Female,Travel Packs & Gear,27639,6,8291.7,174125.7,3/6/2019,8:34:00 PM,Cash,165834,4.761904762,8291.7,8.3
+695-51-0018,Galle,Galle,Normal,Female,Travel Packs & Gear,10452,4,2090.4,43898.4,2/10/2019,6:36:00 PM,Cash,41808,4.761904762,2090.4,7.4
+590-83-4591,Galle,Galle,Member,Female,Mobile & Accessories,26235,6,7870.5,165280.5,2/17/2019,2:40:00 PM,Credit Card,157410,4.761904762,7870.5,8.8
+483-71-1164,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,24390,6,7317,153657,3/8/2019,4:43:00 PM,Mobile Payment,146340,4.761904762,7317,5.3
+597-78-7908,Kandy,Kandy,Normal,Female,Apparel & Footwear,27066,3,4059.9,85257.9,2/18/2019,7:39:00 PM,Cash,81198,4.761904762,4059.9,6.2
+700-81-1757,Colombo,Colombo,Normal,Female,Mobile & Accessories,7893,5,1973.25,41438.25,1/18/2019,8:59:00 PM,Credit Card,39465,4.761904762,1973.25,8.8
+354-39-5160,Colombo,Colombo,Member,Female,Household Essentials,10326,6,3097.8,65053.8,2/18/2019,3:39:00 PM,Cash,61956,4.761904762,3097.8,9.8
+241-72-9525,Galle,Galle,Normal,Female,Travel Packs & Gear,15573,10,7786.5,163516.5,2/16/2019,12:21:00 PM,Cash,155730,4.761904762,7786.5,8.2
+575-30-8091,Colombo,Colombo,Normal,Female,Travel Packs & Gear,21750,8,8700,182700,3/16/2019,7:25:00 PM,Mobile Payment,174000,4.761904762,8700,9.2
+731-81-9469,Kandy,Kandy,Member,Female,Travel Packs & Gear,26940,10,13470,282870,1/23/2019,1:00:00 PM,Credit Card,269400,4.761904762,13470,5.4
+280-17-4359,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,27150,10,13575,285075,1/25/2019,1:48:00 PM,Cash,271500,4.761904762,13575,8.1
+338-65-2210,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,20580,10,10290,216090,2/5/2019,7:57:00 PM,Cash,205800,4.761904762,10290,9.1
+488-25-4221,Kandy,Kandy,Member,Female,Grocery & Snacks,9123,1,456.15,9579.15,2/22/2019,10:36:00 AM,Credit Card,9123,4.761904762,456.15,8.4
+239-10-7476,Colombo,Colombo,Normal,Female,Household Essentials,23385,6,7015.5,147325.5,1/21/2019,4:37:00 PM,Mobile Payment,140310,4.761904762,7015.5,8
+458-41-1477,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,13878,6,4163.4,87431.4,3/8/2019,5:11:00 PM,Credit Card,83268,4.761904762,4163.4,9.5
+685-64-1609,Colombo,Colombo,Member,Female,Apparel & Footwear,9042,10,4521,94941,2/10/2019,12:28:00 PM,Mobile Payment,90420,4.761904762,4521,9.2
+568-90-5112,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,19842,4,3968.4,83336.4,3/19/2019,12:46:00 PM,Credit Card,79368,4.761904762,3968.4,5.6
+262-47-2794,Galle,Galle,Member,Male,Household Essentials,21558,8,8623.2,181087.2,3/6/2019,3:07:00 PM,Credit Card,172464,4.761904762,8623.2,6.2
+238-49-0436,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,9738,8,3895.2,81799.2,3/27/2019,1:48:00 PM,Credit Card,77904,4.761904762,3895.2,4.9
+608-96-3517,Galle,Galle,Member,Female,Apparel & Footwear,27462,4,5492.4,115340.4,3/23/2019,7:20:00 PM,Credit Card,109848,4.761904762,5492.4,4.8
+584-86-7256,Kandy,Kandy,Member,Male,Travel Packs & Gear,10368,7,3628.8,76204.8,3/11/2019,4:07:00 PM,Credit Card,72576,4.761904762,3628.8,7.3
+746-94-0204,Colombo,Colombo,Normal,Male,Apparel & Footwear,24972,9,11237.4,235985.4,1/29/2019,11:56:00 AM,Credit Card,224748,4.761904762,11237.4,7.4
+214-17-6927,Kandy,Kandy,Normal,Female,Grocery & Snacks,4944,6,1483.2,31147.2,2/7/2019,6:23:00 PM,Mobile Payment,29664,4.761904762,1483.2,9.9
+400-89-4171,Kandy,Kandy,Normal,Female,Travel Packs & Gear,24291,8,9716.4,204044.4,1/28/2019,1:05:00 PM,Cash,194328,4.761904762,9716.4,9.3
+782-95-9291,Colombo,Colombo,Member,Male,Grocery & Snacks,27687,5,6921.75,145356.75,2/20/2019,3:55:00 PM,Credit Card,138435,4.761904762,6921.75,9
+279-74-2924,Galle,Galle,Member,Male,Mobile & Accessories,21651,1,1082.55,22733.55,1/4/2019,7:40:00 PM,Cash,21651,4.761904762,1082.55,6.1
+307-85-2293,Galle,Galle,Normal,Male,Household Essentials,15084,5,3771,79191,3/7/2019,1:58:00 PM,Mobile Payment,75420,4.761904762,3771,9.7
+743-04-1105,Galle,Galle,Member,Male,Ayurvedic & Personal Care,29166,9,13124.7,275618.7,3/30/2019,2:43:00 PM,Mobile Payment,262494,4.761904762,13124.7,6
+423-57-2993,Galle,Galle,Normal,Male,Travel Packs & Gear,28017,6,8405.1,176507.1,3/27/2019,7:18:00 PM,Mobile Payment,168102,4.761904762,8405.1,10
+894-41-5205,Kandy,Kandy,Normal,Female,Grocery & Snacks,12954,8,5181.6,108813.6,1/19/2019,7:39:00 PM,Credit Card,103632,4.761904762,5181.6,8.3
+275-28-0149,Colombo,Colombo,Normal,Male,Travel Packs & Gear,19107,1,955.35,20062.35,2/25/2019,4:21:00 PM,Cash,19107,4.761904762,955.35,6
+101-17-6199,Colombo,Colombo,Normal,Male,Grocery & Snacks,13737,7,4807.95,100966.95,3/13/2019,7:44:00 PM,Credit Card,96159,4.761904762,4807.95,7
+423-80-0988,Kandy,Kandy,Normal,Male,Travel Packs & Gear,22920,2,2292,48132,1/30/2019,7:42:00 PM,Mobile Payment,45840,4.761904762,2292,6.5
+548-46-9322,Galle,Galle,Normal,Male,Grocery & Snacks,11970,10,5985,125685,2/20/2019,3:24:00 PM,Credit Card,119700,4.761904762,5985,5.9
+505-02-0892,Galle,Galle,Member,Male,Ayurvedic & Personal Care,12771,8,5108.4,107276.4,2/25/2019,2:12:00 PM,Mobile Payment,102168,4.761904762,5108.4,5.6
+234-65-2137,Kandy,Kandy,Normal,Male,Household Essentials,28674,10,14337,301077,1/16/2019,1:32:00 PM,Cash,286740,4.761904762,14337,4.8
+687-47-8271,Colombo,Colombo,Normal,Male,Apparel & Footwear,29694,10,14847,311787,2/8/2019,4:20:00 PM,Credit Card,296940,4.761904762,14847,8.7
+796-32-9050,Colombo,Colombo,Normal,Male,Grocery & Snacks,15384,6,4615.2,96919.2,1/19/2019,4:31:00 PM,Cash,92304,4.761904762,4615.2,6.5
+105-31-1824,Colombo,Colombo,Member,Male,Travel Packs & Gear,20856,7,7299.6,153291.6,2/1/2019,3:10:00 PM,Credit Card,145992,4.761904762,7299.6,8.5
+249-42-3782,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,21003,5,5250.75,110265.75,1/3/2019,11:36:00 AM,Mobile Payment,105015,4.761904762,5250.75,5.5
+316-55-4634,Galle,Galle,Member,Male,Grocery & Snacks,24015,5,6003.75,126078.75,1/26/2019,12:45:00 PM,Credit Card,120075,4.761904762,6003.75,9.4
+733-33-4967,Kandy,Kandy,Normal,Male,Mobile & Accessories,6255,8,2502,52542,3/3/2019,7:17:00 PM,Cash,50040,4.761904762,2502,6.3
+608-27-6295,Galle,Galle,Member,Male,Mobile & Accessories,15867,6,4760.1,99962.1,1/19/2019,5:34:00 PM,Credit Card,95202,4.761904762,4760.1,9.8
+414-12-7047,Galle,Galle,Normal,Male,Grocery & Snacks,5937,8,2374.8,49870.8,1/18/2019,12:04:00 PM,Mobile Payment,47496,4.761904762,2374.8,8.7
+827-26-2100,Colombo,Colombo,Member,Male,Household Essentials,10152,9,4568.4,95936.4,3/21/2019,4:21:00 PM,Mobile Payment,91368,4.761904762,4568.4,8.8
+175-54-2529,Colombo,Colombo,Member,Male,Grocery & Snacks,6651,8,2660.4,55868.4,3/3/2019,5:01:00 PM,Credit Card,53208,4.761904762,2660.4,9.6
+139-52-2867,Kandy,Kandy,Normal,Female,Apparel & Footwear,6753,7,2363.55,49634.55,2/13/2019,10:50:00 AM,Credit Card,47271,4.761904762,2363.55,4.8
+407-63-8975,Colombo,Colombo,Normal,Male,Grocery & Snacks,22164,6,6649.2,139633.2,3/23/2019,7:16:00 PM,Mobile Payment,132984,4.761904762,6649.2,4.4
+342-65-4817,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,26040,3,3906,82026,1/28/2019,4:47:00 PM,Mobile Payment,78120,4.761904762,3906,9.9
+130-98-8941,Kandy,Kandy,Normal,Male,Apparel & Footwear,19278,7,6747.3,141693.3,2/9/2019,10:00:00 AM,Cash,134946,4.761904762,6747.3,5.7
+434-83-9547,Kandy,Kandy,Member,Male,Grocery & Snacks,11541,8,4616.4,96944.4,1/23/2019,11:51:00 AM,Cash,92328,4.761904762,4616.4,7.7
+851-28-6367,Colombo,Colombo,Member,Male,Travel Packs & Gear,4650,10,2325,48825,3/23/2019,10:55:00 AM,Mobile Payment,46500,4.761904762,2325,8
+824-88-3614,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,10293,8,4117.2,86461.2,1/25/2019,3:00:00 PM,Mobile Payment,82344,4.761904762,4117.2,5.7
+586-25-0848,Colombo,Colombo,Normal,Female,Travel Packs & Gear,3702,7,1295.7,27209.7,3/4/2019,11:19:00 AM,Credit Card,25914,4.761904762,1295.7,6.7
+895-66-0685,Galle,Galle,Member,Male,Grocery & Snacks,5424,3,813.6,17085.6,3/5/2019,7:46:00 PM,Mobile Payment,16272,4.761904762,813.6,8
+305-14-0245,Galle,Galle,Member,Female,Household Essentials,28347,8,11338.8,238114.8,3/3/2019,7:00:00 PM,Mobile Payment,226776,4.761904762,11338.8,7.5
+732-04-5373,Galle,Galle,Member,Male,Household Essentials,13941,4,2788.2,58552.2,2/8/2019,10:53:00 AM,Cash,55764,4.761904762,2788.2,7
+400-60-7251,Colombo,Colombo,Normal,Male,Household Essentials,22221,1,1111.05,23332.05,2/10/2019,12:50:00 PM,Mobile Payment,22221,4.761904762,1111.05,9.9
+593-65-1552,Kandy,Kandy,Normal,Female,Household Essentials,20943,4,4188.6,87960.6,1/28/2019,8:50:00 PM,Credit Card,83772,4.761904762,4188.6,5.9
+284-34-9626,Galle,Galle,Normal,Female,Household Essentials,23112,3,3466.8,72802.8,2/11/2019,10:39:00 AM,Credit Card,69336,4.761904762,3466.8,7.2
+437-58-8131,Galle,Galle,Normal,Female,Apparel & Footwear,22056,2,2205.6,46317.6,1/15/2019,1:41:00 PM,Mobile Payment,44112,4.761904762,2205.6,4.6
+286-43-6208,Kandy,Kandy,Normal,Female,Grocery & Snacks,26340,9,11853,248913,3/16/2019,7:08:00 PM,Cash,237060,4.761904762,11853,9.2
+641-43-2399,Galle,Galle,Normal,Male,Household Essentials,7665,4,1533,32193,1/26/2019,8:23:00 PM,Mobile Payment,30660,4.761904762,1533,5.7
+831-07-6050,Colombo,Colombo,Normal,Male,Mobile & Accessories,9813,5,2453.25,51518.25,3/19/2019,11:30:00 AM,Credit Card,49065,4.761904762,2453.25,9.9
+556-86-3144,Kandy,Kandy,Member,Female,Apparel & Footwear,22287,1,1114.35,23401.35,1/13/2019,7:30:00 PM,Cash,22287,4.761904762,1114.35,5
+848-24-9445,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,13110,2,1311,27531,3/26/2019,6:03:00 PM,Cash,26220,4.761904762,1311,4.9
+856-22-8149,Colombo,Colombo,Normal,Female,Household Essentials,7587,1,379.35,7966.35,3/23/2019,10:13:00 AM,Mobile Payment,7587,4.761904762,379.35,6.1
+699-01-4164,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,12450,4,2490,52290,3/12/2019,7:58:00 PM,Credit Card,49800,4.761904762,2490,8.2
+420-11-4919,Kandy,Kandy,Member,Female,Grocery & Snacks,21417,5,5354.25,112439.25,2/17/2019,7:57:00 PM,Credit Card,107085,4.761904762,5354.25,5.5
+606-80-4905,Kandy,Kandy,Member,Female,Travel Packs & Gear,5745,6,1723.5,36193.5,1/29/2019,10:01:00 AM,Credit Card,34470,4.761904762,1723.5,6.8
+542-41-0513,Galle,Galle,Member,Female,Mobile & Accessories,17247,4,3449.4,72437.4,3/15/2019,11:57:00 AM,Cash,68988,4.761904762,3449.4,6.6
+426-39-2418,Kandy,Kandy,Normal,Male,Mobile & Accessories,18423,7,6448.05,135409.05,1/14/2019,10:02:00 AM,Cash,128961,4.761904762,6448.05,9.8
+875-46-5808,Galle,Galle,Member,Male,Ayurvedic & Personal Care,7770,10,3885,81585,2/6/2019,2:51:00 PM,Mobile Payment,77700,4.761904762,3885,8.7
+394-43-4238,Galle,Galle,Member,Male,Household Essentials,5331,5,1332.75,27987.75,2/15/2019,12:42:00 PM,Credit Card,26655,4.761904762,1332.75,5.4
+749-24-1565,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,6909,9,3109.05,65290.05,1/3/2019,12:02:00 PM,Mobile Payment,62181,4.761904762,3109.05,7.9
+672-51-8681,Kandy,Kandy,Member,Female,Mobile & Accessories,19995,9,8997.75,188952.75,1/4/2019,6:19:00 PM,Credit Card,179955,4.761904762,8997.75,9.7
+263-87-5680,Kandy,Kandy,Member,Female,Household Essentials,8559,10,4279.5,89869.5,3/18/2019,5:38:00 PM,Mobile Payment,85590,4.761904762,4279.5,7.8
+573-58-9734,Galle,Galle,Normal,Female,Apparel & Footwear,9111,3,1366.65,28699.65,3/28/2019,1:41:00 PM,Mobile Payment,27333,4.761904762,1366.65,5.1
+817-69-8206,Galle,Galle,Normal,Female,Mobile & Accessories,29919,9,13463.55,282734.55,3/2/2019,7:42:00 PM,Credit Card,269271,4.761904762,13463.55,6.5
+888-02-0338,Colombo,Colombo,Normal,Male,Mobile & Accessories,7869,9,3541.05,74362.05,1/25/2019,8:24:00 PM,Mobile Payment,70821,4.761904762,3541.05,5.9
+677-11-0152,Kandy,Kandy,Normal,Female,Grocery & Snacks,27978,9,12590.1,264392.1,1/16/2019,6:08:00 PM,Cash,251802,4.761904762,12590.1,8.8
+142-63-6033,Galle,Galle,Normal,Male,Household Essentials,27708,5,6927,145467,3/20/2019,7:17:00 PM,Mobile Payment,138540,4.761904762,6927,4.9
+656-16-1063,Galle,Galle,Normal,Male,Travel Packs & Gear,13926,3,2088.9,43866.9,1/4/2019,1:24:00 PM,Credit Card,41778,4.761904762,2088.9,4.4
+891-58-8335,Galle,Galle,Member,Female,Travel Packs & Gear,8883,7,3109.05,65290.05,3/11/2019,3:53:00 PM,Cash,62181,4.761904762,3109.05,6.5
+802-43-8934,Colombo,Colombo,Normal,Male,Household Essentials,5484,1,274.2,5758.2,3/22/2019,3:05:00 PM,Credit Card,5484,4.761904762,274.2,8.3
+560-30-5617,Galle,Galle,Normal,Female,Travel Packs & Gear,7431,5,1857.75,39012.75,3/24/2019,6:27:00 PM,Cash,37155,4.761904762,1857.75,8.5
+319-74-2561,Colombo,Colombo,Member,Female,Mobile & Accessories,28392,3,4258.8,89434.8,2/21/2019,4:55:00 PM,Cash,85176,4.761904762,4258.8,5.5
+549-03-9315,Galle,Galle,Normal,Male,Apparel & Footwear,28461,8,11384.4,239072.4,2/12/2019,12:58:00 PM,Mobile Payment,227688,4.761904762,11384.4,8.7
+790-29-1172,Galle,Galle,Normal,Female,Grocery & Snacks,17202,3,2580.3,54186.3,3/10/2019,6:59:00 PM,Credit Card,51606,4.761904762,2580.3,7.9
+239-36-3640,Galle,Galle,Normal,Male,Mobile & Accessories,13605,6,4081.5,85711.5,1/31/2019,1:44:00 PM,Mobile Payment,81630,4.761904762,4081.5,6.1
+468-01-2051,Galle,Galle,Normal,Male,Grocery & Snacks,18624,7,6518.4,136886.4,3/6/2019,1:46:00 PM,Mobile Payment,130368,4.761904762,6518.4,5.4
+389-25-3394,Kandy,Kandy,Normal,Male,Mobile & Accessories,3543,5,885.75,18600.75,2/17/2019,6:06:00 PM,Cash,17715,4.761904762,885.75,9.4
+279-62-1445,Kandy,Kandy,Member,Female,Apparel & Footwear,3762,1,188.1,3950.1,2/21/2019,12:38:00 PM,Cash,3762,4.761904762,188.1,8.2
+213-72-6612,Colombo,Colombo,Normal,Male,Grocery & Snacks,12975,2,1297.5,27247.5,3/20/2019,3:56:00 PM,Cash,25950,4.761904762,1297.5,6.2
+746-68-6593,Kandy,Kandy,Member,Female,Travel Packs & Gear,26148,2,2614.8,54910.8,1/11/2019,2:29:00 PM,Credit Card,52296,4.761904762,2614.8,9.7
+836-82-5858,Galle,Galle,Member,Male,Ayurvedic & Personal Care,20811,9,9364.95,196663.95,1/26/2019,7:14:00 PM,Mobile Payment,187299,4.761904762,9364.95,4
+583-72-1480,Kandy,Kandy,Member,Male,Mobile & Accessories,11118,4,2223.6,46695.6,1/31/2019,4:24:00 PM,Mobile Payment,44472,4.761904762,2223.6,9.7
+466-61-5506,Galle,Galle,Member,Female,Mobile & Accessories,27210,6,8163,171423,2/26/2019,10:52:00 AM,Cash,163260,4.761904762,8163,5.3
+721-86-6247,Colombo,Colombo,Normal,Female,Household Essentials,19026,8,7610.4,159818.4,3/11/2019,12:55:00 PM,Mobile Payment,152208,4.761904762,7610.4,7.4
+289-65-5721,Galle,Galle,Normal,Female,Apparel & Footwear,24411,2,2441.1,51263.1,1/26/2019,7:28:00 PM,Cash,48822,4.761904762,2441.1,6.5
+545-46-3100,Galle,Galle,Member,Female,Mobile & Accessories,3177,3,476.55,10007.55,3/12/2019,1:52:00 PM,Credit Card,9531,4.761904762,476.55,8.7
+418-02-5978,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,25227,9,11352.15,238395.15,2/11/2019,10:54:00 AM,Cash,227043,4.761904762,11352.15,8
+269-04-5750,Galle,Galle,Member,Male,Apparel & Footwear,22146,4,4429.2,93013.2,2/21/2019,6:31:00 PM,Cash,88584,4.761904762,4429.2,6.7
+157-13-5295,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,15582,10,7791,163611,3/9/2019,6:24:00 PM,Mobile Payment,155820,4.761904762,7791,6.5
+645-78-8093,Colombo,Colombo,Normal,Female,Travel Packs & Gear,27942,2,2794.2,58678.2,1/20/2019,6:09:00 PM,Mobile Payment,55884,4.761904762,2794.2,4.1
+211-30-9270,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,5223,5,1305.75,27420.75,1/28/2019,3:16:00 PM,Credit Card,26115,4.761904762,1305.75,4.9
+755-12-3214,Kandy,Kandy,Member,Female,Apparel & Footwear,13266,5,3316.5,69646.5,3/5/2019,5:07:00 PM,Credit Card,66330,4.761904762,3316.5,8.6
+346-84-3103,Galle,Galle,Member,Female,Mobile & Accessories,3966,5,991.5,20821.5,3/2/2019,7:26:00 PM,Cash,19830,4.761904762,991.5,4.3
+478-06-7835,Colombo,Colombo,Normal,Male,Apparel & Footwear,26907,1,1345.35,28252.35,1/11/2019,11:20:00 AM,Mobile Payment,26907,4.761904762,1345.35,4.9
+540-11-4336,Colombo,Colombo,Normal,Male,Grocery & Snacks,7482,9,3366.9,70704.9,1/11/2019,4:49:00 PM,Credit Card,67338,4.761904762,3366.9,5.6
+448-81-5016,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,17931,2,1793.1,37655.1,3/11/2019,12:01:00 PM,Credit Card,35862,4.761904762,1793.1,5.8
+142-72-4741,Kandy,Kandy,Member,Male,Apparel & Footwear,27960,2,2796,58716,2/28/2019,6:37:00 PM,Credit Card,55920,4.761904762,2796,6
+217-58-1179,Colombo,Colombo,Member,Male,Household Essentials,18795,4,3759,78939,1/5/2019,11:25:00 AM,Cash,75180,4.761904762,3759,4.2
+376-02-8238,Galle,Galle,Normal,Male,Household Essentials,28161,8,11264.4,236552.4,2/2/2019,6:42:00 PM,Credit Card,225288,4.761904762,11264.4,8.3
+530-90-9855,Colombo,Colombo,Member,Male,Household Essentials,14277,8,5710.8,119926.8,1/1/2019,2:47:00 PM,Cash,114216,4.761904762,5710.8,5.7
+866-05-7563,Galle,Galle,Member,Female,Mobile & Accessories,24420,3,3663,76923,2/9/2019,7:43:00 PM,Cash,73260,4.761904762,3663,4.8
+604-70-6476,Colombo,Colombo,Member,Male,Apparel & Footwear,5382,5,1345.5,28255.5,1/23/2019,2:04:00 PM,Mobile Payment,26910,4.761904762,1345.5,6.8
+799-71-1548,Colombo,Colombo,Member,Male,Mobile & Accessories,23316,4,4663.2,97927.2,1/7/2019,4:11:00 PM,Credit Card,93264,4.761904762,4663.2,8.8
+785-13-7708,Galle,Galle,Normal,Male,Grocery & Snacks,21918,7,7671.3,161097.3,1/14/2019,7:06:00 PM,Credit Card,153426,4.761904762,7671.3,4.2
+845-51-0542,Galle,Galle,Member,Male,Grocery & Snacks,13965,9,6284.25,131969.25,2/2/2019,3:34:00 PM,Mobile Payment,125685,4.761904762,6284.25,6.4
+662-47-5456,Kandy,Kandy,Member,Male,Apparel & Footwear,10557,10,5278.5,110848.5,3/17/2019,7:06:00 PM,Credit Card,105570,4.761904762,5278.5,8.4
+883-17-4236,Kandy,Kandy,Normal,Female,Travel Packs & Gear,4317,2,431.7,9065.7,3/2/2019,7:44:00 PM,Credit Card,8634,4.761904762,431.7,7.2
+290-68-2984,Colombo,Colombo,Normal,Male,Household Essentials,7125,4,1425,29925,3/16/2019,11:22:00 AM,Cash,28500,4.761904762,1425,5.2
+704-11-6354,Colombo,Colombo,Member,Male,Household Essentials,17670,8,7068,148428,1/6/2019,11:23:00 AM,Cash,141360,4.761904762,7068,8.9
+110-48-7033,Galle,Galle,Member,Male,Apparel & Footwear,9786,4,1957.2,41101.2,1/29/2019,2:12:00 PM,Cash,39144,4.761904762,1957.2,9
+366-93-0948,Colombo,Colombo,Member,Male,Mobile & Accessories,19905,1,995.25,20900.25,1/31/2019,10:46:00 AM,Credit Card,19905,4.761904762,995.25,9.7
+729-09-9681,Colombo,Colombo,Member,Male,Household Essentials,7773,6,2331.9,48969.9,2/5/2019,10:16:00 AM,Mobile Payment,46638,4.761904762,2331.9,8.7
+151-16-1484,Colombo,Colombo,Member,Male,Mobile & Accessories,9675,4,1935,40635,2/13/2019,12:38:00 PM,Mobile Payment,38700,4.761904762,1935,6.5
+380-94-4661,Kandy,Kandy,Member,Male,Mobile & Accessories,19782,4,3956.4,83084.4,2/7/2019,1:05:00 PM,Credit Card,79128,4.761904762,3956.4,6.9
+850-41-9669,Colombo,Colombo,Normal,Female,Mobile & Accessories,22518,9,10133.1,212795.1,3/19/2019,1:25:00 PM,Mobile Payment,202662,4.761904762,10133.1,6.2
+821-07-3596,Kandy,Kandy,Normal,Female,Apparel & Footwear,4935,4,987,20727,3/7/2019,2:53:00 PM,Mobile Payment,19740,4.761904762,987,5.6
+655-85-5130,Galle,Galle,Member,Female,Apparel & Footwear,11490,4,2298,48258,3/13/2019,7:22:00 PM,Cash,45960,4.761904762,2298,5.7
+447-15-7839,Colombo,Colombo,Member,Female,Travel Packs & Gear,6672,10,3336,70056,2/9/2019,11:00:00 AM,Cash,66720,4.761904762,3336,4.2
+154-74-7179,Galle,Galle,Normal,Male,Travel Packs & Gear,16335,1,816.75,17151.75,2/26/2019,7:24:00 PM,Mobile Payment,16335,4.761904762,816.75,7.9
+253-12-6086,Colombo,Colombo,Member,Female,Travel Packs & Gear,29520,7,10332,216972,3/12/2019,12:43:00 PM,Credit Card,206640,4.761904762,10332,8.7
+808-65-0703,Kandy,Kandy,Normal,Male,Household Essentials,10641,4,2128.2,44692.2,3/14/2019,5:22:00 PM,Credit Card,42564,4.761904762,2128.2,6.9
+571-94-0759,Galle,Galle,Member,Female,Grocery & Snacks,22380,10,11190,234990,1/8/2019,8:55:00 PM,Cash,223800,4.761904762,11190,9.5
+144-51-6085,Colombo,Colombo,Member,Male,Household Essentials,21222,4,4244.4,89132.4,1/5/2019,4:05:00 PM,Credit Card,84888,4.761904762,4244.4,4.4
+731-14-2199,Colombo,Colombo,Member,Female,Household Essentials,10662,10,5331,111951,1/4/2019,1:34:00 PM,Mobile Payment,106620,4.761904762,5331,7
+783-09-1637,Galle,Galle,Normal,Female,Travel Packs & Gear,20229,5,5057.25,106202.25,3/6/2019,6:13:00 PM,Mobile Payment,101145,4.761904762,5057.25,6.3
+687-15-1097,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,6336,2,633.6,13305.6,1/3/2019,7:17:00 PM,Cash,12672,4.761904762,633.6,9.7
+126-54-1082,Colombo,Colombo,Member,Female,Household Essentials,6462,9,2907.9,61065.9,1/7/2019,11:44:00 AM,Credit Card,58158,4.761904762,2907.9,8.8
+633-91-1052,Colombo,Colombo,Normal,Female,Household Essentials,3609,2,360.9,7578.9,1/27/2019,3:51:00 PM,Cash,7218,4.761904762,360.9,5.1
+477-24-6490,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,29913,6,8973.9,188451.9,2/26/2019,4:52:00 PM,Mobile Payment,179478,4.761904762,8973.9,7.9
+566-19-5475,Galle,Galle,Normal,Male,Apparel & Footwear,14391,7,5036.85,105773.85,1/7/2019,8:52:00 PM,Cash,100737,4.761904762,5036.85,6.2
+526-86-8552,Kandy,Kandy,Member,Female,Household Essentials,6546,10,3273,68733,1/7/2019,5:36:00 PM,Cash,65460,4.761904762,3273,7.1
+376-56-3573,Kandy,Kandy,Normal,Female,Apparel & Footwear,28626,4,5725.2,120229.2,2/2/2019,1:23:00 PM,Mobile Payment,114504,4.761904762,5725.2,6.4
+537-72-0426,Kandy,Kandy,Member,Male,Apparel & Footwear,21297,10,10648.5,223618.5,3/20/2019,4:28:00 PM,Cash,212970,4.761904762,10648.5,5.7
+828-61-5674,Colombo,Colombo,Member,Male,Travel Packs & Gear,13206,10,6603,138663,3/20/2019,7:57:00 PM,Credit Card,132060,4.761904762,6603,9.6
+136-08-6195,Colombo,Colombo,Normal,Female,Household Essentials,20988,8,8395.2,176299.2,2/15/2019,5:01:00 PM,Credit Card,167904,4.761904762,8395.2,6.4
+523-38-0215,Kandy,Kandy,Normal,Male,Household Essentials,11100,1,555,11655,3/6/2019,1:29:00 PM,Credit Card,11100,4.761904762,555,7.9
+490-29-1201,Colombo,Colombo,Normal,Female,Travel Packs & Gear,4602,1,230.1,4832.1,1/6/2019,11:09:00 AM,Cash,4602,4.761904762,230.1,6.5
+667-92-0055,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,29949,6,8984.7,188678.7,3/4/2019,3:02:00 PM,Mobile Payment,179694,4.761904762,8984.7,8.5
+565-17-3836,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,14301,4,2860.2,60064.2,3/12/2019,2:21:00 PM,Cash,57204,4.761904762,2860.2,9.1
+498-41-1961,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,20004,5,5001,105021,2/20/2019,6:01:00 PM,Cash,100020,4.761904762,5001,7.6
+593-95-4461,Kandy,Kandy,Member,Male,Household Essentials,22458,1,1122.9,23580.9,3/24/2019,2:49:00 PM,Cash,22458,4.761904762,1122.9,6.9
+226-71-3580,Kandy,Kandy,Normal,Female,Travel Packs & Gear,7125,9,3206.25,67331.25,1/31/2019,12:02:00 PM,Cash,64125,4.761904762,3206.25,9.5
+283-79-9594,Galle,Galle,Normal,Female,Grocery & Snacks,14553,7,5093.55,106964.55,1/25/2019,1:30:00 PM,Credit Card,101871,4.761904762,5093.55,5.2
+430-60-3493,Colombo,Colombo,Member,Female,Household Essentials,28464,7,9962.4,209210.4,2/3/2019,2:38:00 PM,Cash,199248,4.761904762,9962.4,4.2
+139-20-0155,Galle,Galle,Member,Male,Mobile & Accessories,12090,10,6045,126945,1/24/2019,5:37:00 PM,Credit Card,120900,4.761904762,6045,7
+558-80-4082,Kandy,Kandy,Normal,Male,Mobile & Accessories,8355,7,2924.25,61409.25,3/14/2019,5:20:00 PM,Mobile Payment,58485,4.761904762,2924.25,6
+278-97-7759,Colombo,Colombo,Member,Female,Mobile & Accessories,18744,1,937.2,19681.2,2/18/2019,8:29:00 PM,Cash,18744,4.761904762,937.2,4.7
+316-68-6352,Colombo,Colombo,Member,Female,Grocery & Snacks,10908,2,1090.8,22906.8,1/21/2019,10:00:00 AM,Cash,21816,4.761904762,1090.8,7.1
+585-03-5943,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,5433,10,2716.5,57046.5,3/13/2019,11:46:00 AM,Mobile Payment,54330,4.761904762,2716.5,5.9
+211-05-0490,Kandy,Kandy,Member,Female,Mobile & Accessories,15576,5,3894,81774,3/3/2019,1:42:00 PM,Cash,77880,4.761904762,3894,7.5
+727-75-6477,Kandy,Kandy,Normal,Male,Mobile & Accessories,8652,4,1730.4,36338.4,3/29/2019,2:44:00 PM,Cash,34608,4.761904762,1730.4,6.4
+744-02-5987,Colombo,Colombo,Member,Male,Household Essentials,23514,6,7054.2,148138.2,1/10/2019,2:16:00 PM,Mobile Payment,141084,4.761904762,7054.2,5.8
+307-83-9164,Colombo,Colombo,Member,Male,Household Essentials,18003,4,3600.6,75612.6,1/25/2019,3:54:00 PM,Cash,72012,4.761904762,3600.6,4.5
+779-06-0012,Kandy,Kandy,Member,Female,Household Essentials,26583,1,1329.15,27912.15,1/19/2019,10:21:00 AM,Cash,26583,4.761904762,1329.15,7.7
+446-47-6729,Kandy,Kandy,Normal,Male,Apparel & Footwear,29946,2,2994.6,62886.6,1/2/2019,6:09:00 PM,Credit Card,59892,4.761904762,2994.6,6.7
+573-10-3877,Galle,Galle,Member,Male,Ayurvedic & Personal Care,11703,1,585.15,12288.15,3/12/2019,4:46:00 PM,Credit Card,11703,4.761904762,585.15,4.7
+735-06-4124,Kandy,Kandy,Normal,Male,Grocery & Snacks,14583,1,729.15,15312.15,2/25/2019,3:31:00 PM,Cash,14583,4.761904762,729.15,4.4
+439-54-7422,Colombo,Colombo,Normal,Female,Mobile & Accessories,15357,4,3071.4,64499.4,3/18/2019,5:15:00 PM,Credit Card,61428,4.761904762,3071.4,4.7
+396-90-2219,Galle,Galle,Normal,Female,Mobile & Accessories,4488,8,1795.2,37699.2,2/23/2019,12:29:00 PM,Cash,35904,4.761904762,1795.2,8.6
+411-77-0180,Colombo,Colombo,Member,Male,Mobile & Accessories,21660,7,7581,159201,3/26/2019,8:14:00 PM,Mobile Payment,151620,4.761904762,7581,4.3
+286-01-5402,Colombo,Colombo,Normal,Female,Travel Packs & Gear,12069,7,4224.15,88707.15,3/30/2019,1:22:00 PM,Cash,84483,4.761904762,4224.15,9.6
+803-17-8013,Colombo,Colombo,Member,Female,Household Essentials,26637,8,10654.8,223750.8,2/17/2019,5:09:00 PM,Cash,213096,4.761904762,10654.8,4.1
+512-98-1403,Colombo,Colombo,Member,Female,Mobile & Accessories,7944,3,1191.6,25023.6,3/21/2019,10:40:00 AM,Mobile Payment,23832,4.761904762,1191.6,4.7
+848-42-2560,Colombo,Colombo,Normal,Female,Apparel & Footwear,24573,2,2457.3,51603.3,3/5/2019,5:43:00 PM,Cash,49146,4.761904762,2457.3,7.8
+532-59-7201,Galle,Galle,Member,Male,Travel Packs & Gear,23979,6,7193.7,151067.7,1/31/2019,2:04:00 PM,Cash,143874,4.761904762,7193.7,5.5
+181-94-6432,Kandy,Kandy,Member,Male,Apparel & Footwear,20799,2,2079.9,43677.9,2/5/2019,7:05:00 PM,Mobile Payment,41598,4.761904762,2079.9,9.7
+870-76-1733,Colombo,Colombo,Member,Female,Grocery & Snacks,4269,5,1067.25,22412.25,2/1/2019,10:08:00 AM,Credit Card,21345,4.761904762,1067.25,4.4
+423-64-4619,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,4665,9,2099.25,44084.25,3/7/2019,1:12:00 PM,Cash,41985,4.761904762,2099.25,5
+227-07-4446,Kandy,Kandy,Member,Female,Mobile & Accessories,23439,10,11719.5,246109.5,2/10/2019,8:51:00 PM,Cash,234390,4.761904762,11719.5,4.4
+174-36-3675,Kandy,Kandy,Member,Male,Grocery & Snacks,29811,2,2981.1,62603.1,2/14/2019,5:29:00 PM,Cash,59622,4.761904762,2981.1,5.2
+428-83-5800,Kandy,Kandy,Member,Female,Grocery & Snacks,6324,3,948.6,19920.6,2/9/2019,10:25:00 AM,Cash,18972,4.761904762,948.6,7.3
+603-07-0961,Kandy,Kandy,Member,Male,Mobile & Accessories,22437,5,5609.25,117794.25,1/10/2019,11:34:00 AM,Cash,112185,4.761904762,5609.25,4.9
+704-20-4138,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,8901,7,3115.35,65422.35,3/11/2019,6:58:00 PM,Credit Card,62307,4.761904762,3115.35,8.1
+787-15-1757,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,13221,4,2644.2,55528.2,2/18/2019,4:28:00 PM,Mobile Payment,52884,4.761904762,2644.2,8.4
+649-11-3678,Kandy,Kandy,Normal,Female,Grocery & Snacks,6879,9,3095.55,65006.55,2/26/2019,8:26:00 PM,Cash,61911,4.761904762,3095.55,5.5
+622-20-1945,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,11826,1,591.3,12417.3,1/18/2019,3:08:00 PM,Cash,11826,4.761904762,591.3,8.4
+372-94-8041,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,4578,6,1373.4,28841.4,2/15/2019,6:03:00 PM,Mobile Payment,27468,4.761904762,1373.4,9.8
+563-91-7120,Colombo,Colombo,Normal,Female,Apparel & Footwear,18531,5,4632.75,97287.75,3/8/2019,1:21:00 PM,Cash,92655,4.761904762,4632.75,6.7
+746-54-5508,Colombo,Colombo,Normal,Male,Household Essentials,6456,6,1936.8,40672.8,1/17/2019,12:48:00 PM,Credit Card,38736,4.761904762,1936.8,9.4
+276-54-0879,Galle,Galle,Normal,Male,Travel Packs & Gear,29322,4,5864.4,123152.4,3/12/2019,7:53:00 PM,Mobile Payment,117288,4.761904762,5864.4,6.4
+815-11-1168,Colombo,Colombo,Member,Male,Grocery & Snacks,29934,5,7483.5,157153.5,3/9/2019,7:09:00 PM,Cash,149670,4.761904762,7483.5,5.4
+719-76-3868,Kandy,Kandy,Member,Male,Grocery & Snacks,28278,4,5655.6,118767.6,3/12/2019,4:30:00 PM,Cash,113112,4.761904762,5655.6,8.6
+730-61-8757,Galle,Galle,Member,Male,Ayurvedic & Personal Care,15339,4,3067.8,64423.8,1/25/2019,10:11:00 AM,Credit Card,61356,4.761904762,3067.8,4
+340-66-0321,Colombo,Colombo,Member,Male,Mobile & Accessories,10908,4,2181.6,45813.6,3/25/2019,1:07:00 PM,Cash,43632,4.761904762,2181.6,7.6
+868-81-1752,Galle,Galle,Normal,Male,Household Essentials,6606,9,2972.7,62426.7,2/7/2019,6:48:00 PM,Cash,59454,4.761904762,2972.7,6.8
+634-97-8956,Colombo,Colombo,Normal,Male,Grocery & Snacks,9870,3,1480.5,31090.5,2/17/2019,5:27:00 PM,Credit Card,29610,4.761904762,1480.5,9.1
+566-71-1091,Colombo,Colombo,Normal,Male,Apparel & Footwear,23106,5,5776.5,121306.5,2/3/2019,3:59:00 PM,Cash,115530,4.761904762,5776.5,5.5
+442-48-3607,Colombo,Colombo,Member,Male,Grocery & Snacks,7044,2,704.4,14792.4,3/14/2019,11:21:00 AM,Credit Card,14088,4.761904762,704.4,7.9
+835-16-0096,Kandy,Kandy,Member,Male,Travel Packs & Gear,4410,5,1102.5,23152.5,3/24/2019,1:48:00 PM,Mobile Payment,22050,4.761904762,1102.5,8.5
+527-09-6272,Colombo,Colombo,Member,Female,Mobile & Accessories,8535,5,2133.75,44808.75,3/21/2019,10:17:00 AM,Credit Card,42675,4.761904762,2133.75,9.1
+898-04-2717,Colombo,Colombo,Normal,Male,Apparel & Footwear,22920,9,10314,216594,3/19/2019,3:49:00 PM,Mobile Payment,206280,4.761904762,10314,7.5
+692-27-8933,Galle,Galle,Normal,Female,Travel Packs & Gear,17385,6,5215.5,109525.5,2/24/2019,1:02:00 PM,Cash,104310,4.761904762,5215.5,5.2
+633-09-3463,Kandy,Kandy,Normal,Female,Mobile & Accessories,14295,3,2144.25,45029.25,3/28/2019,12:58:00 PM,Credit Card,42885,4.761904762,2144.25,9.5
+374-17-3652,Galle,Galle,Member,Female,Grocery & Snacks,12846,9,5780.7,121394.7,2/5/2019,3:26:00 PM,Credit Card,115614,4.761904762,5780.7,8.9
+378-07-7001,Galle,Galle,Member,Male,Mobile & Accessories,14427,3,2164.05,45445.05,2/10/2019,6:23:00 PM,Credit Card,43281,4.761904762,2164.05,7.8
+433-75-6987,Galle,Galle,Member,Female,Ayurvedic & Personal Care,16791,7,5876.85,123413.85,3/5/2019,7:06:00 PM,Mobile Payment,117537,4.761904762,5876.85,8.9
+873-95-4984,Galle,Galle,Member,Female,Ayurvedic & Personal Care,23070,7,8074.5,169564.5,2/15/2019,8:21:00 PM,Cash,161490,4.761904762,8074.5,7.7
+416-13-5917,Kandy,Kandy,Normal,Female,Grocery & Snacks,29109,5,7277.25,152822.25,1/30/2019,4:24:00 PM,Mobile Payment,145545,4.761904762,7277.25,9.3
+150-89-8043,Colombo,Colombo,Normal,Male,Travel Packs & Gear,13395,3,2009.25,42194.25,2/14/2019,3:04:00 PM,Cash,40185,4.761904762,2009.25,6.2
+135-84-8019,Colombo,Colombo,Normal,Female,Apparel & Footwear,23379,9,10520.55,220931.55,2/27/2019,4:10:00 PM,Mobile Payment,210411,4.761904762,10520.55,7.6
+441-94-7118,Colombo,Colombo,Member,Male,Mobile & Accessories,21585,1,1079.25,22664.25,2/4/2019,12:14:00 PM,Cash,21585,4.761904762,1079.25,7.3
+725-96-3778,Kandy,Kandy,Member,Female,Household Essentials,26775,8,10710,224910,1/20/2019,10:13:00 AM,Cash,214200,4.761904762,10710,4.7
+531-80-1784,Colombo,Colombo,Normal,Male,Mobile & Accessories,7806,7,2732.1,57374.1,3/28/2019,5:38:00 PM,Cash,54642,4.761904762,2732.1,5.1
+400-45-1220,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,4050,10,2025,42525,2/27/2019,11:06:00 AM,Credit Card,40500,4.761904762,2025,4.8
+860-79-0874,Kandy,Kandy,Member,Female,Apparel & Footwear,29790,10,14895,312795,2/15/2019,2:53:00 PM,Credit Card,297900,4.761904762,14895,6.6
+834-61-8124,Colombo,Colombo,Normal,Male,Mobile & Accessories,15507,7,5427.45,113976.45,1/26/2019,6:22:00 PM,Cash,108549,4.761904762,5427.45,5.5
+115-99-4379,Galle,Galle,Member,Female,Apparel & Footwear,16419,7,5746.65,120679.65,3/14/2019,7:02:00 PM,Credit Card,114933,4.761904762,5746.65,8.5
+565-67-6697,Galle,Galle,Member,Male,Household Essentials,8100,9,3645,76545,3/2/2019,2:16:00 PM,Cash,72900,4.761904762,3645,4.8
+320-49-6392,Kandy,Kandy,Normal,Female,Mobile & Accessories,9072,1,453.6,9525.6,3/4/2019,3:44:00 PM,Cash,9072,4.761904762,453.6,8.4
+889-04-9723,Galle,Galle,Member,Female,Grocery & Snacks,26742,4,5348.4,112316.4,1/7/2019,12:20:00 PM,Credit Card,106968,4.761904762,5348.4,7.8
+632-90-0281,Kandy,Kandy,Normal,Female,Apparel & Footwear,11265,10,5632.5,118282.5,3/8/2019,8:01:00 PM,Credit Card,112650,4.761904762,5632.5,9.3
+554-42-2417,Kandy,Kandy,Normal,Female,Travel Packs & Gear,28632,10,14316,300636,1/9/2019,1:45:00 PM,Cash,286320,4.761904762,14316,5.2
+453-63-6187,Galle,Galle,Normal,Male,Mobile & Accessories,8250,3,1237.5,25987.5,3/1/2019,3:40:00 PM,Mobile Payment,24750,4.761904762,1237.5,6.5
+578-80-7669,Galle,Galle,Normal,Male,Travel Packs & Gear,22491,1,1124.55,23615.55,3/16/2019,4:58:00 PM,Cash,22491,4.761904762,1124.55,5.6
+612-36-5536,Colombo,Colombo,Member,Male,Grocery & Snacks,24288,8,9715.2,204019.2,2/17/2019,11:12:00 AM,Credit Card,194304,4.761904762,9715.2,7.4
+605-72-4132,Kandy,Kandy,Normal,Female,Grocery & Snacks,28341,8,11336.4,238064.4,2/27/2019,3:12:00 PM,Cash,226728,4.761904762,11336.4,9.1
+471-41-2823,Kandy,Kandy,Normal,Male,Grocery & Snacks,29937,2,2993.7,62867.7,3/7/2019,8:37:00 PM,Mobile Payment,59874,4.761904762,2993.7,8
+462-67-9126,Colombo,Colombo,Normal,Male,Household Essentials,21966,6,6589.8,138385.8,1/21/2019,5:44:00 PM,Cash,131796,4.761904762,6589.8,7.2
+272-27-9238,Kandy,Kandy,Normal,Female,Grocery & Snacks,12372,4,2474.4,51962.4,2/19/2019,4:23:00 PM,Cash,49488,4.761904762,2474.4,7.1
+834-25-9262,Kandy,Kandy,Normal,Female,Apparel & Footwear,24504,4,4900.8,102916.8,1/6/2019,12:12:00 PM,Cash,98016,4.761904762,4900.8,9.1
+122-61-9553,Kandy,Kandy,Normal,Female,Mobile & Accessories,15396,9,6928.2,145492.2,3/14/2019,7:33:00 PM,Cash,138564,4.761904762,6928.2,5.6
+468-88-0009,Colombo,Colombo,Member,Male,Household Essentials,19782,4,3956.4,83084.4,3/24/2019,10:29:00 AM,Cash,79128,4.761904762,3956.4,6
+613-59-9758,Kandy,Kandy,Normal,Female,Travel Packs & Gear,4308,10,2154,45234,1/27/2019,2:28:00 PM,Cash,43080,4.761904762,2154,5.4
+254-31-0042,Colombo,Colombo,Member,Male,Mobile & Accessories,6450,9,2902.5,60952.5,3/6/2019,12:46:00 PM,Credit Card,58050,4.761904762,2902.5,7.8
+201-86-2184,Galle,Galle,Member,Female,Mobile & Accessories,7878,7,2757.3,57903.3,2/2/2019,7:40:00 PM,Cash,55146,4.761904762,2757.3,9.9
+261-12-8671,Galle,Galle,Normal,Female,Apparel & Footwear,18288,2,1828.8,38404.8,1/25/2019,7:39:00 PM,Credit Card,36576,4.761904762,1828.8,4.9
+730-70-9830,Kandy,Kandy,Normal,Female,Household Essentials,21033,6,6309.9,132507.9,3/14/2019,5:54:00 PM,Mobile Payment,126198,4.761904762,6309.9,5.2
+382-25-8917,Kandy,Kandy,Normal,Male,Apparel & Footwear,12624,6,3787.2,79531.2,1/29/2019,12:25:00 PM,Cash,75744,4.761904762,3787.2,8.9
+422-29-8786,Colombo,Colombo,Normal,Female,Household Essentials,20127,5,5031.75,105666.75,1/3/2019,4:47:00 PM,Credit Card,100635,4.761904762,5031.75,9.1
+667-23-5919,Colombo,Colombo,Member,Female,Apparel & Footwear,29010,5,7252.5,152302.5,1/14/2019,12:52:00 PM,Mobile Payment,145050,4.761904762,7252.5,7
+843-01-4703,Galle,Galle,Member,Female,Household Essentials,10614,9,4776.3,100302.3,1/5/2019,7:50:00 PM,Credit Card,95526,4.761904762,4776.3,9.6
+743-88-1662,Kandy,Kandy,Normal,Male,Travel Packs & Gear,28647,7,10026.45,210555.45,2/22/2019,6:17:00 PM,Mobile Payment,200529,4.761904762,10026.45,8.7
+595-86-2894,Kandy,Kandy,Member,Male,Apparel & Footwear,29094,4,5818.8,122194.8,2/6/2019,5:20:00 PM,Mobile Payment,116376,4.761904762,5818.8,9.4
+182-69-8360,Galle,Galle,Normal,Female,Mobile & Accessories,7095,4,1419,29799,1/30/2019,1:32:00 PM,Credit Card,28380,4.761904762,1419,4
+289-15-7034,Colombo,Colombo,Member,Male,Travel Packs & Gear,24699,4,4939.8,103735.8,1/11/2019,10:37:00 AM,Credit Card,98796,4.761904762,4939.8,7.5
+462-78-5240,Kandy,Kandy,Normal,Female,Mobile & Accessories,7983,2,798.3,16764.3,3/19/2019,2:35:00 PM,Cash,15966,4.761904762,798.3,4.2
+868-52-7573,Galle,Galle,Normal,Female,Grocery & Snacks,29907,5,7476.75,157011.75,1/14/2019,12:09:00 PM,Cash,149535,4.761904762,7476.75,9.9
+153-58-4872,Kandy,Kandy,Member,Female,Grocery & Snacks,22467,4,4493.4,94361.4,3/1/2019,3:32:00 PM,Mobile Payment,89868,4.761904762,4493.4,4.2
+662-72-2873,Colombo,Colombo,Normal,Female,Grocery & Snacks,12282,5,3070.5,64480.5,1/6/2019,1:58:00 PM,Mobile Payment,61410,4.761904762,3070.5,9.9
+525-88-7307,Galle,Galle,Member,Male,Travel Packs & Gear,22746,1,1137.3,23883.3,1/31/2019,1:19:00 PM,Cash,22746,4.761904762,1137.3,5.8
+689-16-9784,Kandy,Kandy,Normal,Male,Grocery & Snacks,14031,6,4209.3,88395.3,3/11/2019,1:37:00 PM,Cash,84186,4.761904762,4209.3,6
+725-56-0833,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,9696,10,4848,101808,2/20/2019,4:49:00 PM,Credit Card,96960,4.761904762,4848,10
+394-41-0748,Kandy,Kandy,Member,Female,Apparel & Footwear,16221,9,7299.45,153288.45,1/27/2019,2:55:00 PM,Mobile Payment,145989,4.761904762,7299.45,9.5
+596-42-3999,Galle,Galle,Normal,Male,Grocery & Snacks,5466,7,1913.1,40175.1,3/10/2019,2:04:00 PM,Credit Card,38262,4.761904762,1913.1,6.6
+541-89-9860,Kandy,Kandy,Member,Female,Apparel & Footwear,24144,3,3621.6,76053.6,2/15/2019,12:31:00 PM,Cash,72432,4.761904762,3621.6,8.1
+173-82-9529,Galle,Galle,Normal,Female,Apparel & Footwear,11385,10,5692.5,119542.5,1/26/2019,2:51:00 PM,Cash,113850,4.761904762,5692.5,9.7
+563-36-9814,Colombo,Colombo,Member,Male,Mobile & Accessories,23046,1,1152.3,24198.3,2/13/2019,6:27:00 PM,Mobile Payment,23046,4.761904762,1152.3,7.2
+308-47-4913,Colombo,Colombo,Member,Female,Travel Packs & Gear,15678,10,7839,164619,3/9/2019,12:45:00 PM,Credit Card,156780,4.761904762,7839,6.2
+885-17-6250,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,23922,1,1196.1,25118.1,3/6/2019,10:36:00 AM,Mobile Payment,23922,4.761904762,1196.1,7.3
+726-27-2396,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,23250,5,5812.5,122062.5,1/24/2019,8:36:00 PM,Mobile Payment,116250,4.761904762,5812.5,4.3
+316-01-3952,Colombo,Colombo,Normal,Female,Grocery & Snacks,16281,5,4070.25,85475.25,3/13/2019,2:16:00 PM,Mobile Payment,81405,4.761904762,4070.25,4.6
+760-54-1821,Galle,Galle,Normal,Male,Household Essentials,4077,9,1834.65,38527.65,3/15/2019,10:26:00 AM,Cash,36693,4.761904762,1834.65,5.8
+793-10-3222,Galle,Galle,Member,Female,Ayurvedic & Personal Care,12318,6,3695.4,77603.4,3/5/2019,1:30:00 PM,Credit Card,73908,4.761904762,3695.4,8.3
+346-12-3257,Galle,Galle,Member,Male,Mobile & Accessories,5772,9,2597.4,54545.4,3/4/2019,4:28:00 PM,Cash,51948,4.761904762,2597.4,8
+110-05-6330,Kandy,Kandy,Normal,Female,Grocery & Snacks,11829,6,3548.7,74522.7,3/25/2019,8:18:00 PM,Credit Card,70974,4.761904762,3548.7,9.4
+651-61-0874,Kandy,Kandy,Normal,Male,Household Essentials,13866,4,2773.2,58237.2,3/12/2019,8:04:00 PM,Credit Card,55464,4.761904762,2773.2,6.2
+236-86-3015,Kandy,Kandy,Member,Male,Household Essentials,4194,1,209.7,4403.7,2/4/2019,1:38:00 PM,Mobile Payment,4194,4.761904762,209.7,9.8
+831-64-0259,Galle,Galle,Normal,Female,Apparel & Footwear,11925,5,2981.25,62606.25,2/22/2019,10:43:00 AM,Mobile Payment,59625,4.761904762,2981.25,9.6
+587-03-7455,Kandy,Kandy,Member,Female,Apparel & Footwear,29337,7,10267.95,215626.95,2/16/2019,5:30:00 PM,Mobile Payment,205359,4.761904762,10267.95,4.9
+882-40-4577,Colombo,Colombo,Member,Male,Travel Packs & Gear,20178,4,4035.6,84747.6,1/19/2019,3:28:00 PM,Credit Card,80712,4.761904762,4035.6,8
+732-67-5346,Colombo,Colombo,Normal,Male,Grocery & Snacks,4137,5,1034.25,21719.25,1/11/2019,7:07:00 PM,Credit Card,20685,4.761904762,1034.25,7.8
+725-32-9708,Galle,Galle,Member,Female,Apparel & Footwear,20613,4,4122.6,86574.6,1/4/2019,7:01:00 PM,Cash,82452,4.761904762,4122.6,4.1
+256-08-8343,Colombo,Colombo,Normal,Female,Household Essentials,16959,4,3391.8,71227.8,3/4/2019,7:48:00 PM,Mobile Payment,67836,4.761904762,3391.8,5.5
+372-26-1506,Kandy,Kandy,Normal,Female,Apparel & Footwear,7146,5,1786.5,37516.5,1/28/2019,7:24:00 PM,Mobile Payment,35730,4.761904762,1786.5,5.4
+244-08-0162,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,10263,10,5131.5,107761.5,1/2/2019,1:00:00 PM,Cash,102630,4.761904762,5131.5,5.1
+569-71-4390,Galle,Galle,Normal,Male,Travel Packs & Gear,6561,2,656.1,13778.1,1/25/2019,2:29:00 PM,Mobile Payment,13122,4.761904762,656.1,6.9
+132-23-6451,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,6291,5,1572.75,33027.75,1/4/2019,1:21:00 PM,Cash,31455,4.761904762,1572.75,7.8
+696-90-2548,Colombo,Colombo,Normal,Male,Travel Packs & Gear,7752,3,1162.8,24418.8,3/10/2019,6:55:00 PM,Mobile Payment,23256,4.761904762,1162.8,6.6
+472-15-9636,Colombo,Colombo,Normal,Male,Household Essentials,15279,8,6111.6,128343.6,3/22/2019,7:36:00 PM,Mobile Payment,122232,4.761904762,6111.6,9.2
+268-03-6164,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,28833,1,1441.65,30274.65,1/25/2019,4:28:00 PM,Mobile Payment,28833,4.761904762,1441.65,7.8
+750-57-9686,Kandy,Kandy,Normal,Female,Household Essentials,13614,4,2722.8,57178.8,1/8/2019,1:48:00 PM,Credit Card,54456,4.761904762,2722.8,8.7
+186-09-3669,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,24453,1,1222.65,25675.65,1/22/2019,10:57:00 AM,Mobile Payment,24453,4.761904762,1222.65,9.2
+848-07-1692,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,17166,2,1716.6,36048.6,1/12/2019,5:13:00 PM,Mobile Payment,34332,4.761904762,1716.6,8.3
+745-71-3520,Colombo,Colombo,Member,Female,Mobile & Accessories,7566,7,2648.1,55610.1,2/4/2019,10:23:00 AM,Cash,52962,4.761904762,2648.1,8.2
+266-76-6436,Kandy,Kandy,Member,Female,Grocery & Snacks,11580,3,1737,36477,3/28/2019,1:57:00 PM,Mobile Payment,34740,4.761904762,1737,7.5
+740-22-2500,Kandy,Kandy,Normal,Female,Mobile & Accessories,25215,3,3782.25,79427.25,1/23/2019,1:29:00 PM,Cash,75645,4.761904762,3782.25,9.8
+271-88-8734,Kandy,Kandy,Member,Female,Apparel & Footwear,29163,10,14581.5,306211.5,2/8/2019,1:00:00 PM,Credit Card,291630,4.761904762,14581.5,8.7
+301-81-8610,Galle,Galle,Member,Male,Apparel & Footwear,7626,8,3050.4,64058.4,3/19/2019,7:42:00 PM,Credit Card,61008,4.761904762,3050.4,6.7
+489-64-4354,Kandy,Kandy,Normal,Male,Apparel & Footwear,4884,1,244.2,5128.2,3/9/2019,3:36:00 PM,Cash,4884,4.761904762,244.2,5
+198-84-7132,Galle,Galle,Member,Male,Apparel & Footwear,12183,9,5482.35,115129.35,1/2/2019,1:40:00 PM,Cash,109647,4.761904762,5482.35,7
+269-10-8440,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,15951,7,5582.85,117239.85,1/21/2019,6:01:00 PM,Cash,111657,4.761904762,5582.85,8.9
+650-98-6268,Galle,Galle,Member,Female,Grocery & Snacks,6261,3,939.15,19722.15,3/20/2019,1:53:00 PM,Credit Card,18783,4.761904762,939.15,8
+741-73-3559,Galle,Galle,Normal,Male,Travel Packs & Gear,20181,5,5045.25,105950.25,2/27/2019,5:27:00 PM,Cash,100905,4.761904762,5045.25,6.9
+325-77-6186,Colombo,Colombo,Member,Female,Household Essentials,27195,10,13597.5,285547.5,3/8/2019,10:53:00 AM,Mobile Payment,271950,4.761904762,13597.5,7.3
+286-75-7818,Galle,Galle,Normal,Male,Apparel & Footwear,20724,2,2072.4,43520.4,1/31/2019,7:48:00 PM,Credit Card,41448,4.761904762,2072.4,6.9
+574-57-9721,Kandy,Kandy,Normal,Male,Grocery & Snacks,12981,2,1298.1,27260.1,3/8/2019,4:53:00 PM,Mobile Payment,25962,4.761904762,1298.1,5.7
+459-50-7686,Colombo,Colombo,Normal,Female,Mobile & Accessories,7038,6,2111.4,44339.4,1/13/2019,7:14:00 PM,Mobile Payment,42228,4.761904762,2111.4,6.4
+616-87-0016,Galle,Galle,Normal,Male,Apparel & Footwear,28662,7,10031.7,210665.7,3/9/2019,2:36:00 PM,Credit Card,200634,4.761904762,10031.7,9.6
+837-55-7229,Galle,Galle,Normal,Female,Apparel & Footwear,14232,1,711.6,14943.6,2/22/2019,6:19:00 PM,Credit Card,14232,4.761904762,711.6,6.8
+751-69-0068,Kandy,Kandy,Normal,Male,Travel Packs & Gear,29772,9,13397.4,281345.4,3/19/2019,7:09:00 PM,Mobile Payment,267948,4.761904762,13397.4,9
+257-73-1380,Kandy,Kandy,Member,Male,Travel Packs & Gear,24879,4,4975.8,104491.8,1/20/2019,4:51:00 PM,Mobile Payment,99516,4.761904762,4975.8,9.6
+345-08-4992,Colombo,Colombo,Normal,Male,Household Essentials,10197,6,3059.1,64241.1,3/8/2019,3:37:00 PM,Credit Card,61182,4.761904762,3059.1,7.7
+549-96-4200,Kandy,Kandy,Member,Male,Grocery & Snacks,5112,4,1022.4,21470.4,3/8/2019,8:15:00 PM,Mobile Payment,20448,4.761904762,1022.4,7
+810-60-6344,Kandy,Kandy,Normal,Female,Mobile & Accessories,12258,8,4903.2,102967.2,2/7/2019,2:38:00 PM,Credit Card,98064,4.761904762,4903.2,6.5
+450-28-2866,Kandy,Kandy,Member,Male,Grocery & Snacks,5232,5,1308,27468,1/15/2019,7:25:00 PM,Cash,26160,4.761904762,1308,8.1
+394-30-3170,Galle,Galle,Member,Female,Travel Packs & Gear,26529,8,10611.6,222843.6,3/22/2019,7:35:00 PM,Credit Card,212232,4.761904762,10611.6,4.3
+138-17-5109,Colombo,Colombo,Member,Female,Household Essentials,26763,9,12043.35,252910.35,1/15/2019,3:42:00 PM,Credit Card,240867,4.761904762,12043.35,6.5
+192-98-7397,Kandy,Kandy,Normal,Male,Apparel & Footwear,3834,1,191.7,4025.7,1/8/2019,2:11:00 PM,Mobile Payment,3834,4.761904762,191.7,9.5
+301-11-9629,Colombo,Colombo,Normal,Female,Travel Packs & Gear,5730,7,2005.5,42115.5,1/15/2019,10:43:00 AM,Cash,40110,4.761904762,2005.5,9.7
+390-80-5128,Galle,Galle,Member,Female,Ayurvedic & Personal Care,5745,1,287.25,6032.25,1/28/2019,5:58:00 PM,Credit Card,5745,4.761904762,287.25,9.5
+235-46-8343,Kandy,Kandy,Member,Male,Grocery & Snacks,8298,10,4149,87129,2/14/2019,11:26:00 AM,Credit Card,82980,4.761904762,4149,8.9
+453-12-7053,Kandy,Kandy,Normal,Male,Apparel & Footwear,13722,3,2058.3,43224.3,3/10/2019,5:38:00 PM,Credit Card,41166,4.761904762,2058.3,6.5
+296-11-7041,Galle,Galle,Member,Female,Ayurvedic & Personal Care,8121,1,406.05,8527.05,1/12/2019,8:07:00 PM,Credit Card,8121,4.761904762,406.05,5.3
+449-27-2918,Galle,Galle,Member,Female,Travel Packs & Gear,11736,1,586.8,12322.8,3/26/2019,11:02:00 AM,Credit Card,11736,4.761904762,586.8,9.6
+891-01-7034,Galle,Galle,Normal,Female,Mobile & Accessories,22413,6,6723.9,141201.9,1/1/2019,7:07:00 PM,Cash,134478,4.761904762,6723.9,6.7
+744-09-5786,Galle,Galle,Normal,Male,Mobile & Accessories,6603,6,1980.9,41598.9,1/2/2019,6:50:00 PM,Cash,39618,4.761904762,1980.9,7.6
+727-17-0390,Colombo,Colombo,Normal,Female,Grocery & Snacks,19083,5,4770.75,100185.75,3/16/2019,12:43:00 PM,Mobile Payment,95415,4.761904762,4770.75,4.8
+568-88-3448,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,7500,1,375,7875,3/3/2019,3:09:00 PM,Mobile Payment,7500,4.761904762,375,5.5
+187-83-5490,Colombo,Colombo,Member,Male,Mobile & Accessories,6231,4,1246.2,26170.2,1/31/2019,1:47:00 PM,Cash,24924,4.761904762,1246.2,4.7
+767-54-1907,Galle,Galle,Member,Female,Apparel & Footwear,8868,5,2217,46557,2/13/2019,4:59:00 PM,Cash,44340,4.761904762,2217,6.9
+710-46-4433,Galle,Galle,Member,Female,Grocery & Snacks,23220,9,10449,219429,2/15/2019,2:15:00 PM,Credit Card,208980,4.761904762,10449,4.5
+533-33-5337,Galle,Galle,Normal,Male,Mobile & Accessories,23817,10,11908.5,250078.5,2/7/2019,8:24:00 PM,Cash,238170,4.761904762,11908.5,6.2
+325-90-8763,Kandy,Kandy,Member,Female,Mobile & Accessories,13971,10,6985.5,146695.5,1/27/2019,1:58:00 PM,Cash,139710,4.761904762,6985.5,7.6
+729-46-7422,Kandy,Kandy,Normal,Male,Grocery & Snacks,10767,1,538.35,11305.35,2/23/2019,4:52:00 PM,Credit Card,10767,4.761904762,538.35,7.9
+639-76-1242,Kandy,Kandy,Normal,Male,Grocery & Snacks,12156,5,3039,63819,2/3/2019,3:19:00 PM,Cash,60780,4.761904762,3039,4.5
+234-03-4040,Galle,Galle,Member,Female,Grocery & Snacks,21915,10,10957.5,230107.5,3/3/2019,12:25:00 PM,Credit Card,219150,4.761904762,10957.5,8.7
+326-71-2155,Kandy,Kandy,Normal,Female,Travel Packs & Gear,22185,4,4437,93177,2/3/2019,10:02:00 AM,Cash,88740,4.761904762,4437,6.1
+320-32-8842,Kandy,Kandy,Member,Female,Grocery & Snacks,6786,1,339.3,7125.3,3/17/2019,6:58:00 PM,Cash,6786,4.761904762,339.3,6.4
+470-32-9057,Colombo,Colombo,Member,Male,Grocery & Snacks,15402,5,3850.5,80860.5,3/28/2019,3:31:00 PM,Credit Card,77010,4.761904762,3850.5,9.1
+878-30-2331,Kandy,Kandy,Member,Female,Travel Packs & Gear,16365,10,8182.5,171832.5,3/2/2019,11:22:00 AM,Credit Card,163650,4.761904762,8182.5,7.1
+440-59-5691,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,11145,7,3900.75,81915.75,2/8/2019,1:12:00 PM,Credit Card,78015,4.761904762,3900.75,7.7
+554-53-3790,Galle,Galle,Normal,Male,Travel Packs & Gear,11106,6,3331.8,69967.8,3/22/2019,6:33:00 PM,Cash,66636,4.761904762,3331.8,4.5
+746-19-0921,Kandy,Kandy,Normal,Male,Grocery & Snacks,6474,1,323.7,6797.7,2/9/2019,10:02:00 AM,Mobile Payment,6474,4.761904762,323.7,7.2
+233-34-0817,Kandy,Kandy,Member,Female,Mobile & Accessories,29652,1,1482.6,31134.6,2/15/2019,11:21:00 AM,Cash,29652,4.761904762,1482.6,8.4
+767-05-1286,Kandy,Kandy,Member,Female,Household Essentials,25131,6,7539.3,158325.3,1/23/2019,12:10:00 PM,Mobile Payment,150786,4.761904762,7539.3,5.4
+340-21-9136,Colombo,Colombo,Member,Female,Travel Packs & Gear,12015,4,2403,50463,1/25/2019,11:40:00 AM,Cash,48060,4.761904762,2403,9.7
+405-31-3305,Colombo,Colombo,Member,Male,Apparel & Footwear,12939,10,6469.5,135859.5,2/2/2019,6:31:00 PM,Credit Card,129390,4.761904762,6469.5,5.5
+731-59-7531,Galle,Galle,Member,Male,Ayurvedic & Personal Care,21771,8,8708.4,182876.4,3/30/2019,5:58:00 PM,Cash,174168,4.761904762,8708.4,4.6
+676-39-6028,Colombo,Colombo,Member,Female,Mobile & Accessories,19332,5,4833,101493,3/30/2019,5:04:00 PM,Cash,96660,4.761904762,4833,6.6
+502-05-1910,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,19554,3,2933.1,61595.1,2/25/2019,8:35:00 PM,Credit Card,58662,4.761904762,2933.1,6.3
+485-30-8700,Colombo,Colombo,Normal,Female,Travel Packs & Gear,9978,5,2494.5,52384.5,3/18/2019,4:10:00 PM,Credit Card,49890,4.761904762,2494.5,4.2
+598-47-9715,Kandy,Kandy,Normal,Male,Mobile & Accessories,25221,4,5044.2,105928.2,3/7/2019,4:54:00 PM,Mobile Payment,100884,4.761904762,5044.2,4.4
+701-69-8742,Galle,Galle,Normal,Male,Travel Packs & Gear,10311,10,5155.5,108265.5,3/16/2019,10:11:00 AM,Mobile Payment,103110,4.761904762,5155.5,6.7
+575-67-1508,Colombo,Colombo,Normal,Male,Mobile & Accessories,11580,1,579,12159,1/29/2019,11:26:00 AM,Mobile Payment,11580,4.761904762,579,6.7
+541-08-3113,Kandy,Kandy,Normal,Male,Grocery & Snacks,19791,8,7916.4,166244.4,2/2/2019,8:29:00 PM,Cash,158328,4.761904762,7916.4,8.4
+246-11-3901,Kandy,Kandy,Normal,Female,Mobile & Accessories,9840,10,4920,103320,2/15/2019,12:12:00 PM,Cash,98400,4.761904762,4920,6.2
+674-15-9296,Colombo,Colombo,Normal,Male,Travel Packs & Gear,11142,5,2785.5,58495.5,1/8/2019,1:05:00 PM,Mobile Payment,55710,4.761904762,2785.5,5
+305-18-3552,Galle,Galle,Member,Male,Household Essentials,18114,10,9057,190197,2/12/2019,4:19:00 PM,Cash,181140,4.761904762,9057,6
+493-65-6248,Kandy,Kandy,Member,Female,Travel Packs & Gear,11094,10,5547,116487,1/1/2019,7:48:00 PM,Credit Card,110940,4.761904762,5547,7
+438-01-4015,Galle,Galle,Member,Female,Travel Packs & Gear,14847,4,2969.4,62357.4,3/21/2019,3:25:00 PM,Mobile Payment,59388,4.761904762,2969.4,6.6
+709-58-4068,Galle,Galle,Normal,Female,Apparel & Footwear,12327,10,6163.5,129433.5,2/28/2019,2:42:00 PM,Cash,123270,4.761904762,6163.5,7.3
+795-49-7276,Colombo,Colombo,Normal,Male,Apparel & Footwear,11145,4,2229,46809,3/23/2019,6:59:00 PM,Mobile Payment,44580,4.761904762,2229,8.3
+556-72-8512,Kandy,Kandy,Normal,Male,Household Essentials,6888,1,344.4,7232.4,1/30/2019,8:47:00 PM,Cash,6888,4.761904762,344.4,4.3
+627-95-3243,Galle,Galle,Member,Female,Household Essentials,23304,9,10486.8,220222.8,2/4/2019,1:21:00 PM,Mobile Payment,209736,4.761904762,10486.8,9.8
+686-41-0932,Galle,Galle,Normal,Female,Apparel & Footwear,10410,2,1041,21861,3/13/2019,7:48:00 PM,Mobile Payment,20820,4.761904762,1041,8.2
+510-09-5628,Colombo,Colombo,Member,Female,Apparel & Footwear,5898,10,2949,61929,3/15/2019,6:20:00 PM,Credit Card,58980,4.761904762,2949,7.2
+608-04-3797,Galle,Galle,Member,Female,Ayurvedic & Personal Care,7596,8,3038.4,63806.4,3/5/2019,8:24:00 PM,Mobile Payment,60768,4.761904762,3038.4,8.7
+148-82-2527,Kandy,Kandy,Member,Female,Household Essentials,3636,10,1818,38178,3/5/2019,1:44:00 PM,Credit Card,36360,4.761904762,1818,8.4
+437-53-3084,Galle,Galle,Normal,Male,Apparel & Footwear,29967,2,2996.7,62930.7,2/26/2019,11:48:00 AM,Mobile Payment,59934,4.761904762,2996.7,7.1
+632-32-4574,Galle,Galle,Normal,Male,Travel Packs & Gear,22776,8,9110.4,191318.4,3/20/2019,2:14:00 PM,Cash,182208,4.761904762,9110.4,5.5
+556-97-7101,Kandy,Kandy,Normal,Female,Mobile & Accessories,18966,2,1896.6,39828.6,1/1/2019,3:51:00 PM,Cash,37932,4.761904762,1896.6,8.5
+862-59-8517,Kandy,Kandy,Normal,Female,Grocery & Snacks,27072,6,8121.6,170553.6,1/27/2019,11:17:00 AM,Cash,162432,4.761904762,8121.6,6.2
+401-18-8016,Galle,Galle,Member,Female,Travel Packs & Gear,29439,1,1471.95,30910.95,1/21/2019,5:36:00 PM,Cash,29439,4.761904762,1471.95,8.9
+420-18-8989,Colombo,Colombo,Member,Female,Travel Packs & Gear,15456,8,6182.4,129830.4,2/2/2019,3:47:00 PM,Cash,123648,4.761904762,6182.4,9.6
+277-63-2961,Galle,Galle,Member,Male,Travel Packs & Gear,22191,1,1109.55,23300.55,2/3/2019,3:53:00 PM,Credit Card,22191,4.761904762,1109.55,5.4
+573-98-8548,Kandy,Kandy,Member,Female,Apparel & Footwear,9570,1,478.5,10048.5,1/5/2019,12:40:00 PM,Mobile Payment,9570,4.761904762,478.5,9.1
+620-02-2046,Kandy,Kandy,Normal,Male,Household Essentials,20820,2,2082,43722,1/27/2019,7:48:00 PM,Mobile Payment,41640,4.761904762,2082,9
+282-35-2475,Galle,Galle,Normal,Female,Travel Packs & Gear,27993,2,2799.3,58785.3,3/25/2019,5:53:00 PM,Cash,55986,4.761904762,2799.3,6.3
+511-54-3087,Galle,Galle,Normal,Male,Travel Packs & Gear,26535,1,1326.75,27861.75,2/25/2019,4:36:00 PM,Credit Card,26535,4.761904762,1326.75,9.5
+726-29-6793,Colombo,Colombo,Member,Male,Mobile & Accessories,7254,8,2901.6,60933.6,1/28/2019,8:54:00 PM,Mobile Payment,58032,4.761904762,2901.6,9.8
+387-49-4215,Galle,Galle,Member,Female,Travel Packs & Gear,14550,3,2182.5,45832.5,1/8/2019,12:50:00 PM,Cash,43650,4.761904762,2182.5,6.7
+862-17-9201,Galle,Galle,Normal,Female,Grocery & Snacks,25215,6,7564.5,158854.5,1/29/2019,10:48:00 AM,Credit Card,151290,4.761904762,7564.5,7.7
+291-21-5991,Galle,Galle,Member,Male,Ayurvedic & Personal Care,18387,5,4596.75,96531.75,3/29/2019,2:28:00 PM,Cash,91935,4.761904762,4596.75,7
+602-80-9671,Kandy,Kandy,Member,Female,Household Essentials,4785,6,1435.5,30145.5,2/9/2019,5:15:00 PM,Credit Card,28710,4.761904762,1435.5,5.1
+347-72-6115,Galle,Galle,Member,Female,Travel Packs & Gear,27222,7,9527.7,200081.7,1/16/2019,6:03:00 PM,Credit Card,190554,4.761904762,9527.7,6.2
+209-61-0206,Colombo,Colombo,Normal,Female,Household Essentials,12873,5,3218.25,67583.25,1/5/2019,5:29:00 PM,Mobile Payment,64365,4.761904762,3218.25,6.1
+595-27-4851,Colombo,Colombo,Normal,Female,Apparel & Footwear,16284,7,5699.4,119687.4,1/27/2019,6:05:00 PM,Mobile Payment,113988,4.761904762,5699.4,9.3
+189-52-0236,Colombo,Colombo,Normal,Male,Mobile & Accessories,29865,7,10452.75,219507.75,3/14/2019,12:07:00 PM,Cash,209055,4.761904762,10452.75,7.6
+503-07-0930,Kandy,Kandy,Member,Male,Travel Packs & Gear,17517,7,6130.95,128749.95,2/23/2019,7:49:00 PM,Credit Card,122619,4.761904762,6130.95,8.2
+413-20-6708,Kandy,Kandy,Member,Female,Apparel & Footwear,15441,1,772.05,16213.05,3/18/2019,3:52:00 PM,Mobile Payment,15441,4.761904762,772.05,8.5
+425-85-2085,Galle,Galle,Member,Male,Ayurvedic & Personal Care,16458,5,4114.5,86404.5,3/29/2019,4:48:00 PM,Mobile Payment,82290,4.761904762,4114.5,9.8
+521-18-7827,Kandy,Kandy,Member,Male,Household Essentials,11817,5,2954.25,62039.25,1/22/2019,8:46:00 PM,Credit Card,59085,4.761904762,2954.25,8.7
+220-28-1851,Colombo,Colombo,Normal,Male,Household Essentials,10419,2,1041.9,21879.9,3/1/2019,6:14:00 PM,Mobile Payment,20838,4.761904762,1041.9,9.7
+600-38-9738,Kandy,Kandy,Member,Male,Travel Packs & Gear,21576,5,5394,113274,1/17/2019,3:05:00 PM,Credit Card,107880,4.761904762,5394,4.3
+734-91-1155,Galle,Galle,Normal,Female,Mobile & Accessories,13713,3,2056.95,43195.95,3/26/2019,10:34:00 AM,Credit Card,41139,4.761904762,2056.95,7.7
+451-28-5717,Kandy,Kandy,Member,Female,Household Essentials,24951,6,7485.3,157191.3,3/20/2019,11:23:00 AM,Cash,149706,4.761904762,7485.3,7.3
+609-81-8548,Colombo,Colombo,Member,Female,Household Essentials,11232,6,3369.6,70761.6,2/6/2019,1:55:00 PM,Credit Card,67392,4.761904762,3369.6,5.9
+133-14-7229,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,18861,2,1886.1,39608.1,1/1/2019,11:43:00 AM,Cash,37722,4.761904762,1886.1,5
+534-01-4457,Colombo,Colombo,Normal,Male,Grocery & Snacks,24513,6,7353.9,154431.9,1/27/2019,2:36:00 PM,Credit Card,147078,4.761904762,7353.9,8
+719-89-8991,Colombo,Colombo,Member,Female,Travel Packs & Gear,27423,5,6855.75,143970.75,2/25/2019,4:03:00 PM,Mobile Payment,137115,4.761904762,6855.75,7.1
+286-62-6248,Galle,Galle,Normal,Male,Apparel & Footwear,11763,4,2352.6,49404.6,1/16/2019,8:03:00 PM,Credit Card,47052,4.761904762,2352.6,9
+339-38-9982,Galle,Galle,Member,Male,Apparel & Footwear,17958,2,1795.8,37711.8,1/13/2019,2:55:00 PM,Mobile Payment,35916,4.761904762,1795.8,6.7
+827-44-5872,Galle,Galle,Member,Female,Grocery & Snacks,16308,10,8154,171234,2/7/2019,11:28:00 AM,Credit Card,163080,4.761904762,8154,6.1
+827-77-7633,Colombo,Colombo,Normal,Male,Travel Packs & Gear,29427,9,13242.15,278085.15,2/17/2019,7:41:00 PM,Cash,264843,4.761904762,13242.15,9.3
+287-83-1405,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,7629,6,2288.7,48062.7,2/12/2019,7:01:00 PM,Mobile Payment,45774,4.761904762,2288.7,7
+435-13-4908,Colombo,Colombo,Member,Male,Apparel & Footwear,26004,8,10401.6,218433.6,1/24/2019,6:04:00 PM,Credit Card,208032,4.761904762,10401.6,7.2
+857-67-9057,Galle,Galle,Normal,Male,Mobile & Accessories,6885,10,3442.5,72292.5,2/6/2019,7:20:00 PM,Mobile Payment,68850,4.761904762,3442.5,8.2
+236-27-1144,Kandy,Kandy,Normal,Female,Grocery & Snacks,4893,9,2201.85,46238.85,3/26/2019,10:31:00 AM,Mobile Payment,44037,4.761904762,2201.85,8.4
+892-05-6689,Colombo,Colombo,Normal,Female,Household Essentials,8496,5,2124,44604,3/11/2019,1:28:00 PM,Mobile Payment,42480,4.761904762,2124,6.2
+583-41-4548,Kandy,Kandy,Normal,Male,Household Essentials,5001,7,1750.35,36757.35,2/7/2019,11:36:00 AM,Mobile Payment,35007,4.761904762,1750.35,7.4
+339-12-4827,Galle,Galle,Member,Female,Apparel & Footwear,22188,1,1109.4,23297.4,1/5/2019,11:32:00 AM,Credit Card,22188,4.761904762,1109.4,5
+643-38-7867,Colombo,Colombo,Normal,Male,Household Essentials,29382,1,1469.1,30851.1,3/7/2019,11:44:00 AM,Mobile Payment,29382,4.761904762,1469.1,6.9
+308-81-0538,Colombo,Colombo,Normal,Female,Apparel & Footwear,21915,4,4383,92043,2/25/2019,5:16:00 PM,Credit Card,87660,4.761904762,4383,4.9
+358-88-9262,Kandy,Kandy,Member,Female,Grocery & Snacks,26244,6,7873.2,165337.2,2/1/2019,6:43:00 PM,Mobile Payment,157464,4.761904762,7873.2,5.1
+460-35-4390,Colombo,Colombo,Normal,Male,Household Essentials,9204,3,1380.6,28992.6,1/22/2019,11:00:00 AM,Mobile Payment,27612,4.761904762,1380.6,9.1
+343-87-0864,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,22764,1,1138.2,23902.2,1/3/2019,10:30:00 AM,Credit Card,22764,4.761904762,1138.2,7.1
+173-50-1108,Galle,Galle,Member,Female,Travel Packs & Gear,6054,4,1210.8,25426.8,2/13/2019,12:14:00 PM,Credit Card,24216,4.761904762,1210.8,5
+243-47-2663,Kandy,Kandy,Member,Male,Mobile & Accessories,5631,6,1689.3,35475.3,1/28/2019,4:43:00 PM,Credit Card,33786,4.761904762,1689.3,5.5
+841-18-8232,Galle,Galle,Normal,Female,Grocery & Snacks,21360,1,1068,22428,1/5/2019,8:40:00 PM,Credit Card,21360,4.761904762,1068,9.2
+701-23-5550,Galle,Galle,Member,Male,Household Essentials,11643,4,2328.6,48900.6,3/19/2019,1:40:00 PM,Mobile Payment,46572,4.761904762,2328.6,4.9
+647-50-1224,Colombo,Colombo,Normal,Female,Apparel & Footwear,8826,10,4413,92673,1/12/2019,4:23:00 PM,Mobile Payment,88260,4.761904762,4413,8.9
+541-48-8554,Colombo,Colombo,Normal,Male,Travel Packs & Gear,18285,9,8228.25,172793.25,1/7/2019,12:08:00 PM,Credit Card,164565,4.761904762,8228.25,6
+539-21-7227,Galle,Galle,Normal,Female,Travel Packs & Gear,15462,5,3865.5,81175.5,1/26/2019,5:45:00 PM,Cash,77310,4.761904762,3865.5,4.2
+213-32-1216,Colombo,Colombo,Normal,Female,Mobile & Accessories,19818,6,5945.4,124853.4,1/23/2019,10:28:00 AM,Cash,118908,4.761904762,5945.4,7.3
+747-58-7183,Galle,Galle,Normal,Male,Apparel & Footwear,17181,3,2577.15,54120.15,2/9/2019,8:31:00 PM,Mobile Payment,51543,4.761904762,2577.15,6.5
+582-52-8065,Galle,Galle,Normal,Female,Apparel & Footwear,16293,9,7331.85,153968.85,2/22/2019,10:49:00 AM,Cash,146637,4.761904762,7331.85,8.9
+210-57-1719,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,17472,9,7862.4,165110.4,2/5/2019,12:34:00 PM,Cash,157248,4.761904762,7862.4,9.7
+399-69-4630,Kandy,Kandy,Normal,Male,Mobile & Accessories,6663,6,1998.9,41976.9,3/7/2019,10:23:00 AM,Credit Card,39978,4.761904762,1998.9,8.6
+134-75-2619,Colombo,Colombo,Member,Male,Mobile & Accessories,5796,7,2028.6,42600.6,3/25/2019,6:51:00 PM,Cash,40572,4.761904762,2028.6,6.9
+356-44-8813,Galle,Galle,Normal,Male,Household Essentials,11244,3,1686.6,35418.6,1/20/2019,1:45:00 PM,Credit Card,33732,4.761904762,1686.6,7.7
+198-66-9832,Galle,Galle,Member,Female,Apparel & Footwear,21612,2,2161.2,45385.2,2/4/2019,7:38:00 PM,Cash,43224,4.761904762,2161.2,9.5
+283-26-5248,Kandy,Kandy,Member,Female,Grocery & Snacks,29556,10,14778,310338,1/30/2019,8:23:00 PM,Mobile Payment,295560,4.761904762,14778,4.5
+712-39-0363,Colombo,Colombo,Member,Male,Grocery & Snacks,12498,6,3749.4,78737.4,1/2/2019,3:24:00 PM,Mobile Payment,74988,4.761904762,3749.4,5.6
+218-59-9410,Colombo,Colombo,Member,Female,Household Essentials,21726,3,3258.9,68436.9,3/29/2019,4:54:00 PM,Mobile Payment,65178,4.761904762,3258.9,8.2
+174-75-0888,Galle,Galle,Normal,Male,Mobile & Accessories,6474,9,2913.3,61179.3,3/14/2019,12:32:00 PM,Cash,58266,4.761904762,2913.3,7.3
+866-99-7614,Kandy,Kandy,Normal,Male,Grocery & Snacks,26760,10,13380,280980,2/11/2019,3:42:00 PM,Credit Card,267600,4.761904762,13380,4.4
+134-54-4720,Galle,Galle,Normal,Female,Mobile & Accessories,12726,8,5090.4,106898.4,1/30/2019,1:58:00 PM,Mobile Payment,101808,4.761904762,5090.4,5.7
+760-90-2357,Colombo,Colombo,Member,Male,Mobile & Accessories,22353,6,6705.9,140823.9,3/20/2019,3:08:00 PM,Mobile Payment,134118,4.761904762,6705.9,5
+514-37-2845,Galle,Galle,Normal,Male,Apparel & Footwear,29775,2,2977.5,62527.5,3/20/2019,1:02:00 PM,Cash,59550,4.761904762,2977.5,9
+698-98-5964,Colombo,Colombo,Normal,Female,Grocery & Snacks,24363,10,12181.5,255811.5,1/17/2019,1:01:00 PM,Credit Card,243630,4.761904762,12181.5,6.3
+718-57-9773,Kandy,Kandy,Normal,Female,Travel Packs & Gear,14799,10,7399.5,155389.5,2/3/2019,4:40:00 PM,Credit Card,147990,4.761904762,7399.5,9.4
+651-88-7328,Colombo,Colombo,Normal,Female,Apparel & Footwear,19722,9,8874.9,186372.9,1/1/2019,1:55:00 PM,Cash,177498,4.761904762,8874.9,7.7
+241-11-2261,Galle,Galle,Normal,Female,Apparel & Footwear,23958,7,8385.3,176091.3,1/10/2019,10:33:00 AM,Credit Card,167706,4.761904762,8385.3,5.5
+408-26-9866,Kandy,Kandy,Normal,Female,Travel Packs & Gear,22194,7,7767.9,163125.9,3/2/2019,4:42:00 PM,Mobile Payment,155358,4.761904762,7767.9,4.1
+834-83-1826,Galle,Galle,Member,Female,Household Essentials,24612,5,6153,129213,2/25/2019,5:16:00 PM,Credit Card,123060,4.761904762,6153,7.6
+343-61-3544,Galle,Galle,Member,Male,Travel Packs & Gear,8001,10,4000.5,84010.5,1/29/2019,11:48:00 AM,Cash,80010,4.761904762,4000.5,8.6
+239-48-4278,Colombo,Colombo,Member,Male,Grocery & Snacks,3039,7,1063.65,22336.65,3/10/2019,7:35:00 PM,Mobile Payment,21273,4.761904762,1063.65,8.3
+355-34-6244,Galle,Galle,Normal,Male,Grocery & Snacks,21717,2,2171.7,45605.7,1/13/2019,7:55:00 PM,Credit Card,43434,4.761904762,2171.7,8.1
+550-84-8664,Colombo,Colombo,Normal,Male,Travel Packs & Gear,25773,5,6443.25,135308.25,3/22/2019,2:33:00 PM,Credit Card,128865,4.761904762,6443.25,8.6
+339-96-8318,Galle,Galle,Member,Male,Apparel & Footwear,24393,7,8537.55,179288.55,3/1/2019,7:49:00 PM,Mobile Payment,170751,4.761904762,8537.55,6.3
+458-61-0011,Galle,Galle,Normal,Male,Grocery & Snacks,18090,4,3618,75978,2/20/2019,6:43:00 PM,Cash,72360,4.761904762,3618,5.8
+592-34-6155,Kandy,Kandy,Normal,Male,Grocery & Snacks,9531,4,1906.2,40030.2,1/14/2019,2:43:00 PM,Mobile Payment,38124,4.761904762,1906.2,6.2
+797-88-0493,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,19281,4,3856.2,80980.2,3/26/2019,1:54:00 PM,Cash,77124,4.761904762,3856.2,7.7
+207-73-1363,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,20853,2,2085.3,43791.3,3/1/2019,12:15:00 PM,Mobile Payment,41706,4.761904762,2085.3,8.1
+390-31-6381,Kandy,Kandy,Normal,Male,Grocery & Snacks,8166,3,1224.9,25722.9,1/7/2019,12:37:00 PM,Cash,24498,4.761904762,1224.9,7.3
+443-82-0585,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,23304,4,4660.8,97876.8,2/1/2019,7:54:00 PM,Cash,93216,4.761904762,4660.8,8.4
+339-18-7061,Kandy,Kandy,Member,Female,Apparel & Footwear,27894,2,2789.4,58577.4,2/13/2019,3:06:00 PM,Credit Card,55788,4.761904762,2789.4,8
+359-90-3665,Galle,Galle,Member,Female,Apparel & Footwear,5424,4,1084.8,22780.8,1/14/2019,6:03:00 PM,Credit Card,21696,4.761904762,1084.8,9.5
+375-72-3056,Galle,Galle,Normal,Male,Travel Packs & Gear,18918,3,2837.7,59591.7,1/19/2019,3:58:00 PM,Mobile Payment,56754,4.761904762,2837.7,7
+127-47-6963,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,15513,4,3102.6,65154.6,3/9/2019,1:53:00 PM,Credit Card,62052,4.761904762,3102.6,9.8
+278-86-2735,Colombo,Colombo,Normal,Female,Grocery & Snacks,15702,3,2355.3,49461.3,3/27/2019,2:03:00 PM,Cash,47106,4.761904762,2355.3,9.2
+695-28-6250,Colombo,Colombo,Normal,Female,Travel Packs & Gear,12918,5,3229.5,67819.5,2/4/2019,4:38:00 PM,Mobile Payment,64590,4.761904762,3229.5,7.7
+379-17-6588,Kandy,Kandy,Normal,Male,Apparel & Footwear,17883,10,8941.5,187771.5,3/14/2019,11:07:00 AM,Cash,178830,4.761904762,8941.5,5.3
+227-50-3718,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,4386,5,1096.5,23026.5,3/4/2019,12:23:00 PM,Cash,21930,4.761904762,1096.5,4.4
+302-15-2162,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,13959,6,4187.7,87941.7,3/3/2019,10:54:00 AM,Credit Card,83754,4.761904762,4187.7,4.3
+788-07-8452,Kandy,Kandy,Member,Female,Household Essentials,7272,7,2545.2,53449.2,1/27/2019,5:38:00 PM,Mobile Payment,50904,4.761904762,2545.2,9.4
+560-49-6611,Colombo,Colombo,Member,Female,Travel Packs & Gear,13674,1,683.7,14357.7,2/7/2019,2:13:00 PM,Cash,13674,4.761904762,683.7,9.8
+880-35-0356,Colombo,Colombo,Member,Female,Travel Packs & Gear,22560,3,3384,71064,2/5/2019,11:51:00 AM,Mobile Payment,67680,4.761904762,3384,4.8
+585-11-6748,Galle,Galle,Member,Male,Travel Packs & Gear,29040,3,4356,91476,3/15/2019,1:05:00 PM,Cash,87120,4.761904762,4356,5.3
+470-31-3286,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,4446,3,666.9,14004.9,3/1/2019,11:30:00 AM,Credit Card,13338,4.761904762,666.9,8.7
+152-68-2907,Colombo,Colombo,Normal,Male,Grocery & Snacks,15660,3,2349,49329,2/15/2019,1:30:00 PM,Credit Card,46980,4.761904762,2349,9.5
+123-35-4896,Kandy,Kandy,Normal,Female,Travel Packs & Gear,13998,9,6299.1,132281.1,2/17/2019,7:11:00 PM,Mobile Payment,125982,4.761904762,6299.1,5.3
+258-69-7810,Kandy,Kandy,Normal,Female,Apparel & Footwear,11055,5,2763.75,58038.75,1/26/2019,6:53:00 PM,Cash,55275,4.761904762,2763.75,9.2
+334-64-2006,Colombo,Colombo,Member,Female,Household Essentials,21096,2,2109.6,44301.6,3/24/2019,2:22:00 PM,Mobile Payment,42192,4.761904762,2109.6,9.6
+219-61-4139,Kandy,Kandy,Normal,Male,Mobile & Accessories,24924,1,1246.2,26170.2,1/23/2019,5:16:00 PM,Mobile Payment,24924,4.761904762,1246.2,6.4
+881-41-7302,Kandy,Kandy,Normal,Female,Apparel & Footwear,19497,1,974.85,20471.85,1/26/2019,10:06:00 AM,Credit Card,19497,4.761904762,974.85,4.5
+373-09-4567,Kandy,Kandy,Normal,Male,Grocery & Snacks,23268,10,11634,244314,3/14/2019,8:35:00 PM,Mobile Payment,232680,4.761904762,11634,6.9
+642-30-6693,Galle,Galle,Normal,Female,Travel Packs & Gear,16353,6,4905.9,103023.9,3/17/2019,1:54:00 PM,Mobile Payment,98118,4.761904762,4905.9,7.8
+484-22-8230,Kandy,Kandy,Member,Female,Apparel & Footwear,15567,7,5448.45,114417.45,1/8/2019,8:08:00 PM,Cash,108969,4.761904762,5448.45,4.5
+830-58-2383,Galle,Galle,Normal,Male,Household Essentials,9525,4,1905,40005,2/8/2019,3:26:00 PM,Cash,38100,4.761904762,1905,8.6
+559-98-9873,Colombo,Colombo,Member,Female,Apparel & Footwear,16095,7,5633.25,118298.25,2/10/2019,12:56:00 PM,Mobile Payment,112665,4.761904762,5633.25,5.2
+544-32-5024,Kandy,Kandy,Member,Female,Grocery & Snacks,14937,4,2987.4,62735.4,3/28/2019,7:16:00 PM,Credit Card,59748,4.761904762,2987.4,6.4
+318-12-0304,Colombo,Colombo,Normal,Male,Apparel & Footwear,9183,1,459.15,9642.15,1/23/2019,12:20:00 PM,Mobile Payment,9183,4.761904762,459.15,5.2
+349-97-8902,Galle,Galle,Member,Male,Grocery & Snacks,17367,2,1736.7,36470.7,1/17/2019,10:37:00 AM,Mobile Payment,34734,4.761904762,1736.7,8.9
+421-95-9805,Colombo,Colombo,Normal,Female,Mobile & Accessories,8688,1,434.4,9122.4,2/7/2019,10:18:00 AM,Credit Card,8688,4.761904762,434.4,6.2
+277-35-5865,Kandy,Kandy,Member,Female,Grocery & Snacks,29691,9,13360.95,280579.95,3/9/2019,11:23:00 AM,Cash,267219,4.761904762,13360.95,6.7
+789-23-8625,Galle,Galle,Member,Male,Apparel & Footwear,27966,3,4194.9,88092.9,1/24/2019,11:45:00 AM,Cash,83898,4.761904762,4194.9,7.2
+284-54-4231,Kandy,Kandy,Member,Male,Travel Packs & Gear,24279,1,1213.95,25492.95,1/19/2019,4:08:00 PM,Credit Card,24279,4.761904762,1213.95,9
+443-59-0061,Colombo,Colombo,Member,Male,Grocery & Snacks,20235,10,10117.5,212467.5,2/3/2019,11:25:00 AM,Mobile Payment,202350,4.761904762,10117.5,4.2
+509-29-3912,Colombo,Colombo,Member,Female,Travel Packs & Gear,11616,9,5227.2,109771.2,3/20/2019,12:24:00 PM,Mobile Payment,104544,4.761904762,5227.2,4.2
+327-40-9673,Galle,Galle,Member,Male,Travel Packs & Gear,21780,6,6534,137214,1/13/2019,7:51:00 PM,Cash,130680,4.761904762,6534,6.9
+840-19-2096,Kandy,Kandy,Member,Male,Mobile & Accessories,26373,5,6593.25,138458.25,3/14/2019,6:10:00 PM,Mobile Payment,131865,4.761904762,6593.25,4.4
+828-46-6863,Colombo,Colombo,Member,Male,Grocery & Snacks,29559,6,8867.7,186221.7,1/23/2019,11:22:00 AM,Credit Card,177354,4.761904762,8867.7,4
+641-96-3695,Kandy,Kandy,Member,Female,Apparel & Footwear,13038,6,3911.4,82139.4,2/7/2019,5:55:00 PM,Mobile Payment,78228,4.761904762,3911.4,8.5
+420-97-3340,Colombo,Colombo,Normal,Female,Grocery & Snacks,21504,3,3225.6,67737.6,3/28/2019,3:30:00 PM,Credit Card,64512,4.761904762,3225.6,9.2
+436-54-4512,Colombo,Colombo,Member,Female,Grocery & Snacks,27483,1,1374.15,28857.15,3/20/2019,7:44:00 PM,Cash,27483,4.761904762,1374.15,9.8
+670-79-6321,Galle,Galle,Member,Female,Household Essentials,28377,7,9931.95,208570.95,1/17/2019,3:27:00 PM,Credit Card,198639,4.761904762,9931.95,4.9
+852-62-7105,Galle,Galle,Normal,Female,Apparel & Footwear,24975,10,12487.5,262237.5,1/12/2019,11:25:00 AM,Credit Card,249750,4.761904762,12487.5,4.4
+598-06-7312,Galle,Galle,Member,Male,Apparel & Footwear,27405,1,1370.25,28775.25,2/16/2019,3:42:00 PM,Cash,27405,4.761904762,1370.25,6.8
+135-13-8269,Galle,Galle,Member,Female,Grocery & Snacks,23664,2,2366.4,49694.4,1/26/2019,4:04:00 PM,Cash,47328,4.761904762,2366.4,9.1
+816-57-2053,Colombo,Colombo,Normal,Male,Travel Packs & Gear,18261,2,1826.1,38348.1,3/9/2019,12:37:00 PM,Mobile Payment,36522,4.761904762,1826.1,8.7
+628-90-8624,Galle,Galle,Member,Male,Ayurvedic & Personal Care,24774,10,12387,260127,3/14/2019,2:41:00 PM,Cash,247740,4.761904762,12387,5
+856-66-2701,Colombo,Colombo,Member,Male,Household Essentials,15990,3,2398.5,50368.5,1/25/2019,2:19:00 PM,Mobile Payment,47970,4.761904762,2398.5,7.5
+308-39-1707,Colombo,Colombo,Normal,Female,Apparel & Footwear,3627,1,181.35,3808.35,1/26/2019,6:19:00 PM,Credit Card,3627,4.761904762,181.35,8.2
+149-61-1929,Colombo,Colombo,Normal,Male,Travel Packs & Gear,19257,10,9628.5,202198.5,1/19/2019,2:08:00 PM,Credit Card,192570,4.761904762,9628.5,6.7
+655-07-2265,Colombo,Colombo,Normal,Male,Mobile & Accessories,23493,3,3523.95,74002.95,3/5/2019,4:38:00 PM,Mobile Payment,70479,4.761904762,3523.95,5.4
+589-02-8023,Colombo,Colombo,Member,Male,Grocery & Snacks,25131,2,2513.1,52775.1,1/15/2019,10:54:00 AM,Credit Card,50262,4.761904762,2513.1,7
+420-04-7590,Galle,Galle,Normal,Male,Household Essentials,29910,3,4486.5,94216.5,3/18/2019,11:29:00 AM,Mobile Payment,89730,4.761904762,4486.5,4.7
+182-88-2763,Galle,Galle,Member,Male,Grocery & Snacks,23973,3,3595.95,75514.95,3/20/2019,7:28:00 PM,Credit Card,71919,4.761904762,3595.95,5
+188-55-0967,Galle,Galle,Member,Male,Ayurvedic & Personal Care,19941,10,9970.5,209380.5,1/15/2019,3:01:00 PM,Credit Card,199410,4.761904762,9970.5,5
+610-46-4100,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,8685,7,3039.75,63834.75,3/3/2019,8:31:00 PM,Credit Card,60795,4.761904762,3039.75,6
+318-81-2368,Kandy,Kandy,Normal,Female,Mobile & Accessories,13860,1,693,14553,3/19/2019,12:16:00 PM,Cash,13860,4.761904762,693,6.3
+364-33-8584,Galle,Galle,Member,Female,Grocery & Snacks,5289,5,1322.25,27767.25,3/8/2019,3:27:00 PM,Cash,26445,4.761904762,1322.25,8.5
+665-63-9737,Galle,Galle,Normal,Male,Apparel & Footwear,15726,3,2358.9,49536.9,2/27/2019,5:36:00 PM,Mobile Payment,47178,4.761904762,2358.9,7.5
+695-09-5146,Galle,Galle,Member,Female,Grocery & Snacks,29637,3,4445.55,93356.55,2/23/2019,8:00:00 PM,Mobile Payment,88911,4.761904762,4445.55,6.4
+155-45-3814,Kandy,Kandy,Member,Female,Mobile & Accessories,26565,8,10626,223146,3/19/2019,3:29:00 PM,Mobile Payment,212520,4.761904762,10626,4.7
+794-32-2436,Galle,Galle,Member,Male,Mobile & Accessories,16701,2,1670.1,35072.1,3/27/2019,3:08:00 PM,Mobile Payment,33402,4.761904762,1670.1,6
+131-15-8856,Kandy,Kandy,Member,Female,Grocery & Snacks,21756,8,8702.4,182750.4,3/30/2019,7:26:00 PM,Credit Card,174048,4.761904762,8702.4,4
+273-84-2164,Kandy,Kandy,Member,Male,Mobile & Accessories,3615,5,903.75,18978.75,2/16/2019,3:53:00 PM,Mobile Payment,18075,4.761904762,903.75,5.5
+706-36-6154,Colombo,Colombo,Member,Male,Household Essentials,5808,9,2613.6,54885.6,1/18/2019,6:43:00 PM,Mobile Payment,52272,4.761904762,2613.6,8.7
+778-89-7974,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,21063,6,6318.9,132696.9,3/30/2019,2:58:00 PM,Cash,126378,4.761904762,6318.9,7.4
+574-31-8277,Galle,Galle,Member,Male,Apparel & Footwear,10089,1,504.45,10593.45,3/20/2019,7:55:00 PM,Cash,10089,4.761904762,504.45,5.6
+859-71-0933,Kandy,Kandy,Member,Female,Travel Packs & Gear,4647,2,464.7,9758.7,1/16/2019,3:10:00 PM,Cash,9294,4.761904762,464.7,6.3
+740-11-5257,Kandy,Kandy,Normal,Male,Mobile & Accessories,7422,10,3711,77931,2/24/2019,4:44:00 PM,Cash,74220,4.761904762,3711,7.1
+369-82-2676,Galle,Galle,Normal,Male,Mobile & Accessories,22698,5,5674.5,119164.5,1/15/2019,6:22:00 PM,Mobile Payment,113490,4.761904762,5674.5,7.8
+563-47-4072,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,16743,6,5022.9,105480.9,1/22/2019,11:52:00 AM,Cash,100458,4.761904762,5022.9,9.9
+742-04-5161,Colombo,Colombo,Member,Male,Household Essentials,21834,10,10917,229257,2/3/2019,5:24:00 PM,Cash,218340,4.761904762,10917,7.3
+149-15-7606,Galle,Galle,Member,Male,Travel Packs & Gear,11196,9,5038.2,105802.2,3/6/2019,3:31:00 PM,Mobile Payment,100764,4.761904762,5038.2,5.1
+133-77-3154,Galle,Galle,Member,Male,Apparel & Footwear,18054,4,3610.8,75826.8,2/16/2019,6:04:00 PM,Credit Card,72216,4.761904762,3610.8,9.4
+169-52-4504,Colombo,Colombo,Normal,Female,Mobile & Accessories,4707,3,706.05,14827.05,3/14/2019,2:13:00 PM,Credit Card,14121,4.761904762,706.05,5.8
+250-81-7186,Kandy,Kandy,Normal,Female,Mobile & Accessories,29907,1,1495.35,31402.35,2/27/2019,10:23:00 AM,Credit Card,29907,4.761904762,1495.35,8
+562-12-5430,Colombo,Colombo,Member,Female,Apparel & Footwear,26445,3,3966.75,83301.75,1/18/2019,10:11:00 AM,Mobile Payment,79335,4.761904762,3966.75,7.9
+816-72-8853,Colombo,Colombo,Member,Female,Travel Packs & Gear,8379,5,2094.75,43989.75,1/29/2019,3:48:00 PM,Cash,41895,4.761904762,2094.75,5.9
+491-38-3499,Colombo,Colombo,Member,Male,Apparel & Footwear,16635,1,831.75,17466.75,2/26/2019,5:46:00 PM,Credit Card,16635,4.761904762,831.75,4.9
+322-02-2271,Galle,Galle,Normal,Female,Travel Packs & Gear,12891,3,1933.65,40606.65,2/3/2019,11:46:00 AM,Cash,38673,4.761904762,1933.65,9.3
+842-29-4695,Kandy,Kandy,Member,Male,Travel Packs & Gear,5142,7,1799.7,37793.7,1/16/2019,12:07:00 PM,Credit Card,35994,4.761904762,1799.7,7.9
+725-67-2480,Galle,Galle,Member,Female,Apparel & Footwear,17625,6,5287.5,111037.5,3/24/2019,6:14:00 PM,Credit Card,105750,4.761904762,5287.5,5.9
+641-51-2661,Kandy,Kandy,Member,Female,Grocery & Snacks,26130,10,13065,274365,2/12/2019,2:45:00 PM,Credit Card,261300,4.761904762,13065,9.9
+714-02-3114,Kandy,Kandy,Normal,Female,Travel Packs & Gear,29640,2,2964,62244,2/21/2019,11:39:00 AM,Cash,59280,4.761904762,2964,7.7
+518-17-2983,Colombo,Colombo,Normal,Female,Apparel & Footwear,14589,4,2917.8,61273.8,2/4/2019,3:44:00 PM,Mobile Payment,58356,4.761904762,2917.8,7.6
+779-42-2410,Galle,Galle,Member,Male,Grocery & Snacks,17322,3,2598.3,54564.3,2/20/2019,1:06:00 PM,Mobile Payment,51966,4.761904762,2598.3,7.7
+190-14-3147,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,5391,4,1078.2,22642.2,2/23/2019,8:43:00 PM,Mobile Payment,21564,4.761904762,1078.2,6.4
+408-66-6712,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,14313,6,4293.9,90171.9,2/16/2019,2:19:00 PM,Mobile Payment,85878,4.761904762,4293.9,4.4
+679-22-6530,Galle,Galle,Normal,Female,Travel Packs & Gear,12186,2,1218.6,25590.6,1/17/2019,10:01:00 AM,Credit Card,24372,4.761904762,1218.6,4.1
+588-47-8641,Colombo,Colombo,Member,Male,Apparel & Footwear,16812,10,8406,176526,1/14/2019,7:30:00 PM,Mobile Payment,168120,4.761904762,8406,4.4
+642-61-4706,Galle,Galle,Member,Male,Grocery & Snacks,28020,2,2802,58842,3/30/2019,4:34:00 PM,Cash,56040,4.761904762,2802,5.5
+576-31-4774,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,22023,3,3303.45,69372.45,3/2/2019,1:10:00 PM,Mobile Payment,66069,4.761904762,3303.45,4
+556-41-6224,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,10092,8,4036.8,84772.8,2/15/2019,5:10:00 PM,Credit Card,80736,4.761904762,4036.8,9.3
+811-03-8790,Colombo,Colombo,Normal,Female,Mobile & Accessories,13644,10,6822,143262,3/1/2019,10:22:00 AM,Credit Card,136440,4.761904762,6822,4.8
+242-11-3142,Galle,Galle,Member,Male,Apparel & Footwear,25131,2,2513.1,52775.1,2/24/2019,7:57:00 PM,Cash,50262,4.761904762,2513.1,4.6
+752-23-3760,Galle,Galle,Member,Female,Travel Packs & Gear,19224,7,6728.4,141296.4,2/19/2019,7:29:00 PM,Credit Card,134568,4.761904762,6728.4,7.3
+274-05-5470,Colombo,Colombo,Member,Female,Grocery & Snacks,22041,4,4408.2,92572.2,2/23/2019,6:30:00 PM,Cash,88164,4.761904762,4408.2,6
+648-94-3045,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,17685,10,8842.5,185692.5,2/7/2019,2:27:00 PM,Mobile Payment,176850,4.761904762,8842.5,8.1
+130-67-4723,Colombo,Colombo,Member,Male,Grocery & Snacks,14550,6,4365,91665,1/11/2019,1:57:00 PM,Mobile Payment,87300,4.761904762,4365,9.4
+528-87-5606,Galle,Galle,Member,Female,Mobile & Accessories,11844,1,592.2,12436.2,2/12/2019,7:43:00 PM,Cash,11844,4.761904762,592.2,6.5
+320-85-2052,Galle,Galle,Normal,Female,Travel Packs & Gear,10443,1,522.15,10965.15,1/14/2019,10:11:00 AM,Credit Card,10443,4.761904762,522.15,7
+370-96-0655,Kandy,Kandy,Normal,Female,Apparel & Footwear,14796,6,4438.8,93214.8,1/9/2019,1:46:00 PM,Mobile Payment,88776,4.761904762,4438.8,7.1
+105-10-6182,Colombo,Colombo,Member,Male,Apparel & Footwear,6444,2,644.4,13532.4,2/27/2019,12:22:00 PM,Mobile Payment,12888,4.761904762,644.4,6.6
+510-79-0415,Galle,Galle,Member,Female,Travel Packs & Gear,6924,6,2077.2,43621.2,1/24/2019,7:20:00 PM,Mobile Payment,41544,4.761904762,2077.2,4.9
+241-96-5076,Galle,Galle,Member,Female,Household Essentials,14730,2,1473,30933,1/8/2019,12:58:00 PM,Credit Card,29460,4.761904762,1473,6.4
+767-97-4650,Galle,Galle,Member,Female,Travel Packs & Gear,19449,2,1944.9,40842.9,1/8/2019,11:59:00 AM,Credit Card,38898,4.761904762,1944.9,8
+648-83-1321,Colombo,Colombo,Member,Male,Household Essentials,19068,10,9534,200214,1/16/2019,5:59:00 PM,Cash,190680,4.761904762,9534,4.3
+173-57-2300,Kandy,Kandy,Member,Male,Travel Packs & Gear,21864,2,2186.4,45914.4,3/13/2019,12:51:00 PM,Cash,43728,4.761904762,2186.4,6.1
+305-03-2383,Colombo,Colombo,Normal,Female,Grocery & Snacks,20130,3,3019.5,63409.5,2/15/2019,10:36:00 AM,Cash,60390,4.761904762,3019.5,7.5
+394-55-6384,Kandy,Kandy,Member,Female,Travel Packs & Gear,21057,9,9475.65,198988.65,1/25/2019,1:38:00 PM,Cash,189513,4.761904762,9475.65,6.7
+266-20-6657,Kandy,Kandy,Member,Male,Grocery & Snacks,16512,7,5779.2,121363.2,3/12/2019,7:39:00 PM,Mobile Payment,115584,4.761904762,5779.2,5.2
+689-05-1884,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,14589,10,7294.5,153184.5,3/4/2019,12:44:00 PM,Cash,145890,4.761904762,7294.5,8.8
+196-01-2849,Kandy,Kandy,Member,Female,Apparel & Footwear,22014,7,7704.9,161802.9,2/10/2019,1:56:00 PM,Cash,154098,4.761904762,7704.9,9.5
+372-62-5264,Kandy,Kandy,Normal,Female,Grocery & Snacks,15780,9,7101,149121,1/16/2019,2:42:00 PM,Cash,142020,4.761904762,7101,7.6
+800-09-8606,Colombo,Colombo,Member,Female,Household Essentials,26211,5,6552.75,137607.75,1/29/2019,7:45:00 PM,Cash,131055,4.761904762,6552.75,6.6
+182-52-7000,Colombo,Colombo,Member,Female,Travel Packs & Gear,8112,4,1622.4,34070.4,1/1/2019,8:26:00 PM,Mobile Payment,32448,4.761904762,1622.4,6.9
+826-58-8051,Galle,Galle,Normal,Male,Household Essentials,18657,4,3731.4,78359.4,1/6/2019,7:46:00 PM,Mobile Payment,74628,4.761904762,3731.4,4.3
+868-06-0466,Colombo,Colombo,Member,Male,Mobile & Accessories,20874,9,9393.3,197259.3,2/19/2019,7:38:00 PM,Credit Card,187866,4.761904762,9393.3,7.8
+751-41-9720,Kandy,Kandy,Normal,Male,Household Essentials,29250,10,14625,307125,1/12/2019,4:18:00 PM,Mobile Payment,292500,4.761904762,14625,8
+626-43-7888,Kandy,Kandy,Normal,Female,Apparel & Footwear,18123,8,7249.2,152233.2,2/7/2019,12:23:00 PM,Mobile Payment,144984,4.761904762,7249.2,9.6
+176-64-7711,Galle,Galle,Normal,Male,Grocery & Snacks,9696,3,1454.4,30542.4,3/27/2019,7:11:00 PM,Credit Card,29088,4.761904762,1454.4,4.3
+191-29-0321,Galle,Galle,Member,Female,Apparel & Footwear,5931,10,2965.5,62275.5,2/27/2019,6:57:00 PM,Credit Card,59310,4.761904762,2965.5,5
+729-06-2010,Galle,Galle,Member,Male,Ayurvedic & Personal Care,24141,9,10863.45,228132.45,1/6/2019,11:18:00 AM,Cash,217269,4.761904762,10863.45,9.2
+640-48-5028,Galle,Galle,Member,Female,Household Essentials,26517,9,11932.65,250585.65,3/2/2019,12:40:00 PM,Cash,238653,4.761904762,11932.65,6.3
+186-79-9562,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,21531,7,7535.85,158252.85,3/29/2019,2:06:00 PM,Cash,150717,4.761904762,7535.85,8.9
+834-45-5519,Galle,Galle,Normal,Female,Mobile & Accessories,12900,4,2580,54180,1/31/2019,8:48:00 PM,Mobile Payment,51600,4.761904762,2580,7.6
+162-65-8559,Kandy,Kandy,Member,Male,Grocery & Snacks,20694,1,1034.7,21728.7,1/21/2019,8:13:00 PM,Cash,20694,4.761904762,1034.7,4.8
+760-27-5490,Kandy,Kandy,Normal,Male,Apparel & Footwear,4686,8,1874.4,39362.4,1/20/2019,8:37:00 PM,Mobile Payment,37488,4.761904762,1874.4,9.1
+445-30-9252,Colombo,Colombo,Normal,Male,Travel Packs & Gear,7710,3,1156.5,24286.5,1/17/2019,5:59:00 PM,Mobile Payment,23130,4.761904762,1156.5,6.1
+786-94-2700,Colombo,Colombo,Member,Male,Grocery & Snacks,24186,6,7255.8,152371.8,2/28/2019,8:18:00 PM,Cash,145116,4.761904762,7255.8,9.1
+728-88-7867,Kandy,Kandy,Member,Female,Household Essentials,22659,4,4531.8,95167.8,3/19/2019,3:52:00 PM,Mobile Payment,90636,4.761904762,4531.8,8.3
+183-21-3799,Kandy,Kandy,Normal,Female,Mobile & Accessories,23289,9,10480.05,220081.05,2/19/2019,3:14:00 PM,Mobile Payment,209601,4.761904762,10480.05,7.2
+268-20-3585,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,4155,9,1869.75,39264.75,2/4/2019,12:50:00 PM,Mobile Payment,37395,4.761904762,1869.75,6
+735-32-9839,Kandy,Kandy,Member,Male,Apparel & Footwear,29610,8,11844,248724,1/31/2019,10:36:00 AM,Mobile Payment,236880,4.761904762,11844,8.5
+258-92-7466,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,10704,5,2676,56196,2/6/2019,6:33:00 PM,Credit Card,53520,4.761904762,2676,6.6
+857-16-3520,Colombo,Colombo,Member,Female,Apparel & Footwear,21438,7,7503.3,157569.3,3/28/2019,4:06:00 PM,Mobile Payment,150066,4.761904762,7503.3,4.5
+482-17-1179,Colombo,Colombo,Member,Male,Mobile & Accessories,3582,3,537.3,11283.3,1/19/2019,12:47:00 PM,Credit Card,10746,4.761904762,537.3,8.1
+788-21-5741,Colombo,Colombo,Normal,Male,Apparel & Footwear,13614,3,2042.1,42884.1,2/17/2019,1:34:00 PM,Credit Card,40842,4.761904762,2042.1,7.2
+821-14-9046,Galle,Galle,Member,Female,Apparel & Footwear,5244,6,1573.2,33037.2,1/18/2019,3:04:00 PM,Credit Card,31464,4.761904762,1573.2,6.1
+418-05-0656,Galle,Galle,Normal,Female,Apparel & Footwear,7668,7,2683.8,56359.8,2/2/2019,8:42:00 PM,Cash,53676,4.761904762,2683.8,7.1
+678-79-0726,Kandy,Kandy,Member,Female,Travel Packs & Gear,27189,9,12235.05,256936.05,1/18/2019,3:28:00 PM,Cash,244701,4.761904762,12235.05,5.1
+776-68-1096,Galle,Galle,Normal,Male,Household Essentials,13236,3,1985.4,41693.4,3/18/2019,1:45:00 PM,Credit Card,39708,4.761904762,1985.4,7.9
+592-46-1692,Kandy,Kandy,Member,Female,Grocery & Snacks,11031,7,3860.85,81077.85,1/11/2019,8:10:00 PM,Cash,77217,4.761904762,3860.85,7.4
+434-35-9162,Galle,Galle,Member,Male,Grocery & Snacks,7002,4,1400.4,29408.4,2/4/2019,6:53:00 PM,Mobile Payment,28008,4.761904762,1400.4,7.4
+149-14-0304,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,8550,8,3420,71820,2/6/2019,2:24:00 PM,Cash,68400,4.761904762,3420,6.6
+442-44-6497,Kandy,Kandy,Member,Male,Household Essentials,16671,3,2500.65,52513.65,1/8/2019,11:42:00 AM,Credit Card,50013,4.761904762,2500.65,5.9
+174-64-0215,Galle,Galle,Normal,Male,Travel Packs & Gear,20922,10,10461,219681,3/5/2019,5:49:00 PM,Credit Card,209220,4.761904762,10461,8.9
+210-74-9613,Kandy,Kandy,Normal,Male,Apparel & Footwear,29178,4,5835.6,122547.6,3/16/2019,3:33:00 PM,Mobile Payment,116712,4.761904762,5835.6,6.8
+299-29-0180,Galle,Galle,Member,Female,Household Essentials,15654,7,5478.9,115056.9,3/9/2019,10:54:00 AM,Cash,109578,4.761904762,5478.9,9.3
+247-11-2470,Colombo,Colombo,Member,Female,Apparel & Footwear,6696,4,1339.2,28123.2,3/1/2019,4:23:00 PM,Credit Card,26784,4.761904762,1339.2,4.4
+635-28-5728,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,16800,3,2520,52920,2/28/2019,7:33:00 PM,Mobile Payment,50400,4.761904762,2520,4.8
+756-49-0168,Colombo,Colombo,Member,Male,Apparel & Footwear,5910,1,295.5,6205.5,2/8/2019,11:39:00 AM,Mobile Payment,5910,4.761904762,295.5,9.5
+438-23-1242,Galle,Galle,Normal,Male,Mobile & Accessories,22764,7,7967.4,167315.4,1/24/2019,10:38:00 AM,Mobile Payment,159348,4.761904762,7967.4,8.9
+238-45-6950,Galle,Galle,Member,Male,Grocery & Snacks,16116,1,805.8,16921.8,3/1/2019,8:03:00 PM,Mobile Payment,16116,4.761904762,805.8,6.4
+607-65-2441,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,24585,10,12292.5,258142.5,3/10/2019,12:39:00 PM,Credit Card,245850,4.761904762,12292.5,6
+386-27-7606,Kandy,Kandy,Member,Female,Household Essentials,24360,7,8526,179046,3/23/2019,3:59:00 PM,Credit Card,170520,4.761904762,8526,8.1
+137-63-5492,Kandy,Kandy,Normal,Male,Mobile & Accessories,17628,10,8814,185094,1/29/2019,2:26:00 PM,Mobile Payment,176280,4.761904762,8814,9
+197-77-7132,Galle,Galle,Member,Male,Mobile & Accessories,27468,8,10987.2,230731.2,1/12/2019,6:22:00 PM,Mobile Payment,219744,4.761904762,10987.2,6
+805-86-0265,Colombo,Colombo,Normal,Male,Household Essentials,28188,9,12684.6,266376.6,3/20/2019,11:32:00 AM,Cash,253692,4.761904762,12684.6,9.8
+733-29-1227,Kandy,Kandy,Normal,Male,Household Essentials,16683,7,5839.05,122620.05,3/23/2019,12:41:00 PM,Cash,116781,4.761904762,5839.05,8.5
+451-73-2711,Kandy,Kandy,Normal,Male,Grocery & Snacks,25449,1,1272.45,26721.45,1/14/2019,3:20:00 PM,Mobile Payment,25449,4.761904762,1272.45,8.8
+373-14-0504,Colombo,Colombo,Member,Female,Travel Packs & Gear,21489,2,2148.9,45126.9,2/12/2019,2:33:00 PM,Mobile Payment,42978,4.761904762,2148.9,8.8
+546-80-2899,Colombo,Colombo,Member,Male,Household Essentials,11307,2,1130.7,23744.7,2/20/2019,3:29:00 PM,Mobile Payment,22614,4.761904762,1130.7,9.5
+345-68-9016,Kandy,Kandy,Member,Female,Travel Packs & Gear,9501,8,3800.4,79808.4,1/2/2019,4:19:00 PM,Credit Card,76008,4.761904762,3800.4,5.6
+390-17-5806,Kandy,Kandy,Member,Female,Grocery & Snacks,11526,1,576.3,12102.3,2/2/2019,4:33:00 PM,Cash,11526,4.761904762,576.3,8.6
+457-13-1708,Galle,Galle,Member,Male,Apparel & Footwear,19569,10,9784.5,205474.5,1/8/2019,7:07:00 PM,Credit Card,195690,4.761904762,9784.5,5.2
+664-14-2882,Kandy,Kandy,Member,Female,Household Essentials,3159,5,789.75,16584.75,1/30/2019,2:43:00 PM,Credit Card,15795,4.761904762,789.75,5.8
+487-79-6868,Galle,Galle,Member,Female,Household Essentials,3687,9,1659.15,34842.15,3/26/2019,7:28:00 PM,Credit Card,33183,4.761904762,1659.15,8
+314-23-4520,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,24369,7,8529.15,179112.15,1/15/2019,8:44:00 PM,Cash,170583,4.761904762,8529.15,9
+210-30-7976,Galle,Galle,Member,Female,Apparel & Footwear,6696,4,1339.2,28123.2,3/14/2019,11:16:00 AM,Mobile Payment,26784,4.761904762,1339.2,4.1
+585-86-8361,Colombo,Colombo,Normal,Female,Grocery & Snacks,8184,5,2046,42966,2/3/2019,10:31:00 AM,Credit Card,40920,4.761904762,2046,8.6
+807-14-7833,Colombo,Colombo,Member,Female,Mobile & Accessories,5226,10,2613,54873,2/22/2019,12:30:00 PM,Mobile Payment,52260,4.761904762,2613,7
+775-72-1988,Galle,Galle,Normal,Male,Household Essentials,21984,5,5496,115416,1/24/2019,3:05:00 PM,Mobile Payment,109920,4.761904762,5496,8.4
+288-38-3758,Kandy,Kandy,Member,Female,Apparel & Footwear,25461,3,3819.15,80202.15,1/25/2019,6:30:00 PM,Mobile Payment,76383,4.761904762,3819.15,7.4
+652-43-6591,Colombo,Colombo,Normal,Female,Apparel & Footwear,29187,8,11674.8,245170.8,3/9/2019,1:18:00 PM,Credit Card,233496,4.761904762,11674.8,6.2
+785-96-0615,Galle,Galle,Member,Female,Mobile & Accessories,10722,8,4288.8,90064.8,2/17/2019,3:28:00 PM,Mobile Payment,85776,4.761904762,4288.8,4.9
+406-46-7107,Colombo,Colombo,Normal,Female,Household Essentials,28956,6,8686.8,182422.8,1/11/2019,11:52:00 AM,Cash,173736,4.761904762,8686.8,4.5
+250-17-5703,Colombo,Colombo,Member,Male,Grocery & Snacks,5655,10,2827.5,59377.5,2/27/2019,6:24:00 PM,Mobile Payment,56550,4.761904762,2827.5,5.6
+156-95-3964,Colombo,Colombo,Normal,Female,Grocery & Snacks,16617,4,3323.4,69791.4,3/25/2019,3:19:00 PM,Mobile Payment,66468,4.761904762,3323.4,8
+842-40-8179,Galle,Galle,Member,Female,Grocery & Snacks,23160,10,11580,243180,2/11/2019,10:38:00 AM,Credit Card,231600,4.761904762,11580,5.6
+525-09-8450,Galle,Galle,Normal,Male,Mobile & Accessories,21639,10,10819.5,227209.5,1/31/2019,3:12:00 PM,Credit Card,216390,4.761904762,10819.5,4.2
+410-67-1709,Colombo,Colombo,Member,Female,Apparel & Footwear,19164,8,7665.6,160977.6,1/20/2019,5:48:00 PM,Mobile Payment,153312,4.761904762,7665.6,9.9
+587-73-4862,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,3207,5,801.75,16836.75,3/26/2019,11:07:00 AM,Mobile Payment,16035,4.761904762,801.75,7.6
+787-87-2010,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,16650,4,3330,69930,1/20/2019,3:48:00 PM,Credit Card,66600,4.761904762,3330,6.6
+593-14-4239,Galle,Galle,Normal,Female,Household Essentials,28638,8,11455.2,240559.2,3/5/2019,7:40:00 PM,Mobile Payment,229104,4.761904762,11455.2,4.7
+801-88-0346,Kandy,Kandy,Normal,Female,Apparel & Footwear,22818,3,3422.7,71876.7,1/5/2019,8:30:00 PM,Credit Card,68454,4.761904762,3422.7,9.8
+388-76-2555,Galle,Galle,Normal,Male,Travel Packs & Gear,4107,6,1232.1,25874.1,2/13/2019,1:59:00 PM,Cash,24642,4.761904762,1232.1,6.3
+711-31-1234,Galle,Galle,Normal,Female,Mobile & Accessories,28692,4,5738.4,120506.4,3/16/2019,6:51:00 PM,Cash,114768,4.761904762,5738.4,7.9
+886-54-6089,Colombo,Colombo,Normal,Female,Household Essentials,3429,6,1028.7,21602.7,1/15/2019,5:24:00 PM,Cash,20574,4.761904762,1028.7,7.7
+707-32-7409,Galle,Galle,Member,Female,Travel Packs & Gear,28662,4,5732.4,120380.4,2/26/2019,11:58:00 AM,Mobile Payment,114648,4.761904762,5732.4,4.5
+759-98-4285,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,25761,7,9016.35,189343.35,2/27/2019,7:01:00 PM,Credit Card,180327,4.761904762,9016.35,8
+201-63-8275,Kandy,Kandy,Member,Female,Travel Packs & Gear,20397,7,7138.95,149917.95,2/17/2019,4:50:00 PM,Mobile Payment,142779,4.761904762,7138.95,5.7
+471-06-8611,Kandy,Kandy,Normal,Female,Grocery & Snacks,15726,1,786.3,16512.3,2/6/2019,10:22:00 AM,Credit Card,15726,4.761904762,786.3,6.3
+200-16-5952,Kandy,Kandy,Member,Male,Grocery & Snacks,19695,2,1969.5,41359.5,1/17/2019,4:46:00 PM,Cash,39390,4.761904762,1969.5,6
+120-54-2248,Galle,Galle,Normal,Female,Grocery & Snacks,8658,5,2164.5,45454.5,1/22/2019,6:08:00 PM,Credit Card,43290,4.761904762,2164.5,8
+102-77-2261,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,19593,7,6857.55,144008.55,3/5/2019,6:02:00 PM,Credit Card,137151,4.761904762,6857.55,4.2
+875-31-8302,Galle,Galle,Normal,Male,Travel Packs & Gear,28014,1,1400.7,29414.7,1/3/2019,1:07:00 PM,Cash,28014,4.761904762,1400.7,9.6
+102-06-2002,Kandy,Kandy,Member,Male,Travel Packs & Gear,7575,5,1893.75,39768.75,3/20/2019,5:52:00 PM,Cash,37875,4.761904762,1893.75,6.1
+457-94-0464,Galle,Galle,Member,Male,Mobile & Accessories,26361,9,11862.45,249111.45,1/31/2019,8:32:00 PM,Mobile Payment,237249,4.761904762,11862.45,5.6
+629-42-4133,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,6540,8,2616,54936,2/19/2019,7:24:00 PM,Cash,52320,4.761904762,2616,8.3
+534-53-3526,Colombo,Colombo,Normal,Female,Travel Packs & Gear,28428,4,5685.6,119397.6,2/11/2019,4:06:00 PM,Mobile Payment,113712,4.761904762,5685.6,7.8
+307-04-2070,Colombo,Colombo,Member,Female,Apparel & Footwear,9186,1,459.3,9645.3,2/5/2019,2:14:00 PM,Credit Card,9186,4.761904762,459.3,4.1
+468-99-7231,Kandy,Kandy,Normal,Female,Household Essentials,13203,8,5281.2,110905.2,3/3/2019,5:36:00 PM,Cash,105624,4.761904762,5281.2,8.8
+516-77-6464,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,3048,5,762,16002,2/24/2019,1:08:00 PM,Mobile Payment,15240,4.761904762,762,4.1
+404-91-5964,Colombo,Colombo,Normal,Male,Mobile & Accessories,22374,7,7830.9,164448.9,2/4/2019,4:09:00 PM,Credit Card,156618,4.761904762,7830.9,9
+886-77-9084,Kandy,Kandy,Normal,Male,Mobile & Accessories,21567,8,8626.8,181162.8,2/19/2019,11:33:00 AM,Mobile Payment,172536,4.761904762,8626.8,5.5
+790-38-4466,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,3297,5,824.25,17309.25,1/23/2019,10:18:00 AM,Credit Card,16485,4.761904762,824.25,9.3
+704-10-4056,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,18141,3,2721.15,57144.15,1/14/2019,10:55:00 AM,Credit Card,54423,4.761904762,2721.15,5.6
+497-37-6538,Colombo,Colombo,Normal,Male,Travel Packs & Gear,17673,7,6185.55,129896.55,1/17/2019,3:15:00 PM,Mobile Payment,123711,4.761904762,6185.55,9.7
+651-96-5970,Colombo,Colombo,Normal,Male,Apparel & Footwear,13923,1,696.15,14619.15,3/3/2019,8:06:00 PM,Credit Card,13923,4.761904762,696.15,4
+400-80-4065,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,20565,4,4113,86373,2/15/2019,8:21:00 PM,Credit Card,82260,4.761904762,4113,9.2
+744-16-7898,Galle,Galle,Normal,Female,Household Essentials,29211,10,14605.5,306715.5,1/15/2019,1:48:00 PM,Credit Card,292110,4.761904762,14605.5,4.9
+263-12-5321,Colombo,Colombo,Member,Male,Mobile & Accessories,27780,7,9723,204183,2/27/2019,12:52:00 PM,Credit Card,194460,4.761904762,9723,9.3
+702-72-0487,Colombo,Colombo,Normal,Female,Mobile & Accessories,13983,2,1398.3,29364.3,2/26/2019,12:28:00 PM,Credit Card,27966,4.761904762,1398.3,6.6
+605-83-1050,Galle,Galle,Normal,Male,Apparel & Footwear,8154,2,815.4,17123.4,3/15/2019,4:26:00 PM,Mobile Payment,16308,4.761904762,815.4,4.3
+443-60-9639,Kandy,Kandy,Member,Female,Household Essentials,18261,1,913.05,19174.05,1/24/2019,1:24:00 PM,Cash,18261,4.761904762,913.05,5.5
+864-24-7918,Colombo,Colombo,Member,Female,Travel Packs & Gear,7347,10,3673.5,77143.5,2/22/2019,3:15:00 PM,Cash,73470,4.761904762,3673.5,8.1
+359-94-5395,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,27834,1,1391.7,29225.7,3/15/2019,10:50:00 AM,Credit Card,27834,4.761904762,1391.7,9.8
+401-09-4232,Kandy,Kandy,Member,Male,Household Essentials,26007,5,6501.75,136536.75,2/11/2019,6:38:00 PM,Mobile Payment,130035,4.761904762,6501.75,9.4
+751-15-6198,Galle,Galle,Normal,Male,Travel Packs & Gear,6903,6,2070.9,43488.9,1/12/2019,4:45:00 PM,Mobile Payment,41418,4.761904762,2070.9,7.9
+324-41-6833,Kandy,Kandy,Member,Female,Mobile & Accessories,9060,8,3624,76104,3/3/2019,7:30:00 PM,Mobile Payment,72480,4.761904762,3624,5.1
+474-33-8305,Kandy,Kandy,Member,Male,Apparel & Footwear,20217,7,7075.95,148594.95,3/23/2019,1:23:00 PM,Mobile Payment,141519,4.761904762,7075.95,6.9
+759-29-9521,Colombo,Colombo,Member,Female,Apparel & Footwear,14688,9,6609.6,138801.6,3/4/2019,11:27:00 AM,Cash,132192,4.761904762,6609.6,8
+831-81-6575,Galle,Galle,Member,Female,Mobile & Accessories,22677,9,10204.65,214297.65,2/23/2019,11:12:00 AM,Cash,204093,4.761904762,10204.65,8
+220-68-6701,Colombo,Colombo,Normal,Female,Household Essentials,23241,4,4648.2,97612.2,3/17/2019,4:36:00 PM,Cash,92964,4.761904762,4648.2,4.2
+618-34-8551,Colombo,Colombo,Normal,Female,Travel Packs & Gear,27954,2,2795.4,58703.4,1/16/2019,6:41:00 PM,Credit Card,55908,4.761904762,2795.4,8.5
+257-60-7754,Colombo,Colombo,Normal,Female,Mobile & Accessories,15069,4,3013.8,63289.8,1/8/2019,5:12:00 PM,Cash,60276,4.761904762,3013.8,9
+559-61-5987,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,5325,1,266.25,5591.25,1/14/2019,10:38:00 AM,Cash,5325,4.761904762,266.25,8.6
+189-55-2313,Kandy,Kandy,Normal,Female,Apparel & Footwear,18654,10,9327,195867,1/31/2019,10:33:00 AM,Mobile Payment,186540,4.761904762,9327,6
+565-91-4567,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,3225,8,1290,27090,3/15/2019,2:38:00 PM,Mobile Payment,25800,4.761904762,1290,6.2
+380-60-5336,Colombo,Colombo,Normal,Female,Mobile & Accessories,12078,10,6039,126819,2/24/2019,6:06:00 PM,Credit Card,120780,4.761904762,6039,5
+815-04-6282,Kandy,Kandy,Member,Female,Travel Packs & Gear,19491,5,4872.75,102327.75,2/8/2019,12:52:00 PM,Credit Card,97455,4.761904762,4872.75,6.5
+674-56-6360,Colombo,Colombo,Normal,Male,Mobile & Accessories,28545,1,1427.25,29972.25,3/22/2019,2:00:00 PM,Cash,28545,4.761904762,1427.25,6
+778-34-2523,Colombo,Colombo,Member,Female,Mobile & Accessories,14586,8,5834.4,122522.4,1/24/2019,10:57:00 AM,Cash,116688,4.761904762,5834.4,5
+499-27-7781,Galle,Galle,Normal,Female,Grocery & Snacks,15963,8,6385.2,134089.2,3/14/2019,4:45:00 PM,Mobile Payment,127704,4.761904762,6385.2,5
+477-59-2456,Kandy,Kandy,Normal,Female,Apparel & Footwear,13632,7,4771.2,100195.2,1/23/2019,11:15:00 AM,Cash,95424,4.761904762,4771.2,9.2
+832-51-6761,Colombo,Colombo,Normal,Male,Grocery & Snacks,10164,8,4065.6,85377.6,1/19/2019,8:29:00 PM,Mobile Payment,81312,4.761904762,4065.6,9.6
+869-11-3082,Galle,Galle,Member,Male,Ayurvedic & Personal Care,28848,4,5769.6,121161.6,1/27/2019,8:03:00 PM,Credit Card,115392,4.761904762,5769.6,8.4
+190-59-3964,Galle,Galle,Member,Male,Grocery & Snacks,14148,5,3537,74277,2/3/2019,2:35:00 PM,Credit Card,70740,4.761904762,3537,6
+366-43-6862,Galle,Galle,Normal,Male,Mobile & Accessories,15867,4,3173.4,66641.4,3/25/2019,4:32:00 PM,Mobile Payment,63468,4.761904762,3173.4,6.7
+186-43-8965,Colombo,Colombo,Member,Female,Household Essentials,14304,2,1430.4,30038.4,2/24/2019,10:10:00 AM,Credit Card,28608,4.761904762,1430.4,4.1
+784-21-9238,Kandy,Kandy,Member,Male,Travel Packs & Gear,3051,1,152.55,3203.55,2/7/2019,2:15:00 PM,Cash,3051,4.761904762,152.55,5.9
+276-75-6884,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,20613,3,3091.95,64930.95,3/4/2019,10:05:00 AM,Cash,61839,4.761904762,3091.95,8.7
+109-86-4363,Galle,Galle,Member,Female,Travel Packs & Gear,18024,7,6308.4,132476.4,2/14/2019,11:36:00 AM,Credit Card,126168,4.761904762,6308.4,4.5
+569-76-2760,Colombo,Colombo,Member,Female,Travel Packs & Gear,6603,4,1320.6,27732.6,1/29/2019,6:15:00 PM,Credit Card,26412,4.761904762,1320.6,6.6
+222-42-0244,Galle,Galle,Member,Female,Ayurvedic & Personal Care,21633,9,9734.85,204431.85,1/28/2019,1:53:00 PM,Credit Card,194697,4.761904762,9734.85,7.7
+760-53-9233,Colombo,Colombo,Member,Male,Apparel & Footwear,12384,3,1857.6,39009.6,3/26/2019,6:37:00 PM,Credit Card,37152,4.761904762,1857.6,8.5
+538-22-0304,Kandy,Kandy,Normal,Male,Mobile & Accessories,19485,10,9742.5,204592.5,3/24/2019,6:27:00 PM,Cash,194850,4.761904762,9742.5,5.2
+416-17-9926,Colombo,Colombo,Member,Female,Mobile & Accessories,22266,10,11133,233793,1/1/2019,2:42:00 PM,Credit Card,222660,4.761904762,11133,4.3
+237-44-6163,Colombo,Colombo,Normal,Male,Mobile & Accessories,3168,8,1267.2,26611.2,1/24/2019,5:43:00 PM,Cash,25344,4.761904762,1267.2,7.6
+636-17-0325,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,18771,4,3754.2,78838.2,2/25/2019,6:37:00 PM,Cash,75084,4.761904762,3754.2,9.5
+343-75-9322,Galle,Galle,Member,Female,Travel Packs & Gear,3555,8,1422,29862,1/9/2019,4:34:00 PM,Cash,28440,4.761904762,1422,4.1
+528-14-9470,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,27390,1,1369.5,28759.5,2/14/2019,2:42:00 PM,Mobile Payment,27390,4.761904762,1369.5,9.2
+427-45-9297,Galle,Galle,Member,Female,Household Essentials,12219,7,4276.65,89809.65,3/12/2019,11:01:00 AM,Mobile Payment,85533,4.761904762,4276.65,5.4
+807-34-3742,Colombo,Colombo,Normal,Male,Apparel & Footwear,15714,1,785.7,16499.7,3/26/2019,7:44:00 PM,Cash,15714,4.761904762,785.7,5.8
+288-62-1085,Colombo,Colombo,Member,Male,Apparel & Footwear,11562,5,2890.5,60700.5,1/9/2019,1:34:00 PM,Mobile Payment,57810,4.761904762,2890.5,5.6
+670-71-7306,Galle,Galle,Normal,Male,Travel Packs & Gear,13389,6,4016.7,84350.7,1/2/2019,8:08:00 PM,Credit Card,80334,4.761904762,4016.7,5.1
+660-29-7083,Kandy,Kandy,Normal,Male,Mobile & Accessories,16761,10,8380.5,175990.5,1/15/2019,3:01:00 PM,Cash,167610,4.761904762,8380.5,5.8
+271-77-8740,Kandy,Kandy,Member,Female,Travel Packs & Gear,8766,6,2629.8,55225.8,1/1/2019,11:40:00 AM,Mobile Payment,52596,4.761904762,2629.8,5
+497-36-0989,Colombo,Colombo,Normal,Male,Apparel & Footwear,15582,3,2337.3,49083.3,2/15/2019,3:21:00 PM,Cash,46746,4.761904762,2337.3,7.9
+291-59-1384,Galle,Galle,Normal,Male,Mobile & Accessories,18090,1,904.5,18994.5,2/28/2019,5:38:00 PM,Cash,18090,4.761904762,904.5,6
+860-73-6466,Colombo,Colombo,Member,Female,Travel Packs & Gear,11841,2,1184.1,24866.1,3/2/2019,4:16:00 PM,Credit Card,23682,4.761904762,1184.1,5
+549-23-9016,Kandy,Kandy,Member,Female,Grocery & Snacks,4461,2,446.1,9368.1,2/13/2019,6:15:00 PM,Credit Card,8922,4.761904762,446.1,8.9
+896-34-0956,Colombo,Colombo,Normal,Male,Apparel & Footwear,6396,1,319.8,6715.8,1/26/2019,12:43:00 PM,Cash,6396,4.761904762,319.8,5.9
+804-38-3935,Colombo,Colombo,Member,Male,Mobile & Accessories,28134,3,4220.1,88622.1,1/30/2019,11:32:00 AM,Credit Card,84402,4.761904762,4220.1,5.9
+585-90-0249,Colombo,Colombo,Member,Male,Mobile & Accessories,21978,1,1098.9,23076.9,1/27/2019,6:08:00 PM,Mobile Payment,21978,4.761904762,1098.9,9.7
+862-29-5914,Kandy,Kandy,Normal,Female,Travel Packs & Gear,6714,1,335.7,7049.7,1/30/2019,5:08:00 PM,Credit Card,6714,4.761904762,335.7,8.6
+845-94-6841,Kandy,Kandy,Member,Female,Grocery & Snacks,21864,9,9838.8,206614.8,1/8/2019,7:38:00 PM,Cash,196776,4.761904762,9838.8,4
+125-45-2293,Colombo,Colombo,Normal,Female,Apparel & Footwear,29730,6,8919,187299,1/19/2019,1:11:00 PM,Cash,178380,4.761904762,8919,4.2
+843-73-4724,Colombo,Colombo,Normal,Male,Apparel & Footwear,22230,1,1111.5,23341.5,1/25/2019,11:05:00 AM,Cash,22230,4.761904762,1111.5,9.2
+409-33-9708,Colombo,Colombo,Normal,Female,Apparel & Footwear,29544,2,2954.4,62042.4,2/19/2019,10:12:00 AM,Mobile Payment,59088,4.761904762,2954.4,9.2
+658-66-3967,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,15957,7,5584.95,117283.95,1/14/2019,3:42:00 PM,Mobile Payment,111699,4.761904762,5584.95,5
+866-70-2814,Galle,Galle,Normal,Female,Mobile & Accessories,15837,10,7918.5,166288.5,2/25/2019,11:58:00 AM,Mobile Payment,158370,4.761904762,7918.5,10
+160-22-2687,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,28785,5,7196.25,151121.25,1/23/2019,2:21:00 PM,Mobile Payment,143925,4.761904762,7196.25,8.8
+895-03-6665,Galle,Galle,Normal,Female,Apparel & Footwear,10953,9,4928.85,103505.85,2/16/2019,10:52:00 AM,Cash,98577,4.761904762,4928.85,4.2
+770-42-8960,Galle,Galle,Normal,Male,Grocery & Snacks,6336,8,2534.4,53222.4,1/1/2019,7:31:00 PM,Cash,50688,4.761904762,2534.4,6.3
+748-45-2862,Colombo,Colombo,Member,Female,Household Essentials,8493,4,1698.6,35670.6,3/7/2019,6:35:00 PM,Cash,33972,4.761904762,1698.6,8.2
+234-36-2483,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,17277,6,5183.1,108845.1,2/15/2019,1:51:00 PM,Cash,103662,4.761904762,5183.1,5.1
+316-66-3011,Colombo,Colombo,Member,Female,Grocery & Snacks,14289,9,6430.05,135031.05,1/23/2019,12:35:00 PM,Cash,128601,4.761904762,6430.05,5
+848-95-6252,Kandy,Kandy,Member,Female,Household Essentials,25881,1,1294.05,27175.05,2/20/2019,1:24:00 PM,Mobile Payment,25881,4.761904762,1294.05,7
+840-76-5966,Colombo,Colombo,Member,Male,Travel Packs & Gear,3828,2,382.8,8038.8,1/8/2019,6:06:00 PM,Mobile Payment,7656,4.761904762,382.8,7.8
+152-03-4217,Galle,Galle,Normal,Female,Household Essentials,3384,9,1522.8,31978.8,3/17/2019,11:55:00 AM,Credit Card,30456,4.761904762,1522.8,4.3
+533-66-5566,Galle,Galle,Normal,Female,Household Essentials,15321,7,5362.35,112609.35,1/12/2019,11:42:00 AM,Cash,107247,4.761904762,5362.35,7
+124-31-1458,Colombo,Colombo,Member,Female,Mobile & Accessories,23877,3,3581.55,75212.55,1/8/2019,2:30:00 PM,Cash,71631,4.761904762,3581.55,6.6
+176-78-1170,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,10143,3,1521.45,31950.45,1/26/2019,3:11:00 PM,Mobile Payment,30429,4.761904762,1521.45,7.3
+361-59-0574,Galle,Galle,Member,Male,Travel Packs & Gear,27159,8,10863.6,228135.6,3/15/2019,2:48:00 PM,Credit Card,217272,4.761904762,10863.6,6.5
+101-81-4070,Kandy,Kandy,Member,Female,Ayurvedic & Personal Care,18846,2,1884.6,39576.6,1/17/2019,12:36:00 PM,Mobile Payment,37692,4.761904762,1884.6,4.9
+631-34-1880,Kandy,Kandy,Member,Male,Grocery & Snacks,7293,3,1093.95,22972.95,1/8/2019,7:09:00 PM,Credit Card,21879,4.761904762,1093.95,4.3
+852-82-2749,Colombo,Colombo,Normal,Male,Travel Packs & Gear,19377,4,3875.4,81383.4,1/6/2019,1:35:00 PM,Mobile Payment,77508,4.761904762,3875.4,9.3
+873-14-6353,Colombo,Colombo,Member,Male,Grocery & Snacks,7446,7,2606.1,54728.1,2/16/2019,10:33:00 AM,Credit Card,52122,4.761904762,2606.1,7.1
+584-66-4073,Kandy,Kandy,Normal,Male,Apparel & Footwear,16950,1,847.5,17797.5,3/13/2019,3:45:00 PM,Mobile Payment,16950,4.761904762,847.5,9.6
+544-55-9589,Galle,Galle,Member,Female,Mobile & Accessories,6429,10,3214.5,67504.5,1/28/2019,11:51:00 AM,Cash,64290,4.761904762,3214.5,6.2
+166-19-2553,Colombo,Colombo,Member,Male,Travel Packs & Gear,26718,6,8015.4,168323.4,1/18/2019,5:26:00 PM,Cash,160308,4.761904762,8015.4,9.9
+737-88-5876,Colombo,Colombo,Member,Male,Household Essentials,6987,4,1397.4,29345.4,3/19/2019,11:52:00 AM,Credit Card,27948,4.761904762,1397.4,5.9
+154-87-7367,Kandy,Kandy,Normal,Male,Household Essentials,19578,8,7831.2,164455.2,3/15/2019,2:04:00 PM,Mobile Payment,156624,4.761904762,7831.2,6.3
+885-56-0389,Kandy,Kandy,Member,Male,Apparel & Footwear,15705,1,785.25,16490.25,2/12/2019,5:49:00 PM,Cash,15705,4.761904762,785.25,4
+608-05-3804,Galle,Galle,Member,Male,Mobile & Accessories,11925,1,596.25,12521.25,2/25/2019,8:19:00 PM,Cash,11925,4.761904762,596.25,6.1
+448-61-3783,Colombo,Colombo,Normal,Female,Mobile & Accessories,27006,8,10802.4,226850.4,3/21/2019,4:08:00 PM,Credit Card,216048,4.761904762,10802.4,4.5
+761-49-0439,Galle,Galle,Member,Female,Mobile & Accessories,3630,8,1452,30492,1/19/2019,10:17:00 AM,Mobile Payment,29040,4.761904762,1452,8.6
+490-95-0021,Galle,Galle,Member,Female,Grocery & Snacks,9963,10,4981.5,104611.5,1/8/2019,2:25:00 PM,Mobile Payment,99630,4.761904762,4981.5,6
+115-38-7388,Kandy,Kandy,Member,Female,Apparel & Footwear,3054,8,1221.6,25653.6,3/30/2019,12:51:00 PM,Credit Card,24432,4.761904762,1221.6,9.5
+311-13-6971,Galle,Galle,Member,Male,Travel Packs & Gear,9597,10,4798.5,100768.5,2/20/2019,3:18:00 PM,Credit Card,95970,4.761904762,4798.5,9.9
+291-55-6563,Colombo,Colombo,Member,Female,Household Essentials,10326,6,3097.8,65053.8,3/30/2019,12:45:00 PM,Mobile Payment,61956,4.761904762,3097.8,7.5
+548-48-3156,Colombo,Colombo,Member,Female,Grocery & Snacks,25002,2,2500.2,52504.2,3/19/2019,1:37:00 PM,Cash,50004,4.761904762,2500.2,7.6
+460-93-5834,Colombo,Colombo,Normal,Male,Travel Packs & Gear,13674,7,4785.9,100503.9,1/13/2019,10:03:00 AM,Cash,95718,4.761904762,4785.9,5
+325-89-4209,Colombo,Colombo,Member,Male,Grocery & Snacks,26370,1,1318.5,27688.5,2/5/2019,7:42:00 PM,Mobile Payment,26370,4.761904762,1318.5,6.7
+884-80-6021,Colombo,Colombo,Member,Female,Mobile & Accessories,22041,10,11020.5,231430.5,3/23/2019,1:14:00 PM,Mobile Payment,220410,4.761904762,11020.5,9.5
+137-74-8729,Kandy,Kandy,Normal,Female,Apparel & Footwear,3657,8,1462.8,30718.8,3/13/2019,12:47:00 PM,Mobile Payment,29256,4.761904762,1462.8,6.8
+880-46-5796,Colombo,Colombo,Member,Male,Travel Packs & Gear,23076,10,11538,242298,3/17/2019,7:53:00 PM,Mobile Payment,230760,4.761904762,11538,5.6
+389-70-2397,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,25098,5,6274.5,131764.5,2/21/2019,10:26:00 AM,Cash,125490,4.761904762,6274.5,7.2
+114-35-5271,Galle,Galle,Normal,Female,Mobile & Accessories,17373,8,6949.2,145933.2,2/7/2019,3:06:00 PM,Cash,138984,4.761904762,6949.2,8.1
+607-76-6216,Kandy,Kandy,Member,Female,Apparel & Footwear,27747,5,6936.75,145671.75,3/2/2019,4:35:00 PM,Credit Card,138735,4.761904762,6936.75,8.6
+715-20-1673,Galle,Galle,Normal,Male,Mobile & Accessories,8514,5,2128.5,44698.5,3/6/2019,8:57:00 PM,Cash,42570,4.761904762,2128.5,9.4
+811-35-1094,Galle,Galle,Member,Male,Mobile & Accessories,15135,6,4540.5,95350.5,2/6/2019,3:16:00 PM,Credit Card,90810,4.761904762,4540.5,8.9
+699-88-1972,Galle,Galle,Normal,Male,Ayurvedic & Personal Care,29748,8,11899.2,249883.2,1/28/2019,5:47:00 PM,Credit Card,237984,4.761904762,11899.2,4.2
+781-84-8059,Kandy,Kandy,Normal,Male,Apparel & Footwear,18222,7,6377.7,133931.7,1/18/2019,4:23:00 PM,Mobile Payment,127554,4.761904762,6377.7,5
+409-49-6995,Kandy,Kandy,Member,Female,Grocery & Snacks,14181,6,4254.3,89340.3,2/5/2019,10:17:00 AM,Cash,85086,4.761904762,4254.3,8.8
+725-54-0677,Kandy,Kandy,Member,Male,Ayurvedic & Personal Care,25680,7,8988,188748,3/2/2019,1:50:00 PM,Cash,179760,4.761904762,8988,5.3
+146-09-5432,Colombo,Colombo,Member,Male,Grocery & Snacks,10512,9,4730.4,99338.4,2/9/2019,7:17:00 PM,Mobile Payment,94608,4.761904762,4730.4,4.6
+377-79-7592,Kandy,Kandy,Member,Female,Mobile & Accessories,13452,9,6053.4,127121.4,1/14/2019,2:00:00 PM,Credit Card,121068,4.761904762,6053.4,7.5
+509-10-0516,Galle,Galle,Normal,Male,Household Essentials,13791,4,2758.2,57922.2,2/9/2019,12:02:00 PM,Mobile Payment,55164,4.761904762,2758.2,5.1
+595-94-9924,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,8319,5,2079.75,43674.75,3/26/2019,8:21:00 PM,Credit Card,41595,4.761904762,2079.75,4.2
+865-41-9075,Colombo,Colombo,Normal,Male,Grocery & Snacks,3459,7,1210.65,25423.65,1/28/2019,5:35:00 PM,Cash,24213,4.761904762,1210.65,8.1
+545-07-8534,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,17496,2,1749.6,36741.6,2/14/2019,12:42:00 PM,Mobile Payment,34992,4.761904762,1749.6,6
+118-62-1812,Kandy,Kandy,Member,Female,Household Essentials,23514,4,4702.8,98758.8,3/24/2019,5:56:00 PM,Cash,94056,4.761904762,4702.8,7.9
+450-42-3339,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,25383,10,12691.5,266521.5,2/9/2019,6:58:00 PM,Credit Card,253830,4.761904762,12691.5,8.8
+851-98-3555,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,24864,5,6216,130536,3/24/2019,2:08:00 PM,Credit Card,124320,4.761904762,6216,6.6
+186-71-5196,Colombo,Colombo,Member,Female,Grocery & Snacks,23862,2,2386.2,50110.2,3/27/2019,4:30:00 PM,Mobile Payment,47724,4.761904762,2386.2,6.2
+624-01-8356,Galle,Galle,Normal,Female,Household Essentials,14703,10,7351.5,154381.5,1/27/2019,10:44:00 AM,Credit Card,147030,4.761904762,7351.5,4.2
+313-66-9943,Galle,Galle,Member,Female,Grocery & Snacks,8745,3,1311.75,27546.75,3/27/2019,8:29:00 PM,Credit Card,26235,4.761904762,1311.75,7.3
+151-27-8496,Kandy,Kandy,Normal,Female,Mobile & Accessories,16839,4,3367.8,70723.8,1/19/2019,11:43:00 AM,Mobile Payment,67356,4.761904762,3367.8,8.6
+453-33-6436,Colombo,Colombo,Normal,Female,Household Essentials,27936,8,11174.4,234662.4,2/7/2019,10:09:00 AM,Cash,223488,4.761904762,11174.4,6.8
+522-57-8364,Colombo,Colombo,Member,Male,Apparel & Footwear,15402,8,6160.8,129376.8,1/31/2019,10:00:00 AM,Mobile Payment,123216,4.761904762,6160.8,7.6
+459-45-2396,Colombo,Colombo,Member,Female,Grocery & Snacks,29880,3,4482,94122,2/25/2019,6:45:00 PM,Cash,89640,4.761904762,4482,5.8
+717-96-4189,Kandy,Kandy,Normal,Female,Mobile & Accessories,10647,6,3194.1,67076.1,2/2/2019,12:40:00 PM,Cash,63882,4.761904762,3194.1,4.1
+722-13-2115,Kandy,Kandy,Member,Male,Travel Packs & Gear,12855,1,642.75,13497.75,3/14/2019,3:36:00 PM,Credit Card,12855,4.761904762,642.75,9.3
+749-81-8133,Colombo,Colombo,Normal,Female,Apparel & Footwear,28401,4,5680.2,119284.2,3/11/2019,12:04:00 PM,Cash,113604,4.761904762,5680.2,6.8
+777-67-2495,Galle,Galle,Normal,Male,Household Essentials,20691,3,3103.65,65176.65,2/22/2019,11:26:00 AM,Mobile Payment,62073,4.761904762,3103.65,8.7
+636-98-3364,Galle,Galle,Member,Female,Mobile & Accessories,7878,3,1181.7,24815.7,3/2/2019,12:36:00 PM,Mobile Payment,23634,4.761904762,1181.7,6.3
+246-55-6923,Kandy,Kandy,Member,Female,Household Essentials,10737,9,4831.65,101464.65,3/10/2019,3:06:00 PM,Credit Card,96633,4.761904762,4831.65,5.1
+181-82-6255,Galle,Galle,Normal,Female,Household Essentials,4911,6,1473.3,30939.3,2/8/2019,10:58:00 AM,Cash,29466,4.761904762,1473.3,7
+838-02-1821,Kandy,Kandy,Member,Female,Household Essentials,3819,2,381.9,8019.9,2/22/2019,12:10:00 PM,Credit Card,7638,4.761904762,381.9,5.2
+887-42-0517,Kandy,Kandy,Normal,Female,Travel Packs & Gear,24942,7,8729.7,183323.7,1/10/2019,10:31:00 AM,Credit Card,174594,4.761904762,8729.7,6.6
+457-12-0244,Kandy,Kandy,Member,Female,Travel Packs & Gear,10566,6,3169.8,66565.8,3/14/2019,1:49:00 PM,Mobile Payment,63396,4.761904762,3169.8,6.5
+226-34-0034,Galle,Galle,Normal,Female,Mobile & Accessories,4134,4,826.8,17362.8,1/10/2019,11:10:00 AM,Mobile Payment,16536,4.761904762,826.8,9
+321-49-7382,Galle,Galle,Member,Male,Travel Packs & Gear,26493,1,1324.65,27817.65,2/15/2019,5:38:00 PM,Credit Card,26493,4.761904762,1324.65,5.2
+397-25-8725,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,11886,9,5348.7,112322.7,1/13/2019,5:54:00 PM,Credit Card,106974,4.761904762,5348.7,6.8
+431-66-2305,Galle,Galle,Normal,Female,Mobile & Accessories,26475,9,11913.75,250188.75,2/15/2019,8:51:00 PM,Credit Card,238275,4.761904762,11913.75,7.6
+825-94-5922,Galle,Galle,Normal,Male,Travel Packs & Gear,7593,2,759.3,15945.3,3/2/2019,7:26:00 PM,Mobile Payment,15186,4.761904762,759.3,7.2
+641-62-7288,Galle,Galle,Normal,Male,Household Essentials,29976,6,8992.8,188848.8,3/24/2019,1:33:00 PM,Mobile Payment,179856,4.761904762,8992.8,7.1
+756-93-1854,Kandy,Kandy,Member,Female,Apparel & Footwear,25005,2,2500.5,52510.5,2/2/2019,2:05:00 PM,Credit Card,50010,4.761904762,2500.5,9.5
+243-55-8457,Colombo,Colombo,Normal,Female,Grocery & Snacks,22332,10,11166,234486,2/27/2019,11:40:00 AM,Mobile Payment,223320,4.761904762,11166,5.1
+458-10-8612,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,19224,7,6728.4,141296.4,1/20/2019,12:27:00 PM,Mobile Payment,134568,4.761904762,6728.4,7.6
+501-61-1753,Galle,Galle,Normal,Female,Household Essentials,18945,6,5683.5,119353.5,1/3/2019,8:24:00 PM,Mobile Payment,113670,4.761904762,5683.5,9.8
+235-06-8510,Kandy,Kandy,Member,Male,Household Essentials,25716,3,3857.4,81005.4,1/24/2019,8:59:00 PM,Mobile Payment,77148,4.761904762,3857.4,5.1
+433-08-7822,Kandy,Kandy,Normal,Female,Ayurvedic & Personal Care,23667,7,8283.45,173952.45,1/5/2019,7:48:00 PM,Mobile Payment,165669,4.761904762,8283.45,7.5
+361-85-2571,Colombo,Colombo,Normal,Female,Travel Packs & Gear,26844,5,6711,140931,3/30/2019,10:18:00 AM,Cash,134220,4.761904762,6711,7.4
+131-70-8179,Colombo,Colombo,Member,Female,Ayurvedic & Personal Care,27627,3,4144.05,87025.05,2/17/2019,4:27:00 PM,Cash,82881,4.761904762,4144.05,4.2
+500-02-2261,Kandy,Kandy,Normal,Female,Grocery & Snacks,17187,6,5156.1,108278.1,3/21/2019,5:04:00 PM,Mobile Payment,103122,4.761904762,5156.1,5.9
+720-72-2436,Colombo,Colombo,Normal,Male,Grocery & Snacks,19956,4,3991.2,83815.2,3/2/2019,6:14:00 PM,Mobile Payment,79824,4.761904762,3991.2,6.9
+702-83-5291,Kandy,Kandy,Member,Male,Apparel & Footwear,29946,9,13475.7,282989.7,3/27/2019,10:43:00 AM,Cash,269514,4.761904762,13475.7,6.6
+809-69-9497,Colombo,Colombo,Normal,Female,Household Essentials,13704,10,6852,143892,1/19/2019,7:30:00 PM,Mobile Payment,137040,4.761904762,6852,5.7
+449-16-6770,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,15237,5,3809.25,79994.25,2/19/2019,2:53:00 PM,Credit Card,76185,4.761904762,3809.25,5.3
+333-23-2632,Colombo,Colombo,Member,Male,Ayurvedic & Personal Care,3024,7,1058.4,22226.4,3/28/2019,8:14:00 PM,Cash,21168,4.761904762,1058.4,4.2
+489-82-1237,Colombo,Colombo,Normal,Female,Mobile & Accessories,28164,7,9857.4,207005.4,1/5/2019,11:51:00 AM,Credit Card,197148,4.761904762,9857.4,7.3
+859-97-6048,Kandy,Kandy,Member,Male,Mobile & Accessories,25275,2,2527.5,53077.5,3/26/2019,2:13:00 PM,Credit Card,50550,4.761904762,2527.5,5.3
+676-10-2200,Galle,Galle,Member,Male,Apparel & Footwear,16134,1,806.7,16940.7,2/3/2019,8:13:00 PM,Mobile Payment,16134,4.761904762,806.7,4.7
+373-88-1424,Kandy,Kandy,Member,Male,Household Essentials,10743,5,2685.75,56400.75,2/6/2019,6:44:00 PM,Mobile Payment,53715,4.761904762,2685.75,7.9
+365-16-4334,Galle,Galle,Normal,Female,Grocery & Snacks,7929,8,3171.6,66603.6,2/24/2019,2:26:00 PM,Mobile Payment,63432,4.761904762,3171.6,8.9
+503-21-4385,Galle,Galle,Member,Male,Ayurvedic & Personal Care,11973,3,1795.95,37714.95,2/21/2019,12:40:00 PM,Mobile Payment,35919,4.761904762,1795.95,9.3
+305-89-2768,Galle,Galle,Member,Female,Household Essentials,6570,3,985.5,20695.5,1/9/2019,6:43:00 PM,Mobile Payment,19710,4.761904762,985.5,4.7
+574-80-1489,Galle,Galle,Member,Female,Grocery & Snacks,18855,4,3771,79191,2/25/2019,1:22:00 PM,Mobile Payment,75420,4.761904762,3771,8.7
+784-08-0310,Kandy,Kandy,Member,Female,Grocery & Snacks,6312,4,1262.4,26510.4,1/13/2019,1:58:00 PM,Cash,25248,4.761904762,1262.4,7.6
+200-40-6154,Galle,Galle,Member,Male,Household Essentials,19773,6,5931.9,124569.9,2/9/2019,11:45:00 AM,Cash,118638,4.761904762,5931.9,5.7
+846-10-0341,Colombo,Colombo,Normal,Female,Apparel & Footwear,12771,7,4469.85,93866.85,1/6/2019,11:51:00 AM,Cash,89397,4.761904762,4469.85,6.8
+577-34-7579,Kandy,Kandy,Member,Male,Grocery & Snacks,15147,9,6816.15,143139.15,1/10/2019,5:16:00 PM,Cash,136323,4.761904762,6816.15,5.4
+430-02-3888,Galle,Galle,Normal,Male,Mobile & Accessories,13806,6,4141.8,86977.8,2/7/2019,3:55:00 PM,Cash,82836,4.761904762,4141.8,7.1
+867-47-1948,Kandy,Kandy,Normal,Female,Household Essentials,4740,10,2370,49770,1/9/2019,12:07:00 PM,Cash,47400,4.761904762,2370,7.8
+384-59-6655,Colombo,Colombo,Member,Female,Grocery & Snacks,29598,9,13319.1,279701.1,2/19/2019,3:07:00 PM,Cash,266382,4.761904762,13319.1,8.4
+256-58-3609,Kandy,Kandy,Member,Male,Apparel & Footwear,27594,1,1379.7,28973.7,3/18/2019,3:29:00 PM,Cash,27594,4.761904762,1379.7,9.8
+324-92-3863,Colombo,Colombo,Member,Male,Mobile & Accessories,6267,2,626.7,13160.7,2/5/2019,6:45:00 PM,Cash,12534,4.761904762,626.7,9.8
+593-08-5916,Colombo,Colombo,Normal,Female,Apparel & Footwear,4650,1,232.5,4882.5,3/19/2019,3:23:00 PM,Credit Card,4650,4.761904762,232.5,7.4
+364-34-2972,Kandy,Kandy,Member,Male,Mobile & Accessories,29046,3,4356.9,91494.9,3/30/2019,8:37:00 PM,Cash,87138,4.761904762,4356.9,6.7
+794-42-3736,Galle,Galle,Normal,Male,Grocery & Snacks,9999,2,999.9,20997.9,1/26/2019,2:41:00 PM,Credit Card,19998,4.761904762,999.9,6.4
+172-42-8274,Galle,Galle,Normal,Female,Mobile & Accessories,11481,2,1148.1,24110.1,3/2/2019,6:18:00 PM,Credit Card,22962,4.761904762,1148.1,5.8
+558-60-5016,Colombo,Colombo,Normal,Female,Household Essentials,9990,9,4495.5,94405.5,3/4/2019,3:27:00 PM,Mobile Payment,89910,4.761904762,4495.5,7.2
+195-06-0432,Colombo,Colombo,Member,Male,Household Essentials,24303,3,3645.45,76554.45,1/13/2019,12:55:00 PM,Credit Card,72909,4.761904762,3645.45,9.3
+605-03-2706,Colombo,Colombo,Normal,Female,Ayurvedic & Personal Care,4740,3,711,14931,3/25/2019,6:02:00 PM,Cash,14220,4.761904762,711,9.5
+214-30-2776,Galle,Galle,Member,Female,Mobile & Accessories,10347,5,2586.75,54321.75,3/11/2019,7:44:00 PM,Credit Card,51735,4.761904762,2586.75,9
+746-04-1077,Galle,Galle,Member,Female,Grocery & Snacks,25389,10,12694.5,266584.5,1/1/2019,11:36:00 AM,Credit Card,253890,4.761904762,12694.5,9
+448-34-8700,Galle,Galle,Member,Male,Household Essentials,11073,7,3875.55,81386.55,2/10/2019,1:51:00 PM,Mobile Payment,77511,4.761904762,3875.55,6.7
+452-04-8808,Galle,Galle,Normal,Male,Mobile & Accessories,26124,7,9143.4,192011.4,1/26/2019,3:17:00 PM,Cash,182868,4.761904762,9143.4,5.5
+531-56-4728,Colombo,Colombo,Normal,Male,Household Essentials,24024,3,3603.6,75675.6,2/11/2019,3:29:00 PM,Cash,72072,4.761904762,3603.6,5.4
+744-82-9138,Kandy,Kandy,Normal,Male,Apparel & Footwear,25839,2,2583.9,54261.9,2/7/2019,5:59:00 PM,Cash,51678,4.761904762,2583.9,8.2
+883-69-1285,Galle,Galle,Member,Male,Apparel & Footwear,14976,2,1497.6,31449.6,3/6/2019,11:55:00 AM,Credit Card,29952,4.761904762,1497.6,7
+221-25-5073,Colombo,Colombo,Normal,Female,Grocery & Snacks,22398,4,4479.6,94071.6,3/4/2019,10:39:00 AM,Cash,89592,4.761904762,4479.6,8.5
+518-71-6847,Galle,Galle,Member,Male,Grocery & Snacks,7980,6,2394,50274,2/26/2019,3:10:00 PM,Mobile Payment,47880,4.761904762,2394,4.9
+156-20-0370,Galle,Galle,Normal,Female,Mobile & Accessories,7635,1,381.75,8016.75,3/10/2019,6:10:00 PM,Credit Card,7635,4.761904762,381.75,5.1
+151-33-7434,Galle,Galle,Normal,Female,Grocery & Snacks,20331,1,1016.55,21347.55,2/4/2019,8:43:00 PM,Credit Card,20331,4.761904762,1016.55,6.5
+728-47-9078,Kandy,Kandy,Member,Male,Grocery & Snacks,17877,4,3575.4,75083.4,1/19/2019,12:46:00 PM,Cash,71508,4.761904762,3575.4,9.8
+809-46-1866,Colombo,Colombo,Normal,Male,Ayurvedic & Personal Care,17445,4,3489,73269,1/23/2019,5:44:00 PM,Cash,69780,4.761904762,3489,8.4
+139-32-4183,Colombo,Colombo,Member,Female,Travel Packs & Gear,29244,9,13159.8,276355.8,3/14/2019,2:19:00 PM,Mobile Payment,263196,4.761904762,13159.8,7.4
+148-41-7930,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,29988,7,10495.8,220411.8,1/23/2019,10:33:00 AM,Cash,209916,4.761904762,10495.8,6.1
+189-40-5216,Kandy,Kandy,Normal,Male,Mobile & Accessories,28911,7,10118.85,212495.85,1/9/2019,11:40:00 AM,Cash,202377,4.761904762,10118.85,6
+374-38-5555,Galle,Galle,Normal,Female,Apparel & Footwear,19113,5,4778.25,100343.25,2/7/2019,7:30:00 PM,Mobile Payment,95565,4.761904762,4778.25,8.5
+764-44-8999,Galle,Galle,Normal,Female,Ayurvedic & Personal Care,4428,2,442.8,9298.8,2/18/2019,2:42:00 PM,Mobile Payment,8856,4.761904762,442.8,4.3
+552-44-5977,Galle,Galle,Member,Male,Ayurvedic & Personal Care,18600,8,7440,156240,1/3/2019,7:08:00 PM,Credit Card,148800,4.761904762,7440,6.2
+267-62-7380,Kandy,Kandy,Member,Male,Mobile & Accessories,24702,10,12351,259371,3/29/2019,7:12:00 PM,Mobile Payment,247020,4.761904762,12351,4.3
+430-53-4718,Galle,Galle,Member,Male,Ayurvedic & Personal Care,22611,8,9044.4,189932.4,1/28/2019,3:46:00 PM,Credit Card,180888,4.761904762,9044.4,8.4
+886-18-2897,Colombo,Colombo,Normal,Female,Grocery & Snacks,16968,5,4242,89082,3/22/2019,7:06:00 PM,Credit Card,84840,4.761904762,4242,4.5
+602-16-6955,Galle,Galle,Normal,Female,Travel Packs & Gear,22980,10,11490,241290,1/24/2019,6:10:00 PM,Mobile Payment,229800,4.761904762,11490,6
+745-74-0715,Colombo,Colombo,Normal,Male,Mobile & Accessories,17409,2,1740.9,36558.9,3/10/2019,8:46:00 PM,Mobile Payment,34818,4.761904762,1740.9,8.8
+690-01-6631,Galle,Galle,Normal,Male,Apparel & Footwear,5247,10,2623.5,55093.5,2/22/2019,6:35:00 PM,Mobile Payment,52470,4.761904762,2623.5,6.6
+652-49-6720,Kandy,Kandy,Member,Female,Mobile & Accessories,18285,1,914.25,19199.25,2/18/2019,11:40:00 AM,Mobile Payment,18285,4.761904762,914.25,5.9
+233-67-5758,Kandy,Kandy,Normal,Male,Ayurvedic & Personal Care,12105,1,605.25,12710.25,1/29/2019,1:46:00 PM,Mobile Payment,12105,4.761904762,605.25,6.2
+303-96-2227,Galle,Galle,Normal,Female,Household Essentials,29214,10,14607,306747,3/2/2019,5:16:00 PM,Mobile Payment,292140,4.761904762,14607,4.4
+727-02-1313,Colombo,Colombo,Member,Male,Grocery & Snacks,9552,1,477.6,10029.6,2/9/2019,1:22:00 PM,Cash,9552,4.761904762,477.6,7.7
+347-56-2442,Colombo,Colombo,Normal,Male,Household Essentials,19746,1,987.3,20733.3,2/22/2019,3:33:00 PM,Cash,19746,4.761904762,987.3,4.1
+849-09-3807,Colombo,Colombo,Member,Female,Apparel & Footwear,26502,7,9275.7,194789.7,2/18/2019,1:28:00 PM,Cash,185514,4.761904762,9275.7,6.6
