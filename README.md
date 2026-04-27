@@ -28,15 +28,15 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
                                (ii).Data exploration
                                (iii).Data cleaning
                                 (iv).Connection to SQL Database
-3.Load the data from Jupyter Notebook into PostgreSQL Server
+3. Load the data from Jupyter Notebook into PostgreSQL Server
                      (i).Create a new database in SQL
                      (ii).Run Python code to load data into SQL database
                      (iii).Open Sales_insights_sql_queries.sql
                       (iv).Answer Business Questions using SQL Queries
-4.Connect the SQL Database to Power BI
+4. Connect the SQL Database to Power BI
                        (i). Open Sales_insight_data.pbix
                        (ii).Create interactive dashboard in Power BI
-5.Create Project Report and Presentation
+5. Create Project Report and Presentation
                          
 
 
